@@ -1,0 +1,1752 @@
+﻿<?xml version='1.0'?>
+<?mso-application progid='Excel.Sheet'?>
+<s:Workbook xmlns:x="urn:schemas-microsoft-com:office:excel" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:s="urn:schemas-microsoft-com:office:spreadsheet">
+  <s:Styles>
+    <s:Style s:ID="HeaderStyle2">
+      <s:Alignment s:Horizontal="Center" s:WrapText="1" />
+      <s:Borders>
+        <s:Border s:Position="Bottom" s:LineStyle="Continuous" s:Weight="1" />
+        <s:Border s:Position="Left" s:LineStyle="Continuous" s:Weight="1" />
+        <s:Border s:Position="Right" s:LineStyle="Continuous" s:Weight="1" />
+        <s:Border s:Position="Top" s:LineStyle="Continuous" s:Weight="1" />
+      </s:Borders>
+      <s:Font s:Bold="1" s:FontName="Times New Roman" s:Size="8" />
+    </s:Style>
+  </s:Styles>
+  <s:Worksheet s:Name="Лист1">
+    <s:Table>
+      <s:Column s:Width="80" />
+      <s:Column s:Width="80" />
+      <s:Column s:Width="80" />
+      <s:Column s:Width="80" />
+      <s:Column s:Width="80" />
+      <s:Column s:Width="80" />
+      <s:Column s:Width="80" />
+      <s:Column s:Width="80" />
+      <s:Column s:Width="80" />
+      <s:Column s:Width="80" />
+      <s:Column s:Width="80" />
+      <s:Column s:Width="80" />
+      <s:Column s:Width="80" />
+      <s:Column s:Width="80" />
+      <s:Column s:Width="80" />
+      <s:Column s:Width="80" />
+      <s:Row>
+        <s:Cell s:Index="1" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">Район области</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="2" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">Населенный пункт</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="3" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">Фамилия</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="4" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">Имя</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="5" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">Отчество</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="6" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">Дата рождения</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="7" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">Улица</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="8" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">Дом</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="9" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">Корпус</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="10" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">Квартира</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="11" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">Серия документа</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="12" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">Номер документа</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="13" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">Сумма акта</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="14" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">Дата подписания акта</s:Data>
+        </s:Cell>
+      </s:Row>
+      <s:Row>
+        <s:Cell s:Index="1" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">Марксовский</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="2" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">г. Маркс</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="3" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">Власкин</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="4" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">Владимир</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="5" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">Егорович</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="6" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">13.07.1949</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="7" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">пр. Строителей</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="8" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">15</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="9" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String" />
+        </s:Cell>
+        <s:Cell s:Index="10" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">33</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="11" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">64</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="12" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">2001634</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="13" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">12914.00</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="14" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">15.05.2018</s:Data>
+        </s:Cell>
+      </s:Row>
+      <s:Row>
+        <s:Cell s:Index="1" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">Марксовский</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="2" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">г. Маркс</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="3" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">Куч</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="4" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">Валентина</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="5" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">Петровна</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="6" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">16.03.1955</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="7" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">пр. Ленина</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="8" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">78</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="9" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String" />
+        </s:Cell>
+        <s:Cell s:Index="10" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">19</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="11" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">64</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="12" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">057350</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="13" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">13476.00</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="14" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">15.05.2018</s:Data>
+        </s:Cell>
+      </s:Row>
+      <s:Row>
+        <s:Cell s:Index="1" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">Марксовский</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="2" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">г. Маркс</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="3" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">Прусс</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="4" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">Валентина</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="5" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">Акимовна</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="6" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">10.07.1952</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="7" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">Берег Волги</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="8" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">17</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="9" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String" />
+        </s:Cell>
+        <s:Cell s:Index="10" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">1</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="11" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">64</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="12" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">2001139</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="13" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">8675.00</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="14" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">15.05.2018</s:Data>
+        </s:Cell>
+      </s:Row>
+      <s:Row>
+        <s:Cell s:Index="1" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">Марксовский</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="2" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">г. Маркс</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="3" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">Бычик</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="4" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">Любовь</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="5" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">Александровна</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="6" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">23.04.1949</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="7" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">Первомайская</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="8" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">7</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="9" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String" />
+        </s:Cell>
+        <s:Cell s:Index="10" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">57</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="11" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">64</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="12" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">2000790</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="13" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">6457.00</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="14" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">15.05.2018</s:Data>
+        </s:Cell>
+      </s:Row>
+      <s:Row>
+        <s:Cell s:Index="1" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">Марксовский</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="2" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">г. Маркс</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="3" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">Гриценко</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="4" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">Людмила</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="5" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">Николаевна</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="6" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">15.11.1950</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="7" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">Коммунистическая</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="8" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">77</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="9" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String" />
+        </s:Cell>
+        <s:Cell s:Index="10" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">149</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="11" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">64</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="12" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">2001828</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="13" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">9532.00</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="14" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">15.05.2018</s:Data>
+        </s:Cell>
+      </s:Row>
+      <s:Row>
+        <s:Cell s:Index="1" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">Марксовский</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="2" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">г. Маркс</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="3" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">Муртазина</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="4" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">Ольга</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="5" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">Владимировна</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="6" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">10.10.1956</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="7" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">Фабричная</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="8" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">11</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="9" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String" />
+        </s:Cell>
+        <s:Cell s:Index="10" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">55</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="11" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">64</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="12" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">016557</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="13" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">10275.00</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="14" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">15.05.2018</s:Data>
+        </s:Cell>
+      </s:Row>
+      <s:Row>
+        <s:Cell s:Index="1" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">Марксовский</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="2" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">г. Маркс</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="3" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">Еременко</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="4" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">Наталия</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="5" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">Николаевна</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="6" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">17.10.1948</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="7" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">Интернациональная</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="8" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">33/3</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="9" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String" />
+        </s:Cell>
+        <s:Cell s:Index="10" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">4</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="11" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">64</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="12" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">2000179</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="13" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">18389.00</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="14" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">15.05.2018</s:Data>
+        </s:Cell>
+      </s:Row>
+      <s:Row>
+        <s:Cell s:Index="1" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">Марксовский</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="2" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">г. Маркс</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="3" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">Хисяметдинова</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="4" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">Фянуза</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="5" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">Абдулхаевна</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="6" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">12.10.1950</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="7" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">пр. Ленина</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="8" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">101</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="9" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String" />
+        </s:Cell>
+        <s:Cell s:Index="10" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">85</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="11" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">64</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="12" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">040262</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="13" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">8732.00</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="14" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">15.05.2018</s:Data>
+        </s:Cell>
+      </s:Row>
+      <s:Row>
+        <s:Cell s:Index="1" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">Марксовский</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="2" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">г. Маркс</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="3" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">Ломакина</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="4" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">Валентина</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="5" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">Ильинична</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="6" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">18.05.1954</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="7" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">пр. Строителей</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="8" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">28</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="9" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String" />
+        </s:Cell>
+        <s:Cell s:Index="10" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">7</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="11" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">64</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="12" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">016810</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="13" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">14389.00</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="14" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">15.05.2018</s:Data>
+        </s:Cell>
+      </s:Row>
+      <s:Row>
+        <s:Cell s:Index="1" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">Марксовский</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="2" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">г. Маркс</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="3" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">Мазилкин</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="4" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">Анатолий</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="5" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">Алексеевич</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="6" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">24.10.1948</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="7" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">Дорожная</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="8" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">5</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="9" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String" />
+        </s:Cell>
+        <s:Cell s:Index="10" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">25</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="11" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">64</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="12" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">016902</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="13" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">13476.00</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="14" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">15.05.2018</s:Data>
+        </s:Cell>
+      </s:Row>
+      <s:Row>
+        <s:Cell s:Index="1" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">Марксовский</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="2" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">г. Маркс</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="3" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">Савиных</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="4" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">Зоя</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="5" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">Александровна</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="6" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">20.01.1951</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="7" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">пр. Ленина</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="8" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">52"а"</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="9" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String" />
+        </s:Cell>
+        <s:Cell s:Index="10" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">13</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="11" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">64</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="12" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">2001759</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="13" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">6457.00</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="14" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">15.05.2018</s:Data>
+        </s:Cell>
+      </s:Row>
+      <s:Row>
+        <s:Cell s:Index="1" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">Марксовский</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="2" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">г. Маркс</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="3" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">Ефимова</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="4" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">Светлана</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="5" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">Александровна</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="6" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">27.09.1953</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="7" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">Рябиновая</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="8" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">4</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="9" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String" />
+        </s:Cell>
+        <s:Cell s:Index="10" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String" />
+        </s:Cell>
+        <s:Cell s:Index="11" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">64</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="12" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">2001598</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="13" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">16551.00</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="14" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">15.05.2018</s:Data>
+        </s:Cell>
+      </s:Row>
+      <s:Row>
+        <s:Cell s:Index="1" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">Марксовский</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="2" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">г. Маркс</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="3" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">Бударин</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="4" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">Сергей</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="5" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">Михайлович</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="6" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">01.04.1940</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="7" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">Красная</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="8" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">82</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="9" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String" />
+        </s:Cell>
+        <s:Cell s:Index="10" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String" />
+        </s:Cell>
+        <s:Cell s:Index="11" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">64</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="12" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">2000099</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="13" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">15751.00</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="14" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">15.05.2018</s:Data>
+        </s:Cell>
+      </s:Row>
+      <s:Row>
+        <s:Cell s:Index="1" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">Марксовский</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="2" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">г. Маркс</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="3" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">Корнишина</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="4" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">Елена</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="5" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">Александровна</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="6" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">30.05.1946</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="7" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">Колхозная</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="8" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">97</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="9" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String" />
+        </s:Cell>
+        <s:Cell s:Index="10" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">6</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="11" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">64</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="12" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">2000870</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="13" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">18389.00</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="14" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">15.05.2018</s:Data>
+        </s:Cell>
+      </s:Row>
+      <s:Row>
+        <s:Cell s:Index="1" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">Марксовский</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="2" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">г. Маркс</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="3" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">Кочеткова</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="4" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">Зинаида</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="5" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">Петровна</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="6" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">15.06.1939</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="7" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">Коммунистическая</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="8" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">56</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="9" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String" />
+        </s:Cell>
+        <s:Cell s:Index="10" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String" />
+        </s:Cell>
+        <s:Cell s:Index="11" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">64</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="12" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">2000004</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="13" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">12914.00</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="14" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">15.05.2018</s:Data>
+        </s:Cell>
+      </s:Row>
+      <s:Row>
+        <s:Cell s:Index="1" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">Марксовский</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="2" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">г. Маркс</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="3" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">Насонова</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="4" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">Евгения</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="5" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">Николаевна</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="6" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">18.06.1943</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="7" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">пр. Ленина</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="8" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">84</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="9" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String" />
+        </s:Cell>
+        <s:Cell s:Index="10" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">9</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="11" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">64</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="12" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">2001088</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="13" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">3075.00</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="14" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">15.05.2018</s:Data>
+        </s:Cell>
+      </s:Row>
+      <s:Row>
+        <s:Cell s:Index="1" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">Марксовский</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="2" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">г. Маркс</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="3" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">Маслюк</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="4" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">Наталья</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="5" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">Александровна</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="6" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">19.03.1956</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="7" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">Коммунистическая</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="8" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">54</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="9" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String" />
+        </s:Cell>
+        <s:Cell s:Index="10" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">1</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="11" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">64</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="12" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">057212</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="13" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">12914.00</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="14" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">15.05.2018</s:Data>
+        </s:Cell>
+      </s:Row>
+      <s:Row>
+        <s:Cell s:Index="1" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">Марксовский</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="2" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">г. Маркс</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="3" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">Апостолова</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="4" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">Светлана</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="5" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">Петровна</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="6" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">07.04.1953</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="7" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">Красноармейская</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="8" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">50</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="9" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String" />
+        </s:Cell>
+        <s:Cell s:Index="10" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String" />
+        </s:Cell>
+        <s:Cell s:Index="11" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">64</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="12" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">2001499</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="13" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">5475.00</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="14" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">15.05.2018</s:Data>
+        </s:Cell>
+      </s:Row>
+      <s:Row>
+        <s:Cell s:Index="1" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">Марксовский</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="2" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">г. Маркс</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="3" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">Колганова</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="4" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">Валентина</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="5" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">Николаевна</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="6" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">10.05.1949</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="7" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">10-я линия</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="8" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">41/1</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="9" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String" />
+        </s:Cell>
+        <s:Cell s:Index="10" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">24</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="11" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">64</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="12" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">040239</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="13" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">15875.00</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="14" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">15.05.2018</s:Data>
+        </s:Cell>
+      </s:Row>
+      <s:Row>
+        <s:Cell s:Index="1" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">Марксовский</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="2" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">г. Маркс</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="3" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">Крюкова</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="4" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">Нина</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="5" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">Ивановна</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="6" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">03.08.1952</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="7" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">пр. Строителей</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="8" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">17</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="9" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String" />
+        </s:Cell>
+        <s:Cell s:Index="10" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">31</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="11" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">64</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="12" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">2002099</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="13" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">6457.00</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="14" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">15.05.2018</s:Data>
+        </s:Cell>
+      </s:Row>
+      <s:Row>
+        <s:Cell s:Index="1" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">Марксовский</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="2" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">г. Маркс</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="3" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">Ушаков</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="4" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">Александр</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="5" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">Васильевич</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="6" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">25.12.1947</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="7" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">пр. Строителей</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="8" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">3</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="9" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String" />
+        </s:Cell>
+        <s:Cell s:Index="10" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">66</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="11" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">64</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="12" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">016921</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="13" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">9532.00</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="14" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">15.05.2018</s:Data>
+        </s:Cell>
+      </s:Row>
+      <s:Row>
+        <s:Cell s:Index="1" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">Марксовский</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="2" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">г. Маркс</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="3" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">Барменкова</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="4" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">Нина</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="5" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">Александровна</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="6" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">02.08.1946</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="7" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">Коммунистическая</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="8" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">80</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="9" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String" />
+        </s:Cell>
+        <s:Cell s:Index="10" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">19</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="11" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">64</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="12" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">1000833</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="13" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">14951.00</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="14" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">15.05.2018</s:Data>
+        </s:Cell>
+      </s:Row>
+      <s:Row>
+        <s:Cell s:Index="1" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">Марксовский</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="2" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">г. Маркс</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="3" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">Гракова</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="4" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">Ольга</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="5" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">Федоровна</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="6" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">28.11.1951</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="7" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">Кирова</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="8" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">26</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="9" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String" />
+        </s:Cell>
+        <s:Cell s:Index="10" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">1</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="11" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">64</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="12" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">040264</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="13" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">8732.00</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="14" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">15.05.2018</s:Data>
+        </s:Cell>
+      </s:Row>
+      <s:Row>
+        <s:Cell s:Index="1" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">Марксовский</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="2" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">с. Бородаевка</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="3" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">Акимышев</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="4" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">Рудольф</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="5" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">Васильевич</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="6" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">07.04.1940</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="7" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">Почтовая</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="8" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">5</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="9" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String" />
+        </s:Cell>
+        <s:Cell s:Index="10" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String" />
+        </s:Cell>
+        <s:Cell s:Index="11" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">64</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="12" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">2001712</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="13" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">13476.00</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="14" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">15.05.2018</s:Data>
+        </s:Cell>
+      </s:Row>
+      <s:Row>
+        <s:Cell s:Index="1" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">Марксовский</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="2" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">с. Подлесное</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="3" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">Хатимлянская</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="4" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">Нина</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="5" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">Васильевна</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="6" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">11.02.1938</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="7" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">Школьная</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="8" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">12</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="9" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">2</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="10" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">-</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="11" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">64</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="12" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">2001431</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="13" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">14038.00</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="14" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">15.05.2018</s:Data>
+        </s:Cell>
+      </s:Row>
+      <s:Row>
+        <s:Cell s:Index="1" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">Марксовский</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="2" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">с. Подлесное</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="3" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">Ежова</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="4" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">Мария</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="5" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">Григорьевна</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="6" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">07.03.1950</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="7" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">Строителей</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="8" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">18/1</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="9" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String" />
+        </s:Cell>
+        <s:Cell s:Index="10" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String" />
+        </s:Cell>
+        <s:Cell s:Index="11" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">64</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="12" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">2001322</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="13" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">17476.00</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="14" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">15.05.2018</s:Data>
+        </s:Cell>
+      </s:Row>
+      <s:Row>
+        <s:Cell s:Index="1" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">Марксовский</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="2" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">с. Подлесное</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="3" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">Гончарук</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="4" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">Викентий</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="5" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">Михайлович</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="6" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">08.05.1948</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="7" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">Комсомольская</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="8" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">97</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="9" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String" />
+        </s:Cell>
+        <s:Cell s:Index="10" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">20</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="11" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">64</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="12" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">2001323</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="13" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">19314.00</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="14" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">15.05.2018</s:Data>
+        </s:Cell>
+      </s:Row>
+      <s:Row>
+        <s:Cell s:Index="1" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">Марксовский</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="2" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">с. Приволжское</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="3" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">Прохорова</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="4" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">Любовь</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="5" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">Геннадьевна</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="6" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">06.08.1957</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="7" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">Советская</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="8" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">21</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="9" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String" />
+        </s:Cell>
+        <s:Cell s:Index="10" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String" />
+        </s:Cell>
+        <s:Cell s:Index="11" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">64</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="12" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">057238</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="13" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">2275.00</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="14" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">15.05.2018</s:Data>
+        </s:Cell>
+      </s:Row>
+      <s:Row>
+        <s:Cell s:Index="1" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">Марксовский</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="2" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">с. Баскатовка</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="3" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">Бискуп</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="4" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">Валентина</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="5" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">Васильевна</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="6" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">25.05.1943</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="7" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">Чапаева</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="8" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">15</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="9" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String" />
+        </s:Cell>
+        <s:Cell s:Index="10" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String" />
+        </s:Cell>
+        <s:Cell s:Index="11" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">64</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="12" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">2000674</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="13" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">9532.00</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="14" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">15.05.2018</s:Data>
+        </s:Cell>
+      </s:Row>
+      <s:Row>
+        <s:Cell s:Index="1" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">Марксовский</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="2" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">село Вознесенка</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="3" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">Хвостова</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="4" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">Зоя</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="5" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">Лаврентьевна</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="6" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">15.08.1940</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="7" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">Набережная</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="8" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">6</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="9" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String" />
+        </s:Cell>
+        <s:Cell s:Index="10" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String" />
+        </s:Cell>
+        <s:Cell s:Index="11" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">64</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="12" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">2000799</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="13" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">18389.00</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="14" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">15.05.2018</s:Data>
+        </s:Cell>
+      </s:Row>
+      <s:Row>
+        <s:Cell s:Index="1" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">Марксовский</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="2" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">с. Павловка</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="3" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">Козлова</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="4" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">Роза</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="5" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">Павловна</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="6" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">01.11.1947</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="7" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">Набережная</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="8" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">37</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="9" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String" />
+        </s:Cell>
+        <s:Cell s:Index="10" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">2</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="11" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">64</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="12" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">2001200</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="13" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">14038.00</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="14" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">15.05.2018</s:Data>
+        </s:Cell>
+      </s:Row>
+      <s:Row>
+        <s:Cell s:Index="1" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">Марксовский</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="2" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">с. Павловка</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="3" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">Ермилина</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="4" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">Нина</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="5" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">Дмитриевна</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="6" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">01.09.1949</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="7" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">Строителей</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="8" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">19/1</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="9" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String" />
+        </s:Cell>
+        <s:Cell s:Index="10" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String" />
+        </s:Cell>
+        <s:Cell s:Index="11" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">64</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="12" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">3801154</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="13" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">12914.00</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="14" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">15.05.2018</s:Data>
+        </s:Cell>
+      </s:Row>
+      <s:Row>
+        <s:Cell s:Index="1" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">Марксовский</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="2" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">с. Орловское</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="3" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">Астахова</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="4" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">Галина</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="5" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">Сидоровна</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="6" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">20.08.1939</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="7" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">Набережная</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="8" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">66</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="9" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String" />
+        </s:Cell>
+        <s:Cell s:Index="10" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String" />
+        </s:Cell>
+        <s:Cell s:Index="11" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">64</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="12" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">2000320</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="13" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">17476.00</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="14" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">15.05.2018</s:Data>
+        </s:Cell>
+      </s:Row>
+      <s:Row>
+        <s:Cell s:Index="1" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">Марксовский</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="2" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">село Георгиевка</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="3" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">Светличная</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="4" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">Надежда</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="5" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">Михайловна</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="6" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">07.12.1949</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="7" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">Мелиораторов</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="8" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">16</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="9" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String" />
+        </s:Cell>
+        <s:Cell s:Index="10" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String" />
+        </s:Cell>
+        <s:Cell s:Index="11" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">64</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="12" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">2000185</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="13" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">15189.00</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="14" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">15.05.2018</s:Data>
+        </s:Cell>
+      </s:Row>
+      <s:Row>
+        <s:Cell s:Index="1" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">Марксовский</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="2" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">п. Колос</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="3" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">Сейсекенова</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="4" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">Занылдык</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="5" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">Амангалеевна</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="6" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">24.09.1943</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="7" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">Новая</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="8" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">186</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="9" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String" />
+        </s:Cell>
+        <s:Cell s:Index="10" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String" />
+        </s:Cell>
+        <s:Cell s:Index="11" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">64</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="12" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">2001214</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="13" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">14951.00</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="14" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">15.05.2018</s:Data>
+        </s:Cell>
+      </s:Row>
+      <s:Row>
+        <s:Cell s:Index="1" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">Марксовский</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="2" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">г. Маркс</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="3" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">Маврина</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="4" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">Мария</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="5" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">Павловна</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="6" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">05.10.1949</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="7" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">пр. Строителей</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="8" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">10</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="9" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String" />
+        </s:Cell>
+        <s:Cell s:Index="10" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">5</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="11" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">64</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="12" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">2001072</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="13" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">12675.00</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="14" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">15.05.2018</s:Data>
+        </s:Cell>
+      </s:Row>
+      <s:Row>
+        <s:Cell s:Index="1" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">Марксовский</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="2" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">с. Звонаревка</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="3" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">Тормозова</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="4" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">Нина</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="5" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">Григорьевна</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="6" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">07.05.1947</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="7" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">2-я Садовая</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="8" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">2/2</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="9" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String" />
+        </s:Cell>
+        <s:Cell s:Index="10" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String" />
+        </s:Cell>
+        <s:Cell s:Index="11" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">64</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="12" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">2000138</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="13" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">6457.00</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="14" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">15.05.2018</s:Data>
+        </s:Cell>
+      </s:Row>
+      <s:Row>
+        <s:Cell s:Index="1" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">Марксовский</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="2" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">с. Звонаревка</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="3" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">Голобокова</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="4" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">Мария</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="5" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">Павловна</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="6" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">03.01.1949</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="7" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">Молодежная</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="8" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">1/1</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="9" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String" />
+        </s:Cell>
+        <s:Cell s:Index="10" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String" />
+        </s:Cell>
+        <s:Cell s:Index="11" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">64</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="12" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">2000137</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="13" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">14038.00</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="14" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">15.05.2018</s:Data>
+        </s:Cell>
+      </s:Row>
+    </s:Table>
+  </s:Worksheet>
+</s:Workbook>

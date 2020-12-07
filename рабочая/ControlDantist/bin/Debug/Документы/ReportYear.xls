@@ -1,0 +1,1748 @@
+﻿<?xml version='1.0'?>
+<?mso-application progid='Excel.Sheet'?>
+<s:Workbook xmlns:x="urn:schemas-microsoft-com:office:excel" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:s="urn:schemas-microsoft-com:office:spreadsheet">
+  <s:Styles>
+    <s:Style s:ID="HeaderStyle2">
+      <s:Alignment s:Horizontal="Center" s:WrapText="1" />
+      <s:Borders>
+        <s:Border s:Position="Bottom" s:LineStyle="Continuous" s:Weight="1" />
+        <s:Border s:Position="Left" s:LineStyle="Continuous" s:Weight="1" />
+        <s:Border s:Position="Right" s:LineStyle="Continuous" s:Weight="1" />
+        <s:Border s:Position="Top" s:LineStyle="Continuous" s:Weight="1" />
+      </s:Borders>
+      <s:Font s:Bold="1" s:FontName="Times New Roman" s:Size="8" />
+    </s:Style>
+    <s:Style s:ID="StyleAlignmentLeft">
+      <s:Alignment s:Horizontal="Left" s:WrapText="1" />
+      <s:Borders>
+        <s:Border s:Position="Bottom" s:LineStyle="Continuous" s:Weight="1" />
+        <s:Border s:Position="Left" s:LineStyle="Continuous" s:Weight="1" />
+        <s:Border s:Position="Right" s:LineStyle="Continuous" s:Weight="1" />
+        <s:Border s:Position="Top" s:LineStyle="Continuous" s:Weight="1" />
+      </s:Borders>
+      <s:Font s:Bold="1" s:FontName="Times New Roman" s:Size="8" />
+    </s:Style>
+    <s:Style s:ID="HeaderStyle3">
+      <s:Alignment s:Horizontal="Center" s:WrapText="1" />
+      <s:Borders>
+        <s:Border s:Position="Bottom" s:LineStyle="Continuous" s:Weight="1" />
+        <s:Border s:Position="Left" s:LineStyle="Continuous" s:Weight="1" />
+        <s:Border s:Position="Right" s:LineStyle="Continuous" s:Weight="1" />
+        <s:Border s:Position="Top" s:LineStyle="Continuous" s:Weight="1" />
+      </s:Borders>
+      <s:Font s:Bold="1" s:FontName="Times New Roman" s:Size="8" />
+      <s:NumberFormat s:Format="0,00" />
+    </s:Style>
+  </s:Styles>
+  <s:Worksheet s:Name="Лист1">
+    <s:Table>
+      <s:Column s:Width="20" />
+      <s:Column s:Width="120" />
+      <s:Column s:Width="170" />
+      <s:Column s:Width="120" />
+      <s:Column s:Width="80" />
+      <s:Column s:Width="80" />
+      <s:Column s:Width="80" />
+      <s:Column s:Width="80" />
+      <s:Column s:Width="80" />
+      <s:Column s:Width="80" />
+      <s:Column s:Width="80" />
+      <s:Row>
+        <s:Cell s:Index="1" s:MergeAcross="10" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">Оперативная информация по вопросу бесплатного зубопротезирования на 30.10.2020</s:Data>
+        </s:Cell>
+      </s:Row>
+      <s:Row>
+        <s:Cell s:Index="1" s:MergeDown="1" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">№ п/п</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="2" s:MergeDown="1" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">Район</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="3" s:MergeDown="1" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">Наименование учреждения здравоохранения</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="4" s:MergeDown="1" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">Пропускная способность за год (чел.)</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="5" s:MergeAcross="1" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">Заключенные договоры</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="7" s:MergeAcross="1" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">Поступило на оплату</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="9" s:MergeAcross="1" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">Оплачено</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="11" s:MergeDown="1" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">Лимиты на год (тыс.руб)</s:Data>
+        </s:Cell>
+      </s:Row>
+      <s:Row>
+        <s:Cell s:Index="5" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">кол-во</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="6" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">сумма(тыс.руб.)</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="7" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">кол-во</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="8" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">сумма(тыс.руб.)</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="9" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">кол-во</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="10" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">сумма(тыс.руб.)</s:Data>
+        </s:Cell>
+      </s:Row>
+      <s:Row>
+        <s:Cell s:Index="1" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">1</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="2" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">2</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="3" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">3</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="4" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">4</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="5" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">5</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="6" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">6</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="7" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">7</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="8" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">8</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="9" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">9</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="10" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">10</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="11" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">11</s:Data>
+        </s:Cell>
+      </s:Row>
+      <s:Row>
+        <s:Cell s:Index="1" s:StyleID="StyleAlignmentLeft">
+          <s:Data s:Type="String">1</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="2" s:StyleID="StyleAlignmentLeft">
+          <s:Data s:Type="String">г. Саратов</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="3" s:StyleID="StyleAlignmentLeft">
+          <s:Data s:Type="String">ГАУЗ «Саратовская стоматологическая поликлиника № 1»</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="4" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">2800</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="5" s:StyleID="HeaderStyle3">
+          <s:Data s:Type="String">1018</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="6" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">18368,8210</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="7" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">776</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="8" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">13866,7960</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="9" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String" />
+        </s:Cell>
+        <s:Cell s:Index="10" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String" />
+        </s:Cell>
+        <s:Cell s:Index="11" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String" />
+        </s:Cell>
+      </s:Row>
+      <s:Row>
+        <s:Cell s:Index="1" s:StyleID="StyleAlignmentLeft">
+          <s:Data s:Type="String">2</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="2" s:StyleID="StyleAlignmentLeft">
+          <s:Data s:Type="String">г. Саратов</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="3" s:StyleID="StyleAlignmentLeft">
+          <s:Data s:Type="String">ГАУЗ «Саратовская стоматологическая поликлиника № 2»</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="4" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">3200</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="5" s:StyleID="HeaderStyle3">
+          <s:Data s:Type="String">2392</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="6" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">54094,1300</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="7" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">1708</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="8" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">37357,2250</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="9" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String" />
+        </s:Cell>
+        <s:Cell s:Index="10" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String" />
+        </s:Cell>
+        <s:Cell s:Index="11" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String" />
+        </s:Cell>
+      </s:Row>
+      <s:Row>
+        <s:Cell s:Index="1" s:StyleID="StyleAlignmentLeft">
+          <s:Data s:Type="String">3</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="2" s:StyleID="StyleAlignmentLeft">
+          <s:Data s:Type="String">г. Саратов</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="3" s:StyleID="StyleAlignmentLeft">
+          <s:Data s:Type="String">ГАУЗ «Саратовская стоматологическая поликлиника № 3»</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="4" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">2091</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="5" s:StyleID="HeaderStyle3">
+          <s:Data s:Type="String">1095</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="6" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">31429,5400</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="7" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">814</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="8" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">23295,1650</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="9" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String" />
+        </s:Cell>
+        <s:Cell s:Index="10" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String" />
+        </s:Cell>
+        <s:Cell s:Index="11" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String" />
+        </s:Cell>
+      </s:Row>
+      <s:Row>
+        <s:Cell s:Index="1" s:StyleID="StyleAlignmentLeft">
+          <s:Data s:Type="String">4</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="2" s:StyleID="StyleAlignmentLeft">
+          <s:Data s:Type="String">г. Саратов</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="3" s:StyleID="StyleAlignmentLeft">
+          <s:Data s:Type="String">ГУЗ «Саратовская стоматологическая поликлиника № 5»</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="4" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">1300</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="5" s:StyleID="HeaderStyle3">
+          <s:Data s:Type="String">856</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="6" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">18538,4300</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="7" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">730</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="8" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">16060,1100</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="9" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String" />
+        </s:Cell>
+        <s:Cell s:Index="10" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String" />
+        </s:Cell>
+        <s:Cell s:Index="11" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String" />
+        </s:Cell>
+      </s:Row>
+      <s:Row>
+        <s:Cell s:Index="1" s:StyleID="StyleAlignmentLeft">
+          <s:Data s:Type="String">5</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="2" s:StyleID="StyleAlignmentLeft">
+          <s:Data s:Type="String">г. Саратов</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="3" s:StyleID="StyleAlignmentLeft">
+          <s:Data s:Type="String">ГУЗ «Саратовская стоматологическая поликлиника № 6»</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="4" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">1200</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="5" s:StyleID="HeaderStyle3">
+          <s:Data s:Type="String">733</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="6" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">17512,2850</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="7" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">552</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="8" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">12751,4000</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="9" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String" />
+        </s:Cell>
+        <s:Cell s:Index="10" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String" />
+        </s:Cell>
+        <s:Cell s:Index="11" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String" />
+        </s:Cell>
+      </s:Row>
+      <s:Row>
+        <s:Cell s:Index="1" s:StyleID="StyleAlignmentLeft">
+          <s:Data s:Type="String">6</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="2" s:StyleID="StyleAlignmentLeft">
+          <s:Data s:Type="String">г. Саратов</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="3" s:StyleID="StyleAlignmentLeft">
+          <s:Data s:Type="String">ГУЗ «Саратовская стоматологическая поликлиника № 8»</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="4" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">1300</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="5" s:StyleID="HeaderStyle3">
+          <s:Data s:Type="String">657</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="6" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">15129,8600</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="7" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">457</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="8" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">10475,3900</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="9" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String" />
+        </s:Cell>
+        <s:Cell s:Index="10" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String" />
+        </s:Cell>
+        <s:Cell s:Index="11" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String" />
+        </s:Cell>
+      </s:Row>
+      <s:Row>
+        <s:Cell s:Index="1" s:StyleID="StyleAlignmentLeft">
+          <s:Data s:Type="String">7</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="2" s:StyleID="StyleAlignmentLeft">
+          <s:Data s:Type="String">г. Саратов</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="3" s:StyleID="StyleAlignmentLeft">
+          <s:Data s:Type="String">ГУЗ «Саратовский областной клинический госпиталь для ветерано войн» </s:Data>
+        </s:Cell>
+        <s:Cell s:Index="4" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">550</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="5" s:StyleID="HeaderStyle3">
+          <s:Data s:Type="String">265</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="6" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">4891,6430</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="7" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">235</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="8" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">4268,3760</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="9" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String" />
+        </s:Cell>
+        <s:Cell s:Index="10" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String" />
+        </s:Cell>
+        <s:Cell s:Index="11" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String" />
+        </s:Cell>
+      </s:Row>
+      <s:Row>
+        <s:Cell s:Index="1" s:StyleID="StyleAlignmentLeft">
+          <s:Data s:Type="String">8</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="2" s:StyleID="StyleAlignmentLeft">
+          <s:Data s:Type="String">г. Саратов</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="3" s:StyleID="StyleAlignmentLeft">
+          <s:Data s:Type="String">ГУЗ  «Саратовская городская клиническая больница №5»</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="4" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">60</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="5" s:StyleID="HeaderStyle3">
+          <s:Data s:Type="String" />
+        </s:Cell>
+        <s:Cell s:Index="6" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String" />
+        </s:Cell>
+        <s:Cell s:Index="7" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String" />
+        </s:Cell>
+        <s:Cell s:Index="8" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String" />
+        </s:Cell>
+        <s:Cell s:Index="9" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String" />
+        </s:Cell>
+        <s:Cell s:Index="10" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String" />
+        </s:Cell>
+        <s:Cell s:Index="11" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String" />
+        </s:Cell>
+      </s:Row>
+      <s:Row>
+        <s:Cell s:Index="1" s:StyleID="StyleAlignmentLeft">
+          <s:Data s:Type="String">9</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="2" s:StyleID="StyleAlignmentLeft">
+          <s:Data s:Type="String">Александровогайский</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="3" s:StyleID="StyleAlignmentLeft">
+          <s:Data s:Type="String">ГУЗ СО «Александрово-Гайская районная больница»</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="4" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">120</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="5" s:StyleID="HeaderStyle3">
+          <s:Data s:Type="String">44</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="6" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">439,7350</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="7" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">35</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="8" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">345,7040</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="9" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String" />
+        </s:Cell>
+        <s:Cell s:Index="10" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String" />
+        </s:Cell>
+        <s:Cell s:Index="11" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String" />
+        </s:Cell>
+      </s:Row>
+      <s:Row>
+        <s:Cell s:Index="1" s:StyleID="StyleAlignmentLeft">
+          <s:Data s:Type="String">10</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="2" s:StyleID="StyleAlignmentLeft">
+          <s:Data s:Type="String">Аркадакский</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="3" s:StyleID="StyleAlignmentLeft">
+          <s:Data s:Type="String">ГУЗ СО «Аркадакская районная больница»</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="4" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">60</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="5" s:StyleID="HeaderStyle3">
+          <s:Data s:Type="String">31</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="6" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">315,6390</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="7" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">31</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="8" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">315,6390</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="9" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String" />
+        </s:Cell>
+        <s:Cell s:Index="10" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String" />
+        </s:Cell>
+        <s:Cell s:Index="11" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String" />
+        </s:Cell>
+      </s:Row>
+      <s:Row>
+        <s:Cell s:Index="1" s:StyleID="StyleAlignmentLeft">
+          <s:Data s:Type="String">11</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="2" s:StyleID="StyleAlignmentLeft">
+          <s:Data s:Type="String">Аткарский</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="3" s:StyleID="StyleAlignmentLeft">
+          <s:Data s:Type="String">ГУЗ СО «Аткарская районная больница»</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="4" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">250</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="5" s:StyleID="HeaderStyle3">
+          <s:Data s:Type="String">122</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="6" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">1320,0560</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="7" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">93</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="8" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">1035,2310</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="9" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String" />
+        </s:Cell>
+        <s:Cell s:Index="10" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String" />
+        </s:Cell>
+        <s:Cell s:Index="11" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String" />
+        </s:Cell>
+      </s:Row>
+      <s:Row>
+        <s:Cell s:Index="1" s:StyleID="StyleAlignmentLeft">
+          <s:Data s:Type="String">12</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="2" s:StyleID="StyleAlignmentLeft">
+          <s:Data s:Type="String">Базарно-Карабулакский</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="3" s:StyleID="StyleAlignmentLeft">
+          <s:Data s:Type="String">ГУЗ СО «Базарно-Карабулакская районная больница»</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="4" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">200</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="5" s:StyleID="HeaderStyle3">
+          <s:Data s:Type="String">255</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="6" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">4269,1160</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="7" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">196</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="8" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">3218,5990</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="9" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String" />
+        </s:Cell>
+        <s:Cell s:Index="10" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String" />
+        </s:Cell>
+        <s:Cell s:Index="11" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String" />
+        </s:Cell>
+      </s:Row>
+      <s:Row>
+        <s:Cell s:Index="1" s:StyleID="StyleAlignmentLeft">
+          <s:Data s:Type="String">13</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="2" s:StyleID="StyleAlignmentLeft">
+          <s:Data s:Type="String">Балаковский</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="3" s:StyleID="StyleAlignmentLeft">
+          <s:Data s:Type="String">ГАУЗ СО «Балаковская стоматологическая поликлинника»</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="4" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">2000</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="5" s:StyleID="HeaderStyle3">
+          <s:Data s:Type="String">1350</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="6" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">26263,4650</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="7" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">1070</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="8" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">19505,3980</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="9" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String" />
+        </s:Cell>
+        <s:Cell s:Index="10" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String" />
+        </s:Cell>
+        <s:Cell s:Index="11" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String" />
+        </s:Cell>
+      </s:Row>
+      <s:Row>
+        <s:Cell s:Index="1" s:StyleID="StyleAlignmentLeft">
+          <s:Data s:Type="String">14</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="2" s:StyleID="StyleAlignmentLeft">
+          <s:Data s:Type="String">Балашовский</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="3" s:StyleID="StyleAlignmentLeft">
+          <s:Data s:Type="String">ГУЗ СО «Балашовская стоматологическая поликлинника»</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="4" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">950</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="5" s:StyleID="HeaderStyle3">
+          <s:Data s:Type="String">686</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="6" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">12746,1510</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="7" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">567</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="8" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">10614,1560</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="9" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String" />
+        </s:Cell>
+        <s:Cell s:Index="10" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String" />
+        </s:Cell>
+        <s:Cell s:Index="11" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String" />
+        </s:Cell>
+      </s:Row>
+      <s:Row>
+        <s:Cell s:Index="1" s:StyleID="StyleAlignmentLeft">
+          <s:Data s:Type="String">15</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="2" s:StyleID="StyleAlignmentLeft">
+          <s:Data s:Type="String">Балтайский</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="3" s:StyleID="StyleAlignmentLeft">
+          <s:Data s:Type="String">ГУЗ СО «Балтайская районная больница»</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="4" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">170</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="5" s:StyleID="HeaderStyle3">
+          <s:Data s:Type="String">143</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="6" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">1717,1840</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="7" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">138</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="8" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">1650,4290</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="9" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String" />
+        </s:Cell>
+        <s:Cell s:Index="10" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String" />
+        </s:Cell>
+        <s:Cell s:Index="11" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String" />
+        </s:Cell>
+      </s:Row>
+      <s:Row>
+        <s:Cell s:Index="1" s:StyleID="StyleAlignmentLeft">
+          <s:Data s:Type="String">16</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="2" s:StyleID="StyleAlignmentLeft">
+          <s:Data s:Type="String">Вольский</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="3" s:StyleID="StyleAlignmentLeft">
+          <s:Data s:Type="String">ГУЗ СО «Вольская стоматологическая поликлинника»</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="4" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">1165</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="5" s:StyleID="HeaderStyle3">
+          <s:Data s:Type="String">489</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="6" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">11409,1010</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="7" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">437</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="8" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">9955,3290</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="9" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String" />
+        </s:Cell>
+        <s:Cell s:Index="10" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String" />
+        </s:Cell>
+        <s:Cell s:Index="11" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String" />
+        </s:Cell>
+      </s:Row>
+      <s:Row>
+        <s:Cell s:Index="1" s:StyleID="StyleAlignmentLeft">
+          <s:Data s:Type="String">17</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="2" s:StyleID="StyleAlignmentLeft">
+          <s:Data s:Type="String">Воскресенский</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="3" s:StyleID="StyleAlignmentLeft">
+          <s:Data s:Type="String">ГУЗ СО "Воскресенская районная больница"</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="4" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">50</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="5" s:StyleID="HeaderStyle3">
+          <s:Data s:Type="String">31</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="6" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">781,0390</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="7" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">29</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="8" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">741,1670</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="9" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String" />
+        </s:Cell>
+        <s:Cell s:Index="10" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String" />
+        </s:Cell>
+        <s:Cell s:Index="11" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String" />
+        </s:Cell>
+      </s:Row>
+      <s:Row>
+        <s:Cell s:Index="1" s:StyleID="StyleAlignmentLeft">
+          <s:Data s:Type="String">18</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="2" s:StyleID="StyleAlignmentLeft">
+          <s:Data s:Type="String">Дергачевский</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="3" s:StyleID="StyleAlignmentLeft">
+          <s:Data s:Type="String">ГУЗ СО «Дергачевская районная больница»</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="4" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">170</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="5" s:StyleID="HeaderStyle3">
+          <s:Data s:Type="String">96</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="6" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">1184,0090</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="7" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">70</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="8" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">826,3460</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="9" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String" />
+        </s:Cell>
+        <s:Cell s:Index="10" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String" />
+        </s:Cell>
+        <s:Cell s:Index="11" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String" />
+        </s:Cell>
+      </s:Row>
+      <s:Row>
+        <s:Cell s:Index="1" s:StyleID="StyleAlignmentLeft">
+          <s:Data s:Type="String">19</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="2" s:StyleID="StyleAlignmentLeft">
+          <s:Data s:Type="String">Духовницкий</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="3" s:StyleID="StyleAlignmentLeft">
+          <s:Data s:Type="String">ГУЗ СО «Духовницкая районная больница»</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="4" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">250</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="5" s:StyleID="HeaderStyle3">
+          <s:Data s:Type="String">176</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="6" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">2037,91323</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="7" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">155</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="8" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">1779,17343</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="9" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String" />
+        </s:Cell>
+        <s:Cell s:Index="10" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String" />
+        </s:Cell>
+        <s:Cell s:Index="11" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String" />
+        </s:Cell>
+      </s:Row>
+      <s:Row>
+        <s:Cell s:Index="1" s:StyleID="StyleAlignmentLeft">
+          <s:Data s:Type="String">20</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="2" s:StyleID="StyleAlignmentLeft">
+          <s:Data s:Type="String">Екатериновский</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="3" s:StyleID="StyleAlignmentLeft">
+          <s:Data s:Type="String">ГУЗ СО «Екатериновская районная больница»</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="4" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">200</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="5" s:StyleID="HeaderStyle3">
+          <s:Data s:Type="String">153</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="6" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">3143,2750</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="7" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">137</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="8" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">2827,6690</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="9" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String" />
+        </s:Cell>
+        <s:Cell s:Index="10" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String" />
+        </s:Cell>
+        <s:Cell s:Index="11" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String" />
+        </s:Cell>
+      </s:Row>
+      <s:Row>
+        <s:Cell s:Index="1" s:StyleID="StyleAlignmentLeft">
+          <s:Data s:Type="String">21</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="2" s:StyleID="StyleAlignmentLeft">
+          <s:Data s:Type="String">Ершовский</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="3" s:StyleID="StyleAlignmentLeft">
+          <s:Data s:Type="String">ГУЗ СО «Ершовская районная больница»</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="4" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">192</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="5" s:StyleID="HeaderStyle3">
+          <s:Data s:Type="String">68</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="6" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">1141,6500</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="7" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">38</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="8" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">659,5500</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="9" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String" />
+        </s:Cell>
+        <s:Cell s:Index="10" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String" />
+        </s:Cell>
+        <s:Cell s:Index="11" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String" />
+        </s:Cell>
+      </s:Row>
+      <s:Row>
+        <s:Cell s:Index="1" s:StyleID="StyleAlignmentLeft">
+          <s:Data s:Type="String">22</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="2" s:StyleID="StyleAlignmentLeft">
+          <s:Data s:Type="String">Ивантеевский</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="3" s:StyleID="StyleAlignmentLeft">
+          <s:Data s:Type="String">ГУЗ СО «Ивантеевская районная больница»</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="4" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">96</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="5" s:StyleID="HeaderStyle3">
+          <s:Data s:Type="String">2</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="6" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">14,6330</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="7" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String" />
+        </s:Cell>
+        <s:Cell s:Index="8" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String" />
+        </s:Cell>
+        <s:Cell s:Index="9" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String" />
+        </s:Cell>
+        <s:Cell s:Index="10" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String" />
+        </s:Cell>
+        <s:Cell s:Index="11" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String" />
+        </s:Cell>
+      </s:Row>
+      <s:Row>
+        <s:Cell s:Index="1" s:StyleID="StyleAlignmentLeft">
+          <s:Data s:Type="String">23</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="2" s:StyleID="StyleAlignmentLeft">
+          <s:Data s:Type="String">Калининский</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="3" s:StyleID="StyleAlignmentLeft">
+          <s:Data s:Type="String">ГУЗ СО «Калининская районная больница»</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="4" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">250</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="5" s:StyleID="HeaderStyle3">
+          <s:Data s:Type="String">181</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="6" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">2763,3400</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="7" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">107</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="8" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">1656,0450</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="9" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String" />
+        </s:Cell>
+        <s:Cell s:Index="10" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String" />
+        </s:Cell>
+        <s:Cell s:Index="11" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String" />
+        </s:Cell>
+      </s:Row>
+      <s:Row>
+        <s:Cell s:Index="1" s:StyleID="StyleAlignmentLeft">
+          <s:Data s:Type="String">24</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="2" s:StyleID="StyleAlignmentLeft">
+          <s:Data s:Type="String">Красноармейский</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="3" s:StyleID="StyleAlignmentLeft">
+          <s:Data s:Type="String">МУП «Стоматологическая поликлиника Красноармейского муниципального района Саратовской области»</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="4" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">1600</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="5" s:StyleID="HeaderStyle3">
+          <s:Data s:Type="String">504</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="6" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">12778,1380</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="7" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">391</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="8" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">9826,9600</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="9" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String" />
+        </s:Cell>
+        <s:Cell s:Index="10" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String" />
+        </s:Cell>
+        <s:Cell s:Index="11" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String" />
+        </s:Cell>
+      </s:Row>
+      <s:Row>
+        <s:Cell s:Index="1" s:StyleID="StyleAlignmentLeft">
+          <s:Data s:Type="String">25</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="2" s:StyleID="StyleAlignmentLeft">
+          <s:Data s:Type="String">Краснокутский</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="3" s:StyleID="StyleAlignmentLeft">
+          <s:Data s:Type="String">ГУЗ СО «Краснокутская районная больница»</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="4" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">240</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="5" s:StyleID="HeaderStyle3">
+          <s:Data s:Type="String">74</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="6" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">1183,1340</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="7" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">33</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="8" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">511,2340</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="9" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String" />
+        </s:Cell>
+        <s:Cell s:Index="10" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String" />
+        </s:Cell>
+        <s:Cell s:Index="11" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String" />
+        </s:Cell>
+      </s:Row>
+      <s:Row>
+        <s:Cell s:Index="1" s:StyleID="StyleAlignmentLeft">
+          <s:Data s:Type="String">26</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="2" s:StyleID="StyleAlignmentLeft">
+          <s:Data s:Type="String">Краснопартизанский</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="3" s:StyleID="StyleAlignmentLeft">
+          <s:Data s:Type="String">ГУЗ СО «Краснопартизанская районная больница»</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="4" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">25</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="5" s:StyleID="HeaderStyle3">
+          <s:Data s:Type="String" />
+        </s:Cell>
+        <s:Cell s:Index="6" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String" />
+        </s:Cell>
+        <s:Cell s:Index="7" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String" />
+        </s:Cell>
+        <s:Cell s:Index="8" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String" />
+        </s:Cell>
+        <s:Cell s:Index="9" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String" />
+        </s:Cell>
+        <s:Cell s:Index="10" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String" />
+        </s:Cell>
+        <s:Cell s:Index="11" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String" />
+        </s:Cell>
+      </s:Row>
+      <s:Row>
+        <s:Cell s:Index="1" s:StyleID="StyleAlignmentLeft">
+          <s:Data s:Type="String">27</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="2" s:StyleID="StyleAlignmentLeft">
+          <s:Data s:Type="String">Лысогорский</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="3" s:StyleID="StyleAlignmentLeft">
+          <s:Data s:Type="String">ГУЗ СО «Лысогорская районная больница»</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="4" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">105</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="5" s:StyleID="HeaderStyle3">
+          <s:Data s:Type="String">58</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="6" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">1228,2750</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="7" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">43</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="8" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">884,4850</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="9" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String" />
+        </s:Cell>
+        <s:Cell s:Index="10" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String" />
+        </s:Cell>
+        <s:Cell s:Index="11" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String" />
+        </s:Cell>
+      </s:Row>
+      <s:Row>
+        <s:Cell s:Index="1" s:StyleID="StyleAlignmentLeft">
+          <s:Data s:Type="String">28</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="2" s:StyleID="StyleAlignmentLeft">
+          <s:Data s:Type="String">Марксовский</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="3" s:StyleID="StyleAlignmentLeft">
+          <s:Data s:Type="String">ГУЗ СО «Марксовская районная больница»</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="4" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">540</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="5" s:StyleID="HeaderStyle3">
+          <s:Data s:Type="String">471</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="6" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">5932,9960</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="7" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">445</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="8" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">5622,2730</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="9" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String" />
+        </s:Cell>
+        <s:Cell s:Index="10" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String" />
+        </s:Cell>
+        <s:Cell s:Index="11" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String" />
+        </s:Cell>
+      </s:Row>
+      <s:Row>
+        <s:Cell s:Index="1" s:StyleID="StyleAlignmentLeft">
+          <s:Data s:Type="String">29</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="2" s:StyleID="StyleAlignmentLeft">
+          <s:Data s:Type="String">Новобурасский</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="3" s:StyleID="StyleAlignmentLeft">
+          <s:Data s:Type="String">ГУЗ СО «Новобурасская районная больница»</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="4" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">120</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="5" s:StyleID="HeaderStyle3">
+          <s:Data s:Type="String">70</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="6" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">967,6750</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="7" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">61</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="8" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">854,5170</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="9" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String" />
+        </s:Cell>
+        <s:Cell s:Index="10" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String" />
+        </s:Cell>
+        <s:Cell s:Index="11" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String" />
+        </s:Cell>
+      </s:Row>
+      <s:Row>
+        <s:Cell s:Index="1" s:StyleID="StyleAlignmentLeft">
+          <s:Data s:Type="String">30</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="2" s:StyleID="StyleAlignmentLeft">
+          <s:Data s:Type="String">Новоузенский</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="3" s:StyleID="StyleAlignmentLeft">
+          <s:Data s:Type="String">ГУЗ СО «Новоузенская районная больница»</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="4" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">96</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="5" s:StyleID="HeaderStyle3">
+          <s:Data s:Type="String">41</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="6" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">558,1610</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="7" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">26</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="8" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">346,8400</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="9" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String" />
+        </s:Cell>
+        <s:Cell s:Index="10" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String" />
+        </s:Cell>
+        <s:Cell s:Index="11" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String" />
+        </s:Cell>
+      </s:Row>
+      <s:Row>
+        <s:Cell s:Index="1" s:StyleID="StyleAlignmentLeft">
+          <s:Data s:Type="String">31</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="2" s:StyleID="StyleAlignmentLeft">
+          <s:Data s:Type="String">Озинский</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="3" s:StyleID="StyleAlignmentLeft">
+          <s:Data s:Type="String">ГУЗ СО «Озинская районная больница»</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="4" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">216</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="5" s:StyleID="HeaderStyle3">
+          <s:Data s:Type="String">19</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="6" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">260,1600</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="7" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">15</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="8" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">209,3900</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="9" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String" />
+        </s:Cell>
+        <s:Cell s:Index="10" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String" />
+        </s:Cell>
+        <s:Cell s:Index="11" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String" />
+        </s:Cell>
+      </s:Row>
+      <s:Row>
+        <s:Cell s:Index="1" s:StyleID="StyleAlignmentLeft">
+          <s:Data s:Type="String">32</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="2" s:StyleID="StyleAlignmentLeft">
+          <s:Data s:Type="String">Петровский</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="3" s:StyleID="StyleAlignmentLeft">
+          <s:Data s:Type="String">ГУЗ СО «Петровская районная больница»</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="4" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">400</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="5" s:StyleID="HeaderStyle3">
+          <s:Data s:Type="String">256</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="6" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">2636,8230</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="7" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">176</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="8" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">1835,4300</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="9" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String" />
+        </s:Cell>
+        <s:Cell s:Index="10" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String" />
+        </s:Cell>
+        <s:Cell s:Index="11" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String" />
+        </s:Cell>
+      </s:Row>
+      <s:Row>
+        <s:Cell s:Index="1" s:StyleID="StyleAlignmentLeft">
+          <s:Data s:Type="String">33</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="2" s:StyleID="StyleAlignmentLeft">
+          <s:Data s:Type="String">Питерский</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="3" s:StyleID="StyleAlignmentLeft">
+          <s:Data s:Type="String">ГУЗ СО "Питерская районная больница"</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="4" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">150</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="5" s:StyleID="HeaderStyle3">
+          <s:Data s:Type="String">47</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="6" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">914,3650</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="7" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">44</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="8" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">848,6600</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="9" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String" />
+        </s:Cell>
+        <s:Cell s:Index="10" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String" />
+        </s:Cell>
+        <s:Cell s:Index="11" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String" />
+        </s:Cell>
+      </s:Row>
+      <s:Row>
+        <s:Cell s:Index="1" s:StyleID="StyleAlignmentLeft">
+          <s:Data s:Type="String">34</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="2" s:StyleID="StyleAlignmentLeft">
+          <s:Data s:Type="String">Пугачевский</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="3" s:StyleID="StyleAlignmentLeft">
+          <s:Data s:Type="String">ГУЗ СО «Пугачевская районная больница»</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="4" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">360</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="5" s:StyleID="HeaderStyle3">
+          <s:Data s:Type="String">244</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="6" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">4558,1420</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="7" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">228</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="8" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">4217,9060</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="9" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String" />
+        </s:Cell>
+        <s:Cell s:Index="10" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String" />
+        </s:Cell>
+        <s:Cell s:Index="11" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String" />
+        </s:Cell>
+      </s:Row>
+      <s:Row>
+        <s:Cell s:Index="1" s:StyleID="StyleAlignmentLeft">
+          <s:Data s:Type="String">35</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="2" s:StyleID="StyleAlignmentLeft">
+          <s:Data s:Type="String">Ровенский</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="3" s:StyleID="StyleAlignmentLeft">
+          <s:Data s:Type="String">ГУЗ СО «Ровенская районная больница»</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="4" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">168</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="5" s:StyleID="HeaderStyle3">
+          <s:Data s:Type="String">104</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="6" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">2251,1100</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="7" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">104</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="8" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">2251,1100</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="9" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String" />
+        </s:Cell>
+        <s:Cell s:Index="10" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String" />
+        </s:Cell>
+        <s:Cell s:Index="11" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String" />
+        </s:Cell>
+      </s:Row>
+      <s:Row>
+        <s:Cell s:Index="1" s:StyleID="StyleAlignmentLeft">
+          <s:Data s:Type="String">36</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="2" s:StyleID="StyleAlignmentLeft">
+          <s:Data s:Type="String">Романовский</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="3" s:StyleID="StyleAlignmentLeft">
+          <s:Data s:Type="String">ГУЗ СО "Романовская районная больница"</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="4" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">78</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="5" s:StyleID="HeaderStyle3">
+          <s:Data s:Type="String">30</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="6" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">561,8420</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="7" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">26</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="8" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">493,7000</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="9" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String" />
+        </s:Cell>
+        <s:Cell s:Index="10" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String" />
+        </s:Cell>
+        <s:Cell s:Index="11" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String" />
+        </s:Cell>
+      </s:Row>
+      <s:Row>
+        <s:Cell s:Index="1" s:StyleID="StyleAlignmentLeft">
+          <s:Data s:Type="String">37</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="2" s:StyleID="StyleAlignmentLeft">
+          <s:Data s:Type="String">Ртищевский</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="3" s:StyleID="StyleAlignmentLeft">
+          <s:Data s:Type="String">ГУЗ СО «Ртищевская районная больница»</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="4" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">280</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="5" s:StyleID="HeaderStyle3">
+          <s:Data s:Type="String">149</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="6" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">1194,1500</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="7" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">103</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="8" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">815,6850</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="9" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String" />
+        </s:Cell>
+        <s:Cell s:Index="10" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String" />
+        </s:Cell>
+        <s:Cell s:Index="11" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String" />
+        </s:Cell>
+      </s:Row>
+      <s:Row>
+        <s:Cell s:Index="1" s:StyleID="StyleAlignmentLeft">
+          <s:Data s:Type="String">38</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="2" s:StyleID="StyleAlignmentLeft">
+          <s:Data s:Type="String">Самойловский</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="3" s:StyleID="StyleAlignmentLeft">
+          <s:Data s:Type="String">ГУЗ СО «Самойловская районная больница»</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="4" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">120</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="5" s:StyleID="HeaderStyle3">
+          <s:Data s:Type="String">18</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="6" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">256,3270</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="7" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String" />
+        </s:Cell>
+        <s:Cell s:Index="8" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String" />
+        </s:Cell>
+        <s:Cell s:Index="9" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String" />
+        </s:Cell>
+        <s:Cell s:Index="10" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String" />
+        </s:Cell>
+        <s:Cell s:Index="11" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String" />
+        </s:Cell>
+      </s:Row>
+      <s:Row>
+        <s:Cell s:Index="1" s:StyleID="StyleAlignmentLeft">
+          <s:Data s:Type="String">39</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="2" s:StyleID="StyleAlignmentLeft">
+          <s:Data s:Type="String">Татищевский</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="3" s:StyleID="StyleAlignmentLeft">
+          <s:Data s:Type="String">ГУЗ СО «Медико-санитарная часть городского округа ЗАТО Светлый»</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="4" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">90</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="5" s:StyleID="HeaderStyle3">
+          <s:Data s:Type="String">54</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="6" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">1373,0820</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="7" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">30</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="8" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">789,9520</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="9" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String" />
+        </s:Cell>
+        <s:Cell s:Index="10" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String" />
+        </s:Cell>
+        <s:Cell s:Index="11" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String" />
+        </s:Cell>
+      </s:Row>
+      <s:Row>
+        <s:Cell s:Index="1" s:StyleID="StyleAlignmentLeft">
+          <s:Data s:Type="String">40</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="2" s:StyleID="StyleAlignmentLeft">
+          <s:Data s:Type="String">Советский</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="3" s:StyleID="StyleAlignmentLeft">
+          <s:Data s:Type="String">ГУЗ СО «Советская районная больница»</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="4" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">220</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="5" s:StyleID="HeaderStyle3">
+          <s:Data s:Type="String">191</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="6" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">3708,5000</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="7" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">144</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="8" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">2752,9500</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="9" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String" />
+        </s:Cell>
+        <s:Cell s:Index="10" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String" />
+        </s:Cell>
+        <s:Cell s:Index="11" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String" />
+        </s:Cell>
+      </s:Row>
+      <s:Row>
+        <s:Cell s:Index="1" s:StyleID="StyleAlignmentLeft">
+          <s:Data s:Type="String">41</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="2" s:StyleID="StyleAlignmentLeft">
+          <s:Data s:Type="String">Турковский</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="3" s:StyleID="StyleAlignmentLeft">
+          <s:Data s:Type="String">ГУЗ СО «Турковская районная больница»</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="4" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">60</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="5" s:StyleID="HeaderStyle3">
+          <s:Data s:Type="String">35</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="6" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">350,6900</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="7" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">29</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="8" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">283,7360</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="9" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String" />
+        </s:Cell>
+        <s:Cell s:Index="10" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String" />
+        </s:Cell>
+        <s:Cell s:Index="11" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String" />
+        </s:Cell>
+      </s:Row>
+      <s:Row>
+        <s:Cell s:Index="1" s:StyleID="StyleAlignmentLeft">
+          <s:Data s:Type="String">42</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="2" s:StyleID="StyleAlignmentLeft">
+          <s:Data s:Type="String">Федоровский</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="3" s:StyleID="StyleAlignmentLeft">
+          <s:Data s:Type="String">ГУЗ СО «Федоровская районная больница»</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="4" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">324</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="5" s:StyleID="HeaderStyle3">
+          <s:Data s:Type="String">163</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="6" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">1978,4080</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="7" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">147</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="8" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">1767,4860</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="9" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String" />
+        </s:Cell>
+        <s:Cell s:Index="10" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String" />
+        </s:Cell>
+        <s:Cell s:Index="11" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String" />
+        </s:Cell>
+      </s:Row>
+      <s:Row>
+        <s:Cell s:Index="1" s:StyleID="StyleAlignmentLeft">
+          <s:Data s:Type="String">43</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="2" s:StyleID="StyleAlignmentLeft">
+          <s:Data s:Type="String">Хвалынский</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="3" s:StyleID="StyleAlignmentLeft">
+          <s:Data s:Type="String">ГУЗ СО "Хвалынская РБ им. Бржозовского"</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="4" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">500</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="5" s:StyleID="HeaderStyle3">
+          <s:Data s:Type="String">190</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="6" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">1808,2650</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="7" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">173</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="8" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">1630,9990</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="9" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String" />
+        </s:Cell>
+        <s:Cell s:Index="10" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String" />
+        </s:Cell>
+        <s:Cell s:Index="11" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String" />
+        </s:Cell>
+      </s:Row>
+      <s:Row>
+        <s:Cell s:Index="1" s:StyleID="StyleAlignmentLeft">
+          <s:Data s:Type="String">44</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="2" s:StyleID="StyleAlignmentLeft">
+          <s:Data s:Type="String">Энгельсский, г. Энгельс</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="3" s:StyleID="StyleAlignmentLeft">
+          <s:Data s:Type="String">ГАУЗ СО «Энгельсская городская стоматологическая поликлинника»</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="4" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">3300</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="5" s:StyleID="HeaderStyle3">
+          <s:Data s:Type="String">1855</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="6" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">32427,6620</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="7" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">1476</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="8" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">25816,6350</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="9" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String" />
+        </s:Cell>
+        <s:Cell s:Index="10" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String" />
+        </s:Cell>
+        <s:Cell s:Index="11" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String" />
+        </s:Cell>
+      </s:Row>
+      <s:Row>
+        <s:Cell s:Index="1" s:StyleID="StyleAlignmentLeft">
+          <s:Data s:Type="String">45</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="2" s:StyleID="StyleAlignmentLeft">
+          <s:Data s:Type="String">Энгельсский, г. Энгельс</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="3" s:StyleID="StyleAlignmentLeft">
+          <s:Data s:Type="String">ГУЗ "Энгельсская городская поликлинника №2" </s:Data>
+        </s:Cell>
+        <s:Cell s:Index="4" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">180</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="5" s:StyleID="HeaderStyle3">
+          <s:Data s:Type="String">7</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="6" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">62,0500</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="7" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">2</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="8" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">16,5500</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="9" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String" />
+        </s:Cell>
+        <s:Cell s:Index="10" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String" />
+        </s:Cell>
+        <s:Cell s:Index="11" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String" />
+        </s:Cell>
+      </s:Row>
+      <s:Row>
+        <s:Cell s:Index="1" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String" />
+        </s:Cell>
+        <s:Cell s:Index="2" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">Итого:</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="3" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String" />
+        </s:Cell>
+        <s:Cell s:Index="4" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">27796</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="5" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">15423</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="6" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">306500,97023</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="7" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">12071</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="8" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">234981,39543</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="9" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String" />
+        </s:Cell>
+        <s:Cell s:Index="10" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String" />
+        </s:Cell>
+        <s:Cell s:Index="11" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">377577,4</s:Data>
+        </s:Cell>
+      </s:Row>
+    </s:Table>
+  </s:Worksheet>
+</s:Workbook>

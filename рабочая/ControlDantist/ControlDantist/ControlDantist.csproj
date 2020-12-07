@@ -1,0 +1,245 @@
+﻿<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.50727</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{73542E82-66C3-425C-93AE-0748A2FAAEC9}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>ControlDantist</RootNamespace>
+    <AssemblyName>ControlDantist</AssemblyName>
+    <ApplicationIcon>asd.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="DantistLibrary, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\Библиотека для стоматологии\DantistLibrary\DantistLibrary\bin\Release\DantistLibrary.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Classes\ConnectDB.cs" />
+    <Compile Include="Classes\ContractDisplay.cs" />
+    <Compile Include="Classes\ContractListItem.cs" />
+    <Compile Include="Classes\DateService.cs" />
+    <Compile Include="Classes\ErrorReestr.cs" />
+    <Compile Include="Classes\ErrorsReestrUnload.cs" />
+    <Compile Include="Classes\ExecuteQuery.cs" />
+    <Compile Include="Classes\ICommand.cs" />
+    <Compile Include="Classes\PrintContractsValidate.cs" />
+    <Compile Include="Classes\PrintReestrControl.cs" />
+    <Compile Include="Classes\PrintReestrError.cs" />
+    <Compile Include="Classes\PullConnectBD.cs" />
+    <Compile Include="Classes\QuerySQL.cs" />
+    <Compile Include="Classes\ReestrControl.cs" />
+    <Compile Include="Classes\ReestrErrorControl.cs" />
+    <Compile Include="Classes\ReestrNoPrintDog.cs" />
+    <Compile Include="Classes\RowExcel.cs" />
+    <Compile Include="Classes\UpdateSearch.cs" />
+    <Compile Include="Classes\ValidatContractBD.cs" />
+    <Compile Include="Classes\ValidateContract.cs" />
+    <Compile Include="Classes\ValidateRows.cs" />
+    <Compile Include="Classes\ValidateЭСРН.cs" />
+    <Compile Include="Classes\WriteBD.cs" />
+    <Compile Include="Classes\ТаблицаБД.cs" />
+    <Compile Include="Classes\ЭСРНvalidate.cs" />
+    <Compile Include="FirstLoadHospital.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FirstLoadHospital.Designer.cs">
+      <DependentUpon>FirstLoadHospital.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormConfigSearch.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormConfigSearch.Designer.cs">
+      <DependentUpon>FormConfigSearch.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormError.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormError.Designer.cs">
+      <DependentUpon>FormError.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormErrors.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormErrors.Designer.cs">
+      <DependentUpon>FormErrors.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormExcel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormExcel.Designer.cs">
+      <DependentUpon>FormExcel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormInfoЛьготник.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormInfoЛьготник.Designer.cs">
+      <DependentUpon>FormInfoЛьготник.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormSelectПостановление.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormSelectПостановление.Designer.cs">
+      <DependentUpon>FormSelectПостановление.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormValidOut.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormValidOut.Designer.cs">
+      <DependentUpon>FormValidOut.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormОжидание.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormОжидание.Designer.cs">
+      <DependentUpon>FormОжидание.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormПостановление.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormПостановление.Designer.cs">
+      <DependentUpon>FormПостановление.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainForm.Designer.cs">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="FirstLoadHospital.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>FirstLoadHospital.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormConfigSearch.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>FormConfigSearch.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormError.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>FormError.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormErrors.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>FormErrors.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormExcel.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>FormExcel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormInfoЛьготник.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>FormInfoЛьготник.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormSelectПостановление.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>FormSelectПостановление.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormValidOut.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>FormValidOut.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormОжидание.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>FormОжидание.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormПостановление.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>FormПостановление.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainForm.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="app.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="Шаблон\Письмо  Возврат.doc" />
+    <None Include="Шаблон\Реестр.doc" />
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="Microsoft.Office.Core">
+      <Guid>{2DF8D04C-5BFA-101B-BDE5-00AA0044DE52}</Guid>
+      <VersionMajor>2</VersionMajor>
+      <VersionMinor>3</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+    <COMReference Include="VBIDE">
+      <Guid>{0002E157-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>5</VersionMajor>
+      <VersionMinor>3</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+    <COMReference Include="Word">
+      <Guid>{00020905-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>8</VersionMajor>
+      <VersionMinor>3</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="asd.ico" />
+    <Content Include="time12.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Документы\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

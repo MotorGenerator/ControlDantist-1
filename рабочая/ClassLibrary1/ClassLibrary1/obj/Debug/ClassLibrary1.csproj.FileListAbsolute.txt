@@ -1,0 +1,6 @@
+D:\222\ControlDantist\ClassLibrary1\ClassLibrary1\bin\Debug\ClassLibrary1.dll.config
+D:\222\ControlDantist\ClassLibrary1\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+D:\222\ControlDantist\ClassLibrary1\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+D:\222\ControlDantist\ClassLibrary1\ClassLibrary1\obj\Debug\ResolveAssemblyReference.cache
+D:\222\ControlDantist\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+D:\222\ControlDantist\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.pdb

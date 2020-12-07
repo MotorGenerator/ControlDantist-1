@@ -1,0 +1,65 @@
+D:\Проекты\ControlDantist\ControlDantist\obj\Debug\ResolveAssemblyReference.cache
+D:\Проекты\ControlDantist\ControlDantist\obj\Debug\ControlDantist.MainForm.resources
+D:\Проекты\ControlDantist\ControlDantist\obj\Debug\ControlDantist.Properties.Resources.resources
+D:\Проекты\ControlDantist\ControlDantist\obj\Debug\ControlDantist.csproj.GenerateResource.Cache
+D:\Проекты\ControlDantist\ControlDantist\bin\Debug\ControlDantist.exe
+D:\Проекты\ControlDantist\ControlDantist\bin\Debug\ControlDantist.pdb
+D:\Проекты\ControlDantist\ControlDantist\obj\Debug\ControlDantist.exe
+D:\Проекты\ControlDantist\ControlDantist\obj\Debug\ControlDantist.pdb
+D:\Проекты\ControlDantist\ControlDantist\bin\Debug\DantistLibrary.dll
+D:\Проекты\ControlDantist\ControlDantist\bin\Debug\DantistLibrary.pdb
+D:\Проекты\ControlDantist\ControlDantist\bin\Debug\ControlDantist.exe.config
+D:\Проекты\ControlDantist\ControlDantist\obj\Debug\ControlDantist.FirstLoadHospital.resources
+D:\Проекты\ControlDantist\ControlDantist\obj\Debug\ControlDantist.FormПостановление.resources
+D:\Проекты\ControlDantist\ControlDantist\obj\Debug\ControlDantist.FormSelectПостановление.resources
+D:\Проекты\ControlDantist\ControlDantist\obj\Debug\ControlDantist.FormError.resources
+D:\Проекты\ControlDantist\ControlDantist\obj\Debug\ControlDantist.csproj.ResolveComReference.cache
+D:\Проекты\ControlDantist\ControlDantist\obj\Debug\ControlDantist.FormOutValid.resources
+D:\Проекты\ControlDantist\ControlDantist\obj\Debug\ControlDantist.FormValidOut.resources
+D:\Проекты\ControlDantist\ControlDantist\obj\Debug\ControlDantist.FormConfigSearch.resources
+D:\Проекты\ControlDantist\ControlDantist\bin\Release\ControlDantist.exe.config
+D:\Проекты\ControlDantist\ControlDantist\bin\Release\ControlDantist.exe
+D:\Проекты\ControlDantist\ControlDantist\bin\Release\ControlDantist.pdb
+D:\Проекты\ControlDantist\ControlDantist\bin\Release\DantistLibrary.dll
+D:\Проекты\ControlDantist\ControlDantist\bin\Release\DantistLibrary.pdb
+D:\Проекты\ControlDantist\ControlDantist\obj\Release\ResolveAssemblyReference.cache
+D:\Проекты\ControlDantist\ControlDantist\obj\Release\ControlDantist.csproj.ResolveComReference.cache
+D:\Проекты\ControlDantist\ControlDantist\obj\Release\ControlDantist.FirstLoadHospital.resources
+D:\Проекты\ControlDantist\ControlDantist\obj\Release\ControlDantist.FormConfigSearch.resources
+D:\Проекты\ControlDantist\ControlDantist\obj\Release\ControlDantist.FormError.resources
+D:\Проекты\ControlDantist\ControlDantist\obj\Release\ControlDantist.FormOutValid.resources
+D:\Проекты\ControlDantist\ControlDantist\obj\Release\ControlDantist.FormSelectПостановление.resources
+D:\Проекты\ControlDantist\ControlDantist\obj\Release\ControlDantist.FormValidOut.resources
+D:\Проекты\ControlDantist\ControlDantist\obj\Release\ControlDantist.FormПостановление.resources
+D:\Проекты\ControlDantist\ControlDantist\obj\Release\ControlDantist.MainForm.resources
+D:\Проекты\ControlDantist\ControlDantist\obj\Release\ControlDantist.Properties.Resources.resources
+D:\Проекты\ControlDantist\ControlDantist\obj\Release\ControlDantist.csproj.GenerateResource.Cache
+D:\Проекты\ControlDantist\ControlDantist\obj\Release\ControlDantist.exe
+D:\Проекты\ControlDantist\ControlDantist\obj\Release\ControlDantist.pdb
+D:\Проекты\ControlDantist\ControlDantist\obj\Release\ControlDantist.FormОжидание.resources
+D:\Проекты\ControlDantist\ControlDantist\obj\Debug\ControlDantist.FormОжидание.resources
+D:\Проекты\ControlDantist\ControlDantist\obj\Debug\ControlDantist.FormExcel.resources
+D:\Проекты\ControlDantist\ControlDantist\obj\Debug\ControlDantist.FormInfoЛьготник.resources
+D:\Проекты\ControlDantist\ControlDantist\obj\Release\ControlDantist.FormExcel.resources
+D:\Проекты\ControlDantist\ControlDantist\obj\Release\ControlDantist.FormInfoЛьготник.resources
+D:\Для обмена\Аборвалов\ControlDantist\рабочая\ControlDantist\ControlDantist\bin\Debug\ControlDantist.exe.config
+D:\Для обмена\Аборвалов\ControlDantist\рабочая\ControlDantist\ControlDantist\obj\Debug\ControlDantist.exe
+D:\Для обмена\Аборвалов\ControlDantist\рабочая\ControlDantist\ControlDantist\obj\Debug\ControlDantist.pdb
+D:\Для обмена\Аборвалов\ControlDantist\рабочая\ControlDantist\ControlDantist\bin\Debug\ControlDantist.exe
+D:\Для обмена\Аборвалов\ControlDantist\рабочая\ControlDantist\ControlDantist\bin\Debug\ControlDantist.pdb
+D:\Для обмена\Аборвалов\ControlDantist\рабочая\ControlDantist\ControlDantist\bin\Debug\DantistLibrary.pdb
+D:\Для обмена\Аборвалов\ControlDantist\рабочая\ControlDantist\ControlDantist\obj\Debug\ResolveAssemblyReference.cache
+D:\Для обмена\Аборвалов\ControlDantist\рабочая\ControlDantist\ControlDantist\obj\Debug\ControlDantist.csproj.ResolveComReference.cache
+D:\Для обмена\Аборвалов\ControlDantist\рабочая\ControlDantist\ControlDantist\obj\Debug\ControlDantist.FirstLoadHospital.resources
+D:\Для обмена\Аборвалов\ControlDantist\рабочая\ControlDantist\ControlDantist\obj\Debug\ControlDantist.FormConfigSearch.resources
+D:\Для обмена\Аборвалов\ControlDantist\рабочая\ControlDantist\ControlDantist\obj\Debug\ControlDantist.FormError.resources
+D:\Для обмена\Аборвалов\ControlDantist\рабочая\ControlDantist\ControlDantist\obj\Debug\ControlDantist.FormOutValid.resources
+D:\Для обмена\Аборвалов\ControlDantist\рабочая\ControlDantist\ControlDantist\obj\Debug\ControlDantist.FormExcel.resources
+D:\Для обмена\Аборвалов\ControlDantist\рабочая\ControlDantist\ControlDantist\obj\Debug\ControlDantist.FormInfoЛьготник.resources
+D:\Для обмена\Аборвалов\ControlDantist\рабочая\ControlDantist\ControlDantist\obj\Debug\ControlDantist.FormSelectПостановление.resources
+D:\Для обмена\Аборвалов\ControlDantist\рабочая\ControlDantist\ControlDantist\obj\Debug\ControlDantist.FormValidOut.resources
+D:\Для обмена\Аборвалов\ControlDantist\рабочая\ControlDantist\ControlDantist\obj\Debug\ControlDantist.FormОжидание.resources
+D:\Для обмена\Аборвалов\ControlDantist\рабочая\ControlDantist\ControlDantist\obj\Debug\ControlDantist.FormПостановление.resources
+D:\Для обмена\Аборвалов\ControlDantist\рабочая\ControlDantist\ControlDantist\obj\Debug\ControlDantist.MainForm.resources
+D:\Для обмена\Аборвалов\ControlDantist\рабочая\ControlDantist\ControlDantist\obj\Debug\ControlDantist.Properties.Resources.resources
+D:\Для обмена\Аборвалов\ControlDantist\рабочая\ControlDantist\ControlDantist\obj\Debug\ControlDantist.csproj.GenerateResource.Cache

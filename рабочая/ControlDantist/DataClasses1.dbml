@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="Dentists" Class="DataClasses1DataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=10.159.102.21;Initial Catalog=Dentists;Persist Security Info=True;User ID=admin" SettingsObjectName="ControlDantist.Properties.Settings" SettingsPropertyName="DentistsConnectionString1" Provider="System.Data.SqlClient" />
+  <Table Name="" Member="АктВыполненныхРабот">
+    <Type Name="АктВыполненныхРабот">
+      <Column Name="id_акт" Type="System.Int32" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="id_договор" Type="System.Int32" CanBeNull="false" />
+      <Column Name="НомерАкта" Type="System.String" CanBeNull="false" />
+      <Column Name="ДатаПодписания" Type="System.DateTime" CanBeNull="false" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Договор" Member="Договор">
+    <Type Name="Договор">
+      <Column Name="id_договор" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="НомерДоговора" Type="System.String" DbType="NChar(100)" CanBeNull="true" />
+      <Column Name="ДатаДоговора" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="ДатаАктаВыполненныхРабот" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="СуммаАктаВыполненныхРабот" Type="System.Decimal" DbType="Money" CanBeNull="true" />
+      <Column Name="id_льготнаяКатегория" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="id_поликлинника" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Примечание" Type="System.String" DbType="NVarChar(300)" CanBeNull="true" />
+      <Column Name="id_комитет" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="ФлагНаличияДоговора" Type="System.Boolean" DbType="Bit" CanBeNull="true" />
+      <Column Name="ФлагНаличияАкта" Type="System.Boolean" DbType="Bit" CanBeNull="true" />
+      <Column Name="id_льготник" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="ФлагДопСоглашения" Type="System.String" DbType="NChar(50)" CanBeNull="true" />
+      <Column Name="флагСРН" Type="System.Boolean" DbType="Bit" CanBeNull="true" />
+      <Column Name="флагУслуги" Type="System.Boolean" DbType="Bit" CanBeNull="true" />
+      <Column Name="датаВозврата" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="ДатаЗаписиДоговора" Type="System.DateTime" DbType="Date" CanBeNull="true" />
+      <Column Name="ФлагПроверки" Type="System.Boolean" DbType="Bit" CanBeNull="true" />
+      <Column Name="НомерРеестра" Type="System.String" DbType="NChar(30)" CanBeNull="true" />
+      <Column Name="ДатаРеестра" Type="System.DateTime" DbType="Date" CanBeNull="true" />
+      <Column Name="НомерСчётФактрура" Type="System.String" DbType="NChar(30)" CanBeNull="true" />
+      <Column Name="ДатаСчётФактура" Type="System.DateTime" DbType="Date" CanBeNull="true" />
+      <Column Name="logWrite" Type="System.String" DbType="VarChar(150)" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.УслугиПоДоговору" Member="УслугиПоДоговору">
+    <Type Name="УслугиПоДоговору">
+      <Column Name="id_услугиДоговор" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="НаименованиеУслуги" Type="System.String" DbType="NVarChar(500)" CanBeNull="true" />
+      <Column Name="цена" Type="System.Decimal" DbType="Money" CanBeNull="true" />
+      <Column Name="Количество" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="id_договор" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="НомерПоПеречню" Type="System.String" DbType="NChar(50)" CanBeNull="true" />
+      <Column Name="Сумма" Type="System.Decimal" DbType="Money" CanBeNull="true" />
+      <Column Name="ТехЛист" Type="System.Int32" DbType="Int" CanBeNull="true" />
+    </Type>
+  </Table>
+</Database>

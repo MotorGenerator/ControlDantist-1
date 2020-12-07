@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.875" name="DataClasses4">
+  <DataContextMoniker Name="/DataClasses4DataContext" />
+  <nestedChildShapes>
+    <classShape Id="6f570169-4ebb-4398-b748-a764e580d4fd" absoluteBounds="2, 1.875, 2, 1.3862939453125">
+      <DataClassMoniker Name="/DataClasses4DataContext/ПоликлинникиИнн" />
+      <nestedChildShapes>
+        <elementListCompartment Id="32baded5-7392-46dd-a519-0417f77b50bd" absoluteBounds="2.015, 2.335, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="0d4d35d1-7e21-4075-8d79-64ab81cdfe64" absoluteBounds="0.5, 0.5, 2, 1.1939925130208333">
+      <DataClassMoniker Name="/DataClasses4DataContext/ЛьготнаяКатегория" />
+      <nestedChildShapes>
+        <elementListCompartment Id="cc7cfeac-632e-4814-9879-3fa00ea639c3" absoluteBounds="0.51500000000000012, 0.96, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="b38e8f76-bdf2-495a-86f4-5ff4199da505" absoluteBounds="4.125, 4.25, 2, 2.1554996744791666">
+      <DataClassMoniker Name="/DataClasses4DataContext/ViewСуммаДоговоровБезАкта" />
+      <nestedChildShapes>
+        <elementListCompartment Id="7be2d4b8-a1c6-472e-8656-2edcfbe24d68" absoluteBounds="4.14, 4.71, 1.9700000000000002, 1.5954996744791665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="03a9e632-8c5b-44cd-894e-ba54e952bda1" absoluteBounds="1.5, 4.5, 2, 4.0785139973958326">
+      <DataClassMoniker Name="/DataClasses4DataContext/ViewИнвентаризация" />
+      <nestedChildShapes>
+        <elementListCompartment Id="fbf6241d-e80a-4f19-93d9-d4207d2ee542" absoluteBounds="1.5150000000000001, 4.96, 1.9700000000000002, 3.518513997395833" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

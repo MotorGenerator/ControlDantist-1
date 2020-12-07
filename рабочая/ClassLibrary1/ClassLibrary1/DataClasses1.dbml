@@ -1,0 +1,143 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="Dentists" Class="DataClasses1DataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=10.159.102.68;Initial Catalog=Dentists;Persist Security Info=True;User ID=php" SettingsObjectName="ClassLibrary1.Properties.Settings" SettingsPropertyName="DentistsConnectionString1" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.Договор" Member="Договор">
+    <Type Name="Договор">
+      <Column Name="id_договор" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="НомерДоговора" Type="System.String" DbType="NChar(100)" CanBeNull="true" />
+      <Column Name="ДатаДоговора" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="ДатаАктаВыполненныхРабот" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="СуммаАктаВыполненныхРабот" Type="System.Decimal" DbType="Money" CanBeNull="true" />
+      <Column Name="id_льготнаяКатегория" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="id_поликлинника" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Примечание" Type="System.String" DbType="NVarChar(300)" CanBeNull="true" />
+      <Column Name="id_комитет" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="ФлагНаличияДоговора" Type="System.Boolean" DbType="Bit" CanBeNull="true" />
+      <Column Name="ФлагНаличияАкта" Type="System.Boolean" DbType="Bit" CanBeNull="true" />
+      <Column Name="id_льготник" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="ФлагДопСоглашения" Type="System.String" DbType="NChar(50)" CanBeNull="true" />
+      <Column Name="флагСРН" Type="System.Boolean" DbType="Bit" CanBeNull="true" />
+      <Column Name="флагУслуги" Type="System.Boolean" DbType="Bit" CanBeNull="true" />
+      <Column Name="датаВозврата" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="ДатаЗаписиДоговора" Type="System.DateTime" DbType="Date" CanBeNull="true" />
+      <Column Name="ФлагПроверки" Type="System.Boolean" DbType="Bit" CanBeNull="true" />
+      <Column Name="НомерРеестра" Type="System.String" DbType="NChar(30)" CanBeNull="true" />
+      <Column Name="ДатаРеестра" Type="System.DateTime" DbType="Date" CanBeNull="true" />
+      <Column Name="НомерСчётФактрура" Type="System.String" DbType="NChar(30)" CanBeNull="true" />
+      <Column Name="ДатаСчётФактура" Type="System.DateTime" DbType="Date" CanBeNull="true" />
+      <Column Name="logWrite" Type="System.String" DbType="VarChar(150)" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.АктВыполненныхРабот" Member="АктВыполненныхРабот">
+    <Type Name="АктВыполненныхРабот">
+      <Column Name="id_акт" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="НомерАкта" Type="System.String" DbType="NChar(100)" CanBeNull="true" />
+      <Column Name="id_договор" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="ФлагПодписания" Type="System.String" DbType="NChar(10)" CanBeNull="true" />
+      <Column Name="ДатаПодписания" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="НомерПоПеречню" Type="System.String" DbType="NChar(50)" CanBeNull="true" />
+      <Column Name="НаименованиеУслуги" Type="System.String" DbType="NVarChar(300)" CanBeNull="true" />
+      <Column Name="Цена" Type="System.Decimal" DbType="Money" CanBeNull="true" />
+      <Column Name="Количество" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Сумма" Type="System.Decimal" DbType="Money" CanBeNull="true" />
+      <Column Name="ФлагДопСоглашение" Type="System.String" DbType="NChar(5)" CanBeNull="true" />
+      <Column Name="НомерРеестра" Type="System.String" DbType="NChar(10)" CanBeNull="true" />
+      <Column Name="ДатаРеестра" Type="System.DateTime" DbType="Date" CanBeNull="true" />
+      <Column Name="НомерСчётФактуры" Type="System.String" DbType="NChar(10)" CanBeNull="true" />
+      <Column Name="ДатаСчётФактуры" Type="System.DateTime" DbType="Date" CanBeNull="true" />
+      <Column Name="ДатаОплаты" Type="System.String" DbType="VarChar(10)" CanBeNull="true" />
+      <Column Name="logWrite" Type="System.String" DbType="VarChar(150)" CanBeNull="true" />
+      <Column Name="logDate" Type="System.String" DbType="NChar(12)" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Льготник" Member="Льготник">
+    <Type Name="Льготник">
+      <Column Name="id_льготник" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="Фамилия" Type="System.String" DbType="NVarChar(150)" CanBeNull="true" />
+      <Column Name="Имя" Type="System.String" DbType="NVarChar(150)" CanBeNull="true" />
+      <Column Name="Отчество" Type="System.String" DbType="NVarChar(150)" CanBeNull="true" />
+      <Column Name="ДатаРождения" Type="System.DateTime" DbType="Date" CanBeNull="true" />
+      <Column Name="улица" Type="System.String" DbType="NVarChar(200)" CanBeNull="true" />
+      <Column Name="НомерДома" Type="System.String" DbType="NChar(10)" CanBeNull="true" />
+      <Column Name="корпус" Type="System.String" DbType="NChar(10)" CanBeNull="true" />
+      <Column Name="НомерКвартиры" Type="System.String" DbType="NChar(10)" CanBeNull="true" />
+      <Column Name="СерияПаспорта" Type="System.String" DbType="NChar(10)" CanBeNull="true" />
+      <Column Name="НомерПаспорта" Type="System.String" DbType="NChar(10)" CanBeNull="true" />
+      <Column Name="ДатаВыдачиПаспорта" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="КемВыданПаспорт" Type="System.String" DbType="NVarChar(500)" CanBeNull="true" />
+      <Column Name="id_льготнойКатегории" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="id_документ" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="СерияДокумента" Type="System.String" DbType="NChar(30)" CanBeNull="true" />
+      <Column Name="НомерДокумента" Type="System.String" DbType="NChar(10)" CanBeNull="true" />
+      <Column Name="ДатаВыдачиДокумента" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="КемВыданДокумент" Type="System.String" DbType="NVarChar(500)" CanBeNull="true" />
+      <Column Name="id_область" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="id_район" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="id_насПункт" Type="System.Int32" DbType="Int" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.УслугиПоДоговору" Member="УслугиПоДоговору">
+    <Type Name="УслугиПоДоговору">
+      <Column Name="id_услугиДоговор" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="НаименованиеУслуги" Type="System.String" DbType="NVarChar(300)" CanBeNull="true" />
+      <Column Name="цена" Type="System.Decimal" DbType="Money" CanBeNull="true" />
+      <Column Name="Количество" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="id_договор" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="НомерПоПеречню" Type="System.String" DbType="NChar(50)" CanBeNull="true" />
+      <Column Name="Сумма" Type="System.Decimal" DbType="Money" CanBeNull="true" />
+      <Column Name="ТехЛист" Type="System.Int32" DbType="Int" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Поликлинника" Member="Поликлинника">
+    <Type Name="Поликлинника">
+      <Column Name="id_поликлинника" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="НаименованиеПоликлинники" Type="System.String" DbType="NVarChar(300)" CanBeNull="true" />
+      <Column Name="КодПоликлинники" Type="System.String" DbType="NChar(10)" CanBeNull="true" />
+      <Column Name="ЮридическийАдрес" Type="System.String" DbType="NVarChar(500)" CanBeNull="true" />
+      <Column Name="ФактическийАдрес" Type="System.String" DbType="NVarChar(500)" CanBeNull="true" />
+      <Column Name="id_главВрач" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="id_главБух" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="СвидетельствоРегистрации" Type="System.String" DbType="NChar(30)" CanBeNull="true" />
+      <Column Name="ИНН" Type="System.String" DbType="NChar(20)" CanBeNull="true" />
+      <Column Name="КПП" Type="System.String" DbType="NChar(20)" CanBeNull="true" />
+      <Column Name="БИК" Type="System.String" DbType="NChar(20)" CanBeNull="true" />
+      <Column Name="НаименованиеБанка" Type="System.String" DbType="NVarChar(200)" CanBeNull="true" />
+      <Column Name="РасчётныйСчёт" Type="System.String" DbType="NChar(20)" CanBeNull="true" />
+      <Column Name="ЛицевойСчёт" Type="System.String" DbType="NChar(10)" CanBeNull="true" />
+      <Column Name="НомерЛицензии" Type="System.String" DbType="NChar(20)" CanBeNull="true" />
+      <Column Name="ДатаРегистрацииЛицензии" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="ОГРН" Type="System.String" DbType="NChar(20)" CanBeNull="true" />
+      <Column Name="СвидетельствоРегистрацииЕГРЮЛ" Type="System.String" DbType="NChar(255)" CanBeNull="true" />
+      <Column Name="ОрганВыдавшийЛицензию" Type="System.String" DbType="NChar(255)" CanBeNull="true" />
+      <Column Name="Постановление" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="ОКПО" Type="System.String" DbType="NChar(50)" CanBeNull="true" />
+      <Column Name="ОКАТО" Type="System.String" DbType="NChar(50)" CanBeNull="true" />
+      <Column Name="Flag" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="НачальныйНомерДоговора" Type="System.Int32" DbType="Int" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.ЛьготнаяКатегория" Member="ЛьготнаяКатегория">
+    <Type Name="ЛьготнаяКатегория">
+      <Column Name="id_льготнойКатегории" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="ЛьготнаяКатегория" Member="ЛьготнаяКатегория1" Type="System.String" DbType="NChar(200)" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.ТипДокумента" Member="ТипДокумента">
+    <Type Name="ТипДокумента">
+      <Column Name="id_документ" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="НаименованиеТипаДокумента" Type="System.String" DbType="NChar(255)" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.НаселённыйПункт" Member="НаселённыйПункт">
+    <Type Name="НаселённыйПункт">
+      <Column Name="id_насПункт" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="Наименование" Type="System.String" DbType="NChar(250)" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.НаименованиеРайона" Member="НаименованиеРайона">
+    <Type Name="НаименованиеРайона">
+      <Column Name="id_район" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="РайонОбласти" Type="System.String" DbType="NChar(200)" CanBeNull="true" />
+      <Column Name="id_террОргана" Type="System.Int32" DbType="Int" CanBeNull="true" />
+    </Type>
+  </Table>
+</Database>

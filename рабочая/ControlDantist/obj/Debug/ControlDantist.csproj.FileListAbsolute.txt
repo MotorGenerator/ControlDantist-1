@@ -1,0 +1,634 @@
+D:\Проекты\asd\ControlDantist\ControlDantist\bin\Debug\ControlDantist.exe.config
+D:\Проекты\asd\ControlDantist\ControlDantist\obj\Debug\ControlDantist.csproj.ResolveComReference.cache
+D:\Проекты\asd\ControlDantist\ControlDantist\obj\Debug\ControlDantist.exe
+D:\Проекты\asd\ControlDantist\ControlDantist\obj\Debug\ControlDantist.pdb
+D:\Проекты\asd\ControlDantist\ControlDantist\obj\Debug\ResolveAssemblyReference.cache
+D:\Проекты\asd\ControlDantist\ControlDantist\obj\Debug\ControlDantist.FirstLoadHospital.resources
+D:\Проекты\asd\ControlDantist\ControlDantist\obj\Debug\ControlDantist.FormConfigSearch.resources
+D:\Проекты\asd\ControlDantist\ControlDantist\obj\Debug\ControlDantist.FormConfigРайон.resources
+D:\Проекты\asd\ControlDantist\ControlDantist\obj\Debug\ControlDantist.FormControlContract.resources
+D:\Проекты\asd\ControlDantist\ControlDantist\obj\Debug\ControlDantist.FormDepartment.resources
+D:\Проекты\asd\ControlDantist\ControlDantist\obj\Debug\ControlDantist.FormDispContract.resources
+D:\Проекты\asd\ControlDantist\ControlDantist\obj\Debug\ControlDantist.FormDisplayReestr.resources
+D:\Проекты\asd\ControlDantist\ControlDantist\obj\Debug\ControlDantist.FormError.resources
+D:\Проекты\asd\ControlDantist\ControlDantist\obj\Debug\ControlDantist.FormOutValid.resources
+D:\Проекты\asd\ControlDantist\ControlDantist\obj\Debug\ControlDantist.FormExcel.resources
+D:\Проекты\asd\ControlDantist\ControlDantist\obj\Debug\ControlDantist.FormHeadDepartment.resources
+D:\Проекты\asd\ControlDantist\ControlDantist\obj\Debug\ControlDantist.FormInfoЛьготник.resources
+D:\Проекты\asd\ControlDantist\ControlDantist\obj\Debug\ControlDantist.FormReestr.resources
+D:\Проекты\asd\ControlDantist\ControlDantist\obj\Debug\ControlDantist.FormReestrDisplay.resources
+D:\Проекты\asd\ControlDantist\ControlDantist\obj\Debug\ControlDantist.FormSelectHeadDepartment.resources
+D:\Проекты\asd\ControlDantist\ControlDantist\obj\Debug\ControlDantist.FormSelectПостановление.resources
+D:\Проекты\asd\ControlDantist\ControlDantist\obj\Debug\ControlDantist.FormSum.resources
+D:\Проекты\asd\ControlDantist\ControlDantist\obj\Debug\ControlDantist.FormValidContract.resources
+D:\Проекты\asd\ControlDantist\ControlDantist\obj\Debug\ControlDantist.FormValidOut.resources
+D:\Проекты\asd\ControlDantist\ControlDantist\obj\Debug\ControlDantist.FormОжидание.resources
+D:\Проекты\asd\ControlDantist\ControlDantist\obj\Debug\ControlDantist.FormПостановление.resources
+D:\Проекты\asd\ControlDantist\ControlDantist\obj\Debug\ControlDantist.MainForm.resources
+D:\Проекты\asd\ControlDantist\ControlDantist\obj\Debug\ControlDantist.Properties.Resources.resources
+D:\Проекты\asd\ControlDantist\ControlDantist\obj\Debug\GenerateResource.read.1.tlog
+D:\Проекты\asd\ControlDantist\ControlDantist\obj\Debug\GenerateResource.write.1.tlog
+D:\Проекты\asd\ControlDantist\ControlDantist\bin\Debug\ControlDantist.exe
+D:\Проекты\asd\ControlDantist\ControlDantist\bin\Debug\ControlDantist.pdb
+D:\Проекты\asd\ControlDantist\ControlDantist\bin\Debug\DantistLibrary.dll
+D:\Проекты\ControlDantist\ControlDantist\ControlDantist\bin\Debug\ControlDantist.exe.config
+D:\Проекты\ControlDantist\ControlDantist\ControlDantist\obj\Debug\ControlDantist.csproj.ResolveComReference.cache
+D:\Проекты\ControlDantist\ControlDantist\ControlDantist\obj\Debug\ControlDantist.exe
+D:\Проекты\ControlDantist\ControlDantist\ControlDantist\obj\Debug\ControlDantist.pdb
+D:\Проекты\ControlDantist\ControlDantist\ControlDantist\bin\Debug\ControlDantist.exe
+D:\Проекты\ControlDantist\ControlDantist\ControlDantist\bin\Debug\ControlDantist.pdb
+D:\Проекты\ControlDantist\ControlDantist\ControlDantist\bin\Debug\DantistLibrary.dll
+D:\Проекты\ControlDantist\ControlDantist\ControlDantist\obj\Debug\ResolveAssemblyReference.cache
+D:\Проекты\ControlDantist\ControlDantist\ControlDantist\obj\Debug\ControlDantist.FirstLoadHospital.resources
+D:\Проекты\ControlDantist\ControlDantist\ControlDantist\obj\Debug\ControlDantist.FormConfigSearch.resources
+D:\Проекты\ControlDantist\ControlDantist\ControlDantist\obj\Debug\ControlDantist.FormConfigРайон.resources
+D:\Проекты\ControlDantist\ControlDantist\ControlDantist\obj\Debug\ControlDantist.FormControlContract.resources
+D:\Проекты\ControlDantist\ControlDantist\ControlDantist\obj\Debug\ControlDantist.FormDepartment.resources
+D:\Проекты\ControlDantist\ControlDantist\ControlDantist\obj\Debug\ControlDantist.FormDispContract.resources
+D:\Проекты\ControlDantist\ControlDantist\ControlDantist\obj\Debug\ControlDantist.FormDisplayReestr.resources
+D:\Проекты\ControlDantist\ControlDantist\ControlDantist\obj\Debug\ControlDantist.FormError.resources
+D:\Проекты\ControlDantist\ControlDantist\ControlDantist\obj\Debug\ControlDantist.FormOutValid.resources
+D:\Проекты\ControlDantist\ControlDantist\ControlDantist\obj\Debug\ControlDantist.FormExcel.resources
+D:\Проекты\ControlDantist\ControlDantist\ControlDantist\obj\Debug\ControlDantist.FormHeadDepartment.resources
+D:\Проекты\ControlDantist\ControlDantist\ControlDantist\obj\Debug\ControlDantist.FormInfoЛьготник.resources
+D:\Проекты\ControlDantist\ControlDantist\ControlDantist\obj\Debug\ControlDantist.FormReestr.resources
+D:\Проекты\ControlDantist\ControlDantist\ControlDantist\obj\Debug\ControlDantist.FormReestrDisplay.resources
+D:\Проекты\ControlDantist\ControlDantist\ControlDantist\obj\Debug\ControlDantist.FormSelectHeadDepartment.resources
+D:\Проекты\ControlDantist\ControlDantist\ControlDantist\obj\Debug\ControlDantist.FormSelectПостановление.resources
+D:\Проекты\ControlDantist\ControlDantist\ControlDantist\obj\Debug\ControlDantist.FormSum.resources
+D:\Проекты\ControlDantist\ControlDantist\ControlDantist\obj\Debug\ControlDantist.FormValidContract.resources
+D:\Проекты\ControlDantist\ControlDantist\ControlDantist\obj\Debug\ControlDantist.FormValidOut.resources
+D:\Проекты\ControlDantist\ControlDantist\ControlDantist\obj\Debug\ControlDantist.FormОжидание.resources
+D:\Проекты\ControlDantist\ControlDantist\ControlDantist\obj\Debug\ControlDantist.FormПостановление.resources
+D:\Проекты\ControlDantist\ControlDantist\ControlDantist\obj\Debug\ControlDantist.MainForm.resources
+D:\Проекты\ControlDantist\ControlDantist\ControlDantist\obj\Debug\ControlDantist.Properties.Resources.resources
+D:\Проекты\ControlDantist\ControlDantist\ControlDantist\obj\Debug\GenerateResource.read.1.tlog
+D:\Проекты\ControlDantist\ControlDantist\ControlDantist\obj\Debug\GenerateResource.write.1.tlog
+D:\Проекты\ControlDantist\ControlDantist\ControlDantist\obj\Debug\ControlDantist.FormSelect.resources
+D:\Проекты\ControlDantist\ControlDantist\ControlDantist\obj\Debug\ControlDantist.FormDate.resources
+D:\Проекты\ControlDantist\ControlDantist\ControlDantist\obj\Debug\ControlDantist.FormModalPerson.resources
+D:\Проекты\ControlDantist\ControlDantist\ControlDantist\obj\Debug\ControlDantist.MyMessage.resources
+D:\Проекты\ControlDantist\ControlDantist\ControlDantist\obj\Debug\ControlDantist.FormDisplayError.resources
+D:\Проекты\ControlDantist\ControlDantist\ControlDantist\obj\Debug\ControlDantist.FormDalogWriteBD.resources
+D:\111\ControlDantist\ControlDantist\bin\Debug\ControlDantist.exe.config
+D:\111\ControlDantist\ControlDantist\obj\Debug\ControlDantist.csproj.ResolveComReference.cache
+D:\111\ControlDantist\ControlDantist\obj\Debug\ControlDantist.exe
+D:\111\ControlDantist\ControlDantist\obj\Debug\ControlDantist.pdb
+D:\111\ControlDantist\ControlDantist\bin\Debug\ControlDantist.exe
+D:\111\ControlDantist\ControlDantist\bin\Debug\ControlDantist.pdb
+D:\111\ControlDantist\ControlDantist\bin\Debug\DantistLibrary.dll
+D:\111\ControlDantist\ControlDantist\obj\Debug\ResolveAssemblyReference.cache
+D:\111\ControlDantist\ControlDantist\obj\Debug\ControlDantist.FirstLoadHospital.resources
+D:\111\ControlDantist\ControlDantist\obj\Debug\ControlDantist.FormConfigSearch.resources
+D:\111\ControlDantist\ControlDantist\obj\Debug\ControlDantist.FormConfigРайон.resources
+D:\111\ControlDantist\ControlDantist\obj\Debug\ControlDantist.FormControlContract.resources
+D:\111\ControlDantist\ControlDantist\obj\Debug\ControlDantist.FormDalogWriteBD.resources
+D:\111\ControlDantist\ControlDantist\obj\Debug\ControlDantist.FormDate.resources
+D:\111\ControlDantist\ControlDantist\obj\Debug\ControlDantist.FormDepartment.resources
+D:\111\ControlDantist\ControlDantist\obj\Debug\ControlDantist.FormDispContract.resources
+D:\111\ControlDantist\ControlDantist\obj\Debug\ControlDantist.FormDisplayError.resources
+D:\111\ControlDantist\ControlDantist\obj\Debug\ControlDantist.FormDisplayReestr.resources
+D:\111\ControlDantist\ControlDantist\obj\Debug\ControlDantist.FormError.resources
+D:\111\ControlDantist\ControlDantist\obj\Debug\ControlDantist.FormOutValid.resources
+D:\111\ControlDantist\ControlDantist\obj\Debug\ControlDantist.FormExcel.resources
+D:\111\ControlDantist\ControlDantist\obj\Debug\ControlDantist.FormHeadDepartment.resources
+D:\111\ControlDantist\ControlDantist\obj\Debug\ControlDantist.FormInfoЛьготник.resources
+D:\111\ControlDantist\ControlDantist\obj\Debug\ControlDantist.FormModalPerson.resources
+D:\111\ControlDantist\ControlDantist\obj\Debug\ControlDantist.FormReestr.resources
+D:\111\ControlDantist\ControlDantist\obj\Debug\ControlDantist.FormReestrDisplay.resources
+D:\111\ControlDantist\ControlDantist\obj\Debug\ControlDantist.FormSelect.resources
+D:\111\ControlDantist\ControlDantist\obj\Debug\ControlDantist.FormSelectHeadDepartment.resources
+D:\111\ControlDantist\ControlDantist\obj\Debug\ControlDantist.FormSelectПостановление.resources
+D:\111\ControlDantist\ControlDantist\obj\Debug\ControlDantist.FormSum.resources
+D:\111\ControlDantist\ControlDantist\obj\Debug\ControlDantist.FormValidContract.resources
+D:\111\ControlDantist\ControlDantist\obj\Debug\ControlDantist.FormValidOut.resources
+D:\111\ControlDantist\ControlDantist\obj\Debug\ControlDantist.FormОжидание.resources
+D:\111\ControlDantist\ControlDantist\obj\Debug\ControlDantist.FormПостановление.resources
+D:\111\ControlDantist\ControlDantist\obj\Debug\ControlDantist.MainForm.resources
+D:\111\ControlDantist\ControlDantist\obj\Debug\ControlDantist.MyMessage.resources
+D:\111\ControlDantist\ControlDantist\obj\Debug\ControlDantist.Properties.Resources.resources
+D:\111\ControlDantist\ControlDantist\obj\Debug\GenerateResource.read.1.tlog
+D:\111\ControlDantist\ControlDantist\obj\Debug\GenerateResource.write.1.tlog
+D:\222\ControlDantist\ControlDantist\bin\Debug\ControlDantist.exe.config
+D:\222\ControlDantist\ControlDantist\obj\Debug\ControlDantist.csproj.ResolveComReference.cache
+D:\222\ControlDantist\ControlDantist\obj\Debug\ControlDantist.exe
+D:\222\ControlDantist\ControlDantist\obj\Debug\ControlDantist.pdb
+D:\222\ControlDantist\ControlDantist\bin\Debug\ControlDantist.exe
+D:\222\ControlDantist\ControlDantist\bin\Debug\ControlDantist.pdb
+D:\222\ControlDantist\ControlDantist\obj\Debug\ResolveAssemblyReference.cache
+D:\222\ControlDantist\ControlDantist\obj\Debug\ControlDantist.FirstLoadHospital.resources
+D:\222\ControlDantist\ControlDantist\obj\Debug\ControlDantist.FormConfigSearch.resources
+D:\222\ControlDantist\ControlDantist\obj\Debug\ControlDantist.FormConfigРайон.resources
+D:\222\ControlDantist\ControlDantist\obj\Debug\ControlDantist.FormControlContract.resources
+D:\222\ControlDantist\ControlDantist\obj\Debug\ControlDantist.FormDalogWriteBD.resources
+D:\222\ControlDantist\ControlDantist\obj\Debug\ControlDantist.FormDate.resources
+D:\222\ControlDantist\ControlDantist\obj\Debug\ControlDantist.FormDepartment.resources
+D:\222\ControlDantist\ControlDantist\obj\Debug\ControlDantist.FormDispContract.resources
+D:\222\ControlDantist\ControlDantist\obj\Debug\ControlDantist.FormDisplayError.resources
+D:\222\ControlDantist\ControlDantist\obj\Debug\ControlDantist.FormDisplayReestr.resources
+D:\222\ControlDantist\ControlDantist\obj\Debug\ControlDantist.FormError.resources
+D:\222\ControlDantist\ControlDantist\obj\Debug\ControlDantist.FormOutValid.resources
+D:\222\ControlDantist\ControlDantist\obj\Debug\ControlDantist.FormExcel.resources
+D:\222\ControlDantist\ControlDantist\obj\Debug\ControlDantist.FormHeadDepartment.resources
+D:\222\ControlDantist\ControlDantist\obj\Debug\ControlDantist.FormInfoЛьготник.resources
+D:\222\ControlDantist\ControlDantist\obj\Debug\ControlDantist.FormModalPerson.resources
+D:\222\ControlDantist\ControlDantist\obj\Debug\ControlDantist.FormReestr.resources
+D:\222\ControlDantist\ControlDantist\obj\Debug\ControlDantist.FormReestrDisplay.resources
+D:\222\ControlDantist\ControlDantist\obj\Debug\ControlDantist.FormSelect.resources
+D:\222\ControlDantist\ControlDantist\obj\Debug\ControlDantist.FormSelectHeadDepartment.resources
+D:\222\ControlDantist\ControlDantist\obj\Debug\ControlDantist.FormSelectПостановление.resources
+D:\222\ControlDantist\ControlDantist\obj\Debug\ControlDantist.FormSum.resources
+D:\222\ControlDantist\ControlDantist\obj\Debug\ControlDantist.FormValidContract.resources
+D:\222\ControlDantist\ControlDantist\obj\Debug\ControlDantist.FormValidOut.resources
+D:\222\ControlDantist\ControlDantist\obj\Debug\ControlDantist.FormОжидание.resources
+D:\222\ControlDantist\ControlDantist\obj\Debug\ControlDantist.FormПостановление.resources
+D:\222\ControlDantist\ControlDantist\obj\Debug\ControlDantist.MainForm.resources
+D:\222\ControlDantist\ControlDantist\obj\Debug\ControlDantist.MyMessage.resources
+D:\222\ControlDantist\ControlDantist\obj\Debug\ControlDantist.Properties.Resources.resources
+D:\222\ControlDantist\ControlDantist\obj\Debug\GenerateResource.read.1.tlog
+D:\222\ControlDantist\ControlDantist\obj\Debug\GenerateResource.write.1.tlog
+D:\222\ControlDantist\ControlDantist\obj\Debug\ControlDantist.СhangeAkt.resources
+D:\222\ControlDantist\ControlDantist\obj\Debug\ControlDantist.FormWriteBD.resources
+D:\222\ControlDantist\ControlDantist\bin\Debug\ClassLibrary1.pdb
+D:\222\ControlDantist\ControlDantist\obj\Debug\ControlDantist.FormReestrDate.resources
+D:\222\ControlDantist\ControlDantist\obj\Debug\ControlDantist.FormСписокПолучателей.resources
+D:\222\ControlDantist\ControlDantist\obj\Debug\ControlDantist.FormEditDateHospital.resources
+D:\222\ControlDantist\ControlDantist\obj\Debug\ControlDantist.FormMessage.resources
+D:\222\ControlDantist\ControlDantist\obj\Debug\ControlDantist.FormEditВидУслуг.resources
+D:\222\ControlDantist\ControlDantist\obj\Debug\ControlDantist.FormInv.resources
+D:\222\ControlDantist\ControlDantist\bin\Debug\DantistLibrary.pdb
+D:\222\Старый алгоритм поиска льготников\ControlDantist\bin\Debug\ControlDantist.exe.config
+D:\222\Старый алгоритм поиска льготников\ControlDantist\obj\Debug\ControlDantist.csproj.ResolveComReference.cache
+D:\222\Старый алгоритм поиска льготников\ControlDantist\obj\Debug\ControlDantist.exe
+D:\222\Старый алгоритм поиска льготников\ControlDantist\obj\Debug\ControlDantist.pdb
+D:\222\Старый алгоритм поиска льготников\ControlDantist\bin\Debug\ControlDantist.exe
+D:\222\Старый алгоритм поиска льготников\ControlDantist\bin\Debug\ControlDantist.pdb
+D:\222\Старый алгоритм поиска льготников\ControlDantist\bin\Debug\ClassLibrary1.pdb
+D:\222\Старый алгоритм поиска льготников\ControlDantist\bin\Debug\DantistLibrary.pdb
+D:\222\Старый алгоритм поиска льготников\ControlDantist\obj\Debug\ResolveAssemblyReference.cache
+D:\222\Старый алгоритм поиска льготников\ControlDantist\obj\Debug\ControlDantist.FirstLoadHospital.resources
+D:\222\Старый алгоритм поиска льготников\ControlDantist\obj\Debug\ControlDantist.FormConfigSearch.resources
+D:\222\Старый алгоритм поиска льготников\ControlDantist\obj\Debug\ControlDantist.FormConfigРайон.resources
+D:\222\Старый алгоритм поиска льготников\ControlDantist\obj\Debug\ControlDantist.FormControlContract.resources
+D:\222\Старый алгоритм поиска льготников\ControlDantist\obj\Debug\ControlDantist.FormDalogWriteBD.resources
+D:\222\Старый алгоритм поиска льготников\ControlDantist\obj\Debug\ControlDantist.FormDate.resources
+D:\222\Старый алгоритм поиска льготников\ControlDantist\obj\Debug\ControlDantist.FormDepartment.resources
+D:\222\Старый алгоритм поиска льготников\ControlDantist\obj\Debug\ControlDantist.FormDispContract.resources
+D:\222\Старый алгоритм поиска льготников\ControlDantist\obj\Debug\ControlDantist.FormDisplayError.resources
+D:\222\Старый алгоритм поиска льготников\ControlDantist\obj\Debug\ControlDantist.FormDisplayReestr.resources
+D:\222\Старый алгоритм поиска льготников\ControlDantist\obj\Debug\ControlDantist.FormEditDateHospital.resources
+D:\222\Старый алгоритм поиска льготников\ControlDantist\obj\Debug\ControlDantist.FormEditВидУслуг.resources
+D:\222\Старый алгоритм поиска льготников\ControlDantist\obj\Debug\ControlDantist.FormError.resources
+D:\222\Старый алгоритм поиска льготников\ControlDantist\obj\Debug\ControlDantist.FormOutValid.resources
+D:\222\Старый алгоритм поиска льготников\ControlDantist\obj\Debug\ControlDantist.FormExcel.resources
+D:\222\Старый алгоритм поиска льготников\ControlDantist\obj\Debug\ControlDantist.FormHeadDepartment.resources
+D:\222\Старый алгоритм поиска льготников\ControlDantist\obj\Debug\ControlDantist.FormInfoЛьготник.resources
+D:\222\Старый алгоритм поиска льготников\ControlDantist\obj\Debug\ControlDantist.FormInv.resources
+D:\222\Старый алгоритм поиска льготников\ControlDantist\obj\Debug\ControlDantist.FormMessage.resources
+D:\222\Старый алгоритм поиска льготников\ControlDantist\obj\Debug\ControlDantist.FormModalPerson.resources
+D:\222\Старый алгоритм поиска льготников\ControlDantist\obj\Debug\ControlDantist.FormReestr.resources
+D:\222\Старый алгоритм поиска льготников\ControlDantist\obj\Debug\ControlDantist.FormReestrDate.resources
+D:\222\Старый алгоритм поиска льготников\ControlDantist\obj\Debug\ControlDantist.FormReestrDisplay.resources
+D:\222\Старый алгоритм поиска льготников\ControlDantist\obj\Debug\ControlDantist.FormSelect.resources
+D:\222\Старый алгоритм поиска льготников\ControlDantist\obj\Debug\ControlDantist.FormSelectHeadDepartment.resources
+D:\222\Старый алгоритм поиска льготников\ControlDantist\obj\Debug\ControlDantist.FormSelectПостановление.resources
+D:\222\Старый алгоритм поиска льготников\ControlDantist\obj\Debug\ControlDantist.FormSum.resources
+D:\222\Старый алгоритм поиска льготников\ControlDantist\obj\Debug\ControlDantist.FormValidContract.resources
+D:\222\Старый алгоритм поиска льготников\ControlDantist\obj\Debug\ControlDantist.FormValidOut.resources
+D:\222\Старый алгоритм поиска льготников\ControlDantist\obj\Debug\ControlDantist.FormWriteBD.resources
+D:\222\Старый алгоритм поиска льготников\ControlDantist\obj\Debug\ControlDantist.FormОжидание.resources
+D:\222\Старый алгоритм поиска льготников\ControlDantist\obj\Debug\ControlDantist.FormПостановление.resources
+D:\222\Старый алгоритм поиска льготников\ControlDantist\obj\Debug\ControlDantist.FormСписокПолучателей.resources
+D:\222\Старый алгоритм поиска льготников\ControlDantist\obj\Debug\ControlDantist.MainForm.resources
+D:\222\Старый алгоритм поиска льготников\ControlDantist\obj\Debug\ControlDantist.MyMessage.resources
+D:\222\Старый алгоритм поиска льготников\ControlDantist\obj\Debug\ControlDantist.Properties.Resources.resources
+D:\222\Старый алгоритм поиска льготников\ControlDantist\obj\Debug\ControlDantist.СhangeAkt.resources
+D:\222\Старый алгоритм поиска льготников\ControlDantist\obj\Debug\GenerateResource.read.1.tlog
+D:\222\Старый алгоритм поиска льготников\ControlDantist\obj\Debug\GenerateResource.write.1.tlog
+D:\Проект ControlDantist\222\Старый алгоритм поиска льготников\ControlDantist\bin\Debug\ControlDantist.exe.config
+D:\Проект ControlDantist\222\Старый алгоритм поиска льготников\ControlDantist\obj\Debug\ControlDantist.csproj.ResolveComReference.cache
+D:\Проект ControlDantist\222\Старый алгоритм поиска льготников\ControlDantist\obj\Debug\ControlDantist.exe
+D:\Проект ControlDantist\222\Старый алгоритм поиска льготников\ControlDantist\obj\Debug\ControlDantist.pdb
+D:\Проект ControlDantist\222\Старый алгоритм поиска льготников\ControlDantist\bin\Debug\ControlDantist.exe
+D:\Проект ControlDantist\222\Старый алгоритм поиска льготников\ControlDantist\bin\Debug\ControlDantist.pdb
+D:\Проект ControlDantist\222\Старый алгоритм поиска льготников\ControlDantist\obj\Debug\ResolveAssemblyReference.cache
+D:\Проект ControlDantist\222\Старый алгоритм поиска льготников\ControlDantist\obj\Debug\ControlDantist.FirstLoadHospital.resources
+D:\Проект ControlDantist\222\Старый алгоритм поиска льготников\ControlDantist\obj\Debug\ControlDantist.FormConfigSearch.resources
+D:\Проект ControlDantist\222\Старый алгоритм поиска льготников\ControlDantist\obj\Debug\ControlDantist.FormConfigРайон.resources
+D:\Проект ControlDantist\222\Старый алгоритм поиска льготников\ControlDantist\obj\Debug\ControlDantist.FormControlContract.resources
+D:\Проект ControlDantist\222\Старый алгоритм поиска льготников\ControlDantist\obj\Debug\ControlDantist.FormDalogWriteBD.resources
+D:\Проект ControlDantist\222\Старый алгоритм поиска льготников\ControlDantist\obj\Debug\ControlDantist.FormDate.resources
+D:\Проект ControlDantist\222\Старый алгоритм поиска льготников\ControlDantist\obj\Debug\ControlDantist.FormDepartment.resources
+D:\Проект ControlDantist\222\Старый алгоритм поиска льготников\ControlDantist\obj\Debug\ControlDantist.FormDispContract.resources
+D:\Проект ControlDantist\222\Старый алгоритм поиска льготников\ControlDantist\obj\Debug\ControlDantist.FormDisplayError.resources
+D:\Проект ControlDantist\222\Старый алгоритм поиска льготников\ControlDantist\obj\Debug\ControlDantist.FormDisplayReestr.resources
+D:\Проект ControlDantist\222\Старый алгоритм поиска льготников\ControlDantist\obj\Debug\ControlDantist.FormEditDateHospital.resources
+D:\Проект ControlDantist\222\Старый алгоритм поиска льготников\ControlDantist\obj\Debug\ControlDantist.FormEditВидУслуг.resources
+D:\Проект ControlDantist\222\Старый алгоритм поиска льготников\ControlDantist\obj\Debug\ControlDantist.FormError.resources
+D:\Проект ControlDantist\222\Старый алгоритм поиска льготников\ControlDantist\obj\Debug\ControlDantist.FormOutValid.resources
+D:\Проект ControlDantist\222\Старый алгоритм поиска льготников\ControlDantist\obj\Debug\ControlDantist.FormExcel.resources
+D:\Проект ControlDantist\222\Старый алгоритм поиска льготников\ControlDantist\obj\Debug\ControlDantist.FormHeadDepartment.resources
+D:\Проект ControlDantist\222\Старый алгоритм поиска льготников\ControlDantist\obj\Debug\ControlDantist.FormInfoЛьготник.resources
+D:\Проект ControlDantist\222\Старый алгоритм поиска льготников\ControlDantist\obj\Debug\ControlDantist.FormInv.resources
+D:\Проект ControlDantist\222\Старый алгоритм поиска льготников\ControlDantist\obj\Debug\ControlDantist.FormMessage.resources
+D:\Проект ControlDantist\222\Старый алгоритм поиска льготников\ControlDantist\obj\Debug\ControlDantist.FormModalPerson.resources
+D:\Проект ControlDantist\222\Старый алгоритм поиска льготников\ControlDantist\obj\Debug\ControlDantist.FormReestr.resources
+D:\Проект ControlDantist\222\Старый алгоритм поиска льготников\ControlDantist\obj\Debug\ControlDantist.FormReestrDate.resources
+D:\Проект ControlDantist\222\Старый алгоритм поиска льготников\ControlDantist\obj\Debug\ControlDantist.FormReestrDisplay.resources
+D:\Проект ControlDantist\222\Старый алгоритм поиска льготников\ControlDantist\obj\Debug\ControlDantist.FormSelect.resources
+D:\Проект ControlDantist\222\Старый алгоритм поиска льготников\ControlDantist\obj\Debug\ControlDantist.FormSelectHeadDepartment.resources
+D:\Проект ControlDantist\222\Старый алгоритм поиска льготников\ControlDantist\obj\Debug\ControlDantist.FormSelectПостановление.resources
+D:\Проект ControlDantist\222\Старый алгоритм поиска льготников\ControlDantist\obj\Debug\ControlDantist.FormSum.resources
+D:\Проект ControlDantist\222\Старый алгоритм поиска льготников\ControlDantist\obj\Debug\ControlDantist.FormValidContract.resources
+D:\Проект ControlDantist\222\Старый алгоритм поиска льготников\ControlDantist\obj\Debug\ControlDantist.FormValidOut.resources
+D:\Проект ControlDantist\222\Старый алгоритм поиска льготников\ControlDantist\obj\Debug\ControlDantist.FormWriteBD.resources
+D:\Проект ControlDantist\222\Старый алгоритм поиска льготников\ControlDantist\obj\Debug\ControlDantist.FormОжидание.resources
+D:\Проект ControlDantist\222\Старый алгоритм поиска льготников\ControlDantist\obj\Debug\ControlDantist.FormПостановление.resources
+D:\Проект ControlDantist\222\Старый алгоритм поиска льготников\ControlDantist\obj\Debug\ControlDantist.FormСписокПолучателей.resources
+D:\Проект ControlDantist\222\Старый алгоритм поиска льготников\ControlDantist\obj\Debug\ControlDantist.MainForm.resources
+D:\Проект ControlDantist\222\Старый алгоритм поиска льготников\ControlDantist\obj\Debug\ControlDantist.MyMessage.resources
+D:\Проект ControlDantist\222\Старый алгоритм поиска льготников\ControlDantist\obj\Debug\ControlDantist.Properties.Resources.resources
+D:\Проект ControlDantist\222\Старый алгоритм поиска льготников\ControlDantist\obj\Debug\ControlDantist.СhangeAkt.resources
+D:\Проект ControlDantist\222\Старый алгоритм поиска льготников\ControlDantist\obj\Debug\GenerateResource.read.1.tlog
+D:\Проект ControlDantist\222\Старый алгоритм поиска льготников\ControlDantist\obj\Debug\GenerateResource.write.1.tlog
+D:\Проект ControlDantist\222\Старый алгоритм поиска льготников\ControlDantist\obj\Debug\ControlDantist.FormИсправленияУслугДоговоров.resources
+D:\Проект ControlDantist\222\Старый алгоритм поиска льготников\ControlDantist\obj\Debug\ControlDantist.FormConfig.resources
+D:\Проект ControlDantist\222\Старый алгоритм поиска льготников\ControlDantist\obj\Debug\ControlDantist.FormMessageAct.resources
+D:\111\ControlDantist\222\Старый алгоритм поиска льготников\ControlDantist\bin\Debug\ControlDantist.exe.config
+D:\111\ControlDantist\222\Старый алгоритм поиска льготников\ControlDantist\obj\Debug\ControlDantist.csproj.ResolveComReference.cache
+D:\111\ControlDantist\222\Старый алгоритм поиска льготников\ControlDantist\obj\Debug\ControlDantist.exe
+D:\111\ControlDantist\222\Старый алгоритм поиска льготников\ControlDantist\obj\Debug\ControlDantist.pdb
+D:\111\ControlDantist\222\Старый алгоритм поиска льготников\ControlDantist\bin\Debug\ControlDantist.exe
+D:\111\ControlDantist\222\Старый алгоритм поиска льготников\ControlDantist\bin\Debug\ControlDantist.pdb
+D:\111\ControlDantist\222\Старый алгоритм поиска льготников\ControlDantist\obj\Debug\ResolveAssemblyReference.cache
+D:\111\ControlDantist\222\Старый алгоритм поиска льготников\ControlDantist\obj\Debug\ControlDantist.FirstLoadHospital.resources
+D:\111\ControlDantist\222\Старый алгоритм поиска льготников\ControlDantist\obj\Debug\ControlDantist.FormConfig.resources
+D:\111\ControlDantist\222\Старый алгоритм поиска льготников\ControlDantist\obj\Debug\ControlDantist.FormConfigSearch.resources
+D:\111\ControlDantist\222\Старый алгоритм поиска льготников\ControlDantist\obj\Debug\ControlDantist.FormConfigРайон.resources
+D:\111\ControlDantist\222\Старый алгоритм поиска льготников\ControlDantist\obj\Debug\ControlDantist.FormControlContract.resources
+D:\111\ControlDantist\222\Старый алгоритм поиска льготников\ControlDantist\obj\Debug\ControlDantist.FormDalogWriteBD.resources
+D:\111\ControlDantist\222\Старый алгоритм поиска льготников\ControlDantist\obj\Debug\ControlDantist.FormDate.resources
+D:\111\ControlDantist\222\Старый алгоритм поиска льготников\ControlDantist\obj\Debug\ControlDantist.FormDepartment.resources
+D:\111\ControlDantist\222\Старый алгоритм поиска льготников\ControlDantist\obj\Debug\ControlDantist.FormDispContract.resources
+D:\111\ControlDantist\222\Старый алгоритм поиска льготников\ControlDantist\obj\Debug\ControlDantist.FormDisplayError.resources
+D:\111\ControlDantist\222\Старый алгоритм поиска льготников\ControlDantist\obj\Debug\ControlDantist.FormDisplayReestr.resources
+D:\111\ControlDantist\222\Старый алгоритм поиска льготников\ControlDantist\obj\Debug\ControlDantist.FormEditDateHospital.resources
+D:\111\ControlDantist\222\Старый алгоритм поиска льготников\ControlDantist\obj\Debug\ControlDantist.FormEditВидУслуг.resources
+D:\111\ControlDantist\222\Старый алгоритм поиска льготников\ControlDantist\obj\Debug\ControlDantist.FormError.resources
+D:\111\ControlDantist\222\Старый алгоритм поиска льготников\ControlDantist\obj\Debug\ControlDantist.FormOutValid.resources
+D:\111\ControlDantist\222\Старый алгоритм поиска льготников\ControlDantist\obj\Debug\ControlDantist.FormExcel.resources
+D:\111\ControlDantist\222\Старый алгоритм поиска льготников\ControlDantist\obj\Debug\ControlDantist.FormHeadDepartment.resources
+D:\111\ControlDantist\222\Старый алгоритм поиска льготников\ControlDantist\obj\Debug\ControlDantist.FormInfoЛьготник.resources
+D:\111\ControlDantist\222\Старый алгоритм поиска льготников\ControlDantist\obj\Debug\ControlDantist.FormInv.resources
+D:\111\ControlDantist\222\Старый алгоритм поиска льготников\ControlDantist\obj\Debug\ControlDantist.FormMessage.resources
+D:\111\ControlDantist\222\Старый алгоритм поиска льготников\ControlDantist\obj\Debug\ControlDantist.FormMessageAct.resources
+D:\111\ControlDantist\222\Старый алгоритм поиска льготников\ControlDantist\obj\Debug\ControlDantist.FormModalPerson.resources
+D:\111\ControlDantist\222\Старый алгоритм поиска льготников\ControlDantist\obj\Debug\ControlDantist.FormReestr.resources
+D:\111\ControlDantist\222\Старый алгоритм поиска льготников\ControlDantist\obj\Debug\ControlDantist.FormReestrDate.resources
+D:\111\ControlDantist\222\Старый алгоритм поиска льготников\ControlDantist\obj\Debug\ControlDantist.FormReestrDisplay.resources
+D:\111\ControlDantist\222\Старый алгоритм поиска льготников\ControlDantist\obj\Debug\ControlDantist.FormSelect.resources
+D:\111\ControlDantist\222\Старый алгоритм поиска льготников\ControlDantist\obj\Debug\ControlDantist.FormSelectHeadDepartment.resources
+D:\111\ControlDantist\222\Старый алгоритм поиска льготников\ControlDantist\obj\Debug\ControlDantist.FormSelectПостановление.resources
+D:\111\ControlDantist\222\Старый алгоритм поиска льготников\ControlDantist\obj\Debug\ControlDantist.FormSum.resources
+D:\111\ControlDantist\222\Старый алгоритм поиска льготников\ControlDantist\obj\Debug\ControlDantist.FormValidContract.resources
+D:\111\ControlDantist\222\Старый алгоритм поиска льготников\ControlDantist\obj\Debug\ControlDantist.FormValidOut.resources
+D:\111\ControlDantist\222\Старый алгоритм поиска льготников\ControlDantist\obj\Debug\ControlDantist.FormWriteBD.resources
+D:\111\ControlDantist\222\Старый алгоритм поиска льготников\ControlDantist\obj\Debug\ControlDantist.FormИсправленияУслугДоговоров.resources
+D:\111\ControlDantist\222\Старый алгоритм поиска льготников\ControlDantist\obj\Debug\ControlDantist.FormОжидание.resources
+D:\111\ControlDantist\222\Старый алгоритм поиска льготников\ControlDantist\obj\Debug\ControlDantist.FormПостановление.resources
+D:\111\ControlDantist\222\Старый алгоритм поиска льготников\ControlDantist\obj\Debug\ControlDantist.FormСписокПолучателей.resources
+D:\111\ControlDantist\222\Старый алгоритм поиска льготников\ControlDantist\obj\Debug\ControlDantist.MainForm.resources
+D:\111\ControlDantist\222\Старый алгоритм поиска льготников\ControlDantist\obj\Debug\ControlDantist.MyMessage.resources
+D:\111\ControlDantist\222\Старый алгоритм поиска льготников\ControlDantist\obj\Debug\ControlDantist.Properties.Resources.resources
+D:\111\ControlDantist\222\Старый алгоритм поиска льготников\ControlDantist\obj\Debug\ControlDantist.СhangeAkt.resources
+D:\111\ControlDantist\222\Старый алгоритм поиска льготников\ControlDantist\obj\Debug\GenerateResource.read.1.tlog
+D:\111\ControlDantist\222\Старый алгоритм поиска льготников\ControlDantist\obj\Debug\GenerateResource.write.1.tlog
+D:\Для обмена\ControlDantist\Старый алгоритм поиска льготников\ControlDantist\bin\Debug\ControlDantist.exe.config
+D:\Для обмена\ControlDantist\Старый алгоритм поиска льготников\ControlDantist\obj\Debug\ControlDantist.csproj.ResolveComReference.cache
+D:\Для обмена\ControlDantist\Старый алгоритм поиска льготников\ControlDantist\obj\Debug\ControlDantist.exe
+D:\Для обмена\ControlDantist\Старый алгоритм поиска льготников\ControlDantist\obj\Debug\ControlDantist.pdb
+D:\Для обмена\ControlDantist\Старый алгоритм поиска льготников\ControlDantist\obj\Debug\ResolveAssemblyReference.cache
+D:\Для обмена\ControlDantist\Старый алгоритм поиска льготников\ControlDantist\obj\Debug\ControlDantist.FirstLoadHospital.resources
+D:\Для обмена\ControlDantist\Старый алгоритм поиска льготников\ControlDantist\obj\Debug\ControlDantist.FormConfig.resources
+D:\Для обмена\ControlDantist\Старый алгоритм поиска льготников\ControlDantist\obj\Debug\ControlDantist.FormConfigSearch.resources
+D:\Для обмена\ControlDantist\Старый алгоритм поиска льготников\ControlDantist\obj\Debug\ControlDantist.FormConfigРайон.resources
+D:\Для обмена\ControlDantist\Старый алгоритм поиска льготников\ControlDantist\obj\Debug\ControlDantist.FormControlContract.resources
+D:\Для обмена\ControlDantist\Старый алгоритм поиска льготников\ControlDantist\obj\Debug\ControlDantist.FormDalogWriteBD.resources
+D:\Для обмена\ControlDantist\Старый алгоритм поиска льготников\ControlDantist\obj\Debug\ControlDantist.FormDate.resources
+D:\Для обмена\ControlDantist\Старый алгоритм поиска льготников\ControlDantist\obj\Debug\ControlDantist.FormDepartment.resources
+D:\Для обмена\ControlDantist\Старый алгоритм поиска льготников\ControlDantist\obj\Debug\ControlDantist.FormDispContract.resources
+D:\Для обмена\ControlDantist\Старый алгоритм поиска льготников\ControlDantist\obj\Debug\ControlDantist.FormDisplayError.resources
+D:\Для обмена\ControlDantist\Старый алгоритм поиска льготников\ControlDantist\obj\Debug\ControlDantist.FormDisplayReestr.resources
+D:\Для обмена\ControlDantist\Старый алгоритм поиска льготников\ControlDantist\obj\Debug\ControlDantist.FormEditDateHospital.resources
+D:\Для обмена\ControlDantist\Старый алгоритм поиска льготников\ControlDantist\obj\Debug\ControlDantist.FormEditВидУслуг.resources
+D:\Для обмена\ControlDantist\Старый алгоритм поиска льготников\ControlDantist\obj\Debug\ControlDantist.FormError.resources
+D:\Для обмена\ControlDantist\Старый алгоритм поиска льготников\ControlDantist\obj\Debug\ControlDantist.FormOutValid.resources
+D:\Для обмена\ControlDantist\Старый алгоритм поиска льготников\ControlDantist\obj\Debug\ControlDantist.FormExcel.resources
+D:\Для обмена\ControlDantist\Старый алгоритм поиска льготников\ControlDantist\obj\Debug\ControlDantist.FormHeadDepartment.resources
+D:\Для обмена\ControlDantist\Старый алгоритм поиска льготников\ControlDantist\obj\Debug\ControlDantist.FormInfoЛьготник.resources
+D:\Для обмена\ControlDantist\Старый алгоритм поиска льготников\ControlDantist\obj\Debug\ControlDantist.FormInv.resources
+D:\Для обмена\ControlDantist\Старый алгоритм поиска льготников\ControlDantist\obj\Debug\ControlDantist.FormMessage.resources
+D:\Для обмена\ControlDantist\Старый алгоритм поиска льготников\ControlDantist\obj\Debug\ControlDantist.FormMessageAct.resources
+D:\Для обмена\ControlDantist\Старый алгоритм поиска льготников\ControlDantist\obj\Debug\ControlDantist.FormModalPerson.resources
+D:\Для обмена\ControlDantist\Старый алгоритм поиска льготников\ControlDantist\obj\Debug\ControlDantist.FormReestr.resources
+D:\Для обмена\ControlDantist\Старый алгоритм поиска льготников\ControlDantist\obj\Debug\ControlDantist.FormReestrDate.resources
+D:\Для обмена\ControlDantist\Старый алгоритм поиска льготников\ControlDantist\obj\Debug\ControlDantist.FormReestrDisplay.resources
+D:\Для обмена\ControlDantist\Старый алгоритм поиска льготников\ControlDantist\obj\Debug\ControlDantist.FormSelect.resources
+D:\Для обмена\ControlDantist\Старый алгоритм поиска льготников\ControlDantist\obj\Debug\ControlDantist.FormSelectHeadDepartment.resources
+D:\Для обмена\ControlDantist\Старый алгоритм поиска льготников\ControlDantist\obj\Debug\ControlDantist.FormSelectПостановление.resources
+D:\Для обмена\ControlDantist\Старый алгоритм поиска льготников\ControlDantist\obj\Debug\ControlDantist.FormSum.resources
+D:\Для обмена\ControlDantist\Старый алгоритм поиска льготников\ControlDantist\obj\Debug\ControlDantist.FormValidContract.resources
+D:\Для обмена\ControlDantist\Старый алгоритм поиска льготников\ControlDantist\obj\Debug\ControlDantist.FormValidOut.resources
+D:\Для обмена\ControlDantist\Старый алгоритм поиска льготников\ControlDantist\obj\Debug\ControlDantist.FormWriteBD.resources
+D:\Для обмена\ControlDantist\Старый алгоритм поиска льготников\ControlDantist\obj\Debug\ControlDantist.FormИсправленияУслугДоговоров.resources
+D:\Для обмена\ControlDantist\Старый алгоритм поиска льготников\ControlDantist\obj\Debug\ControlDantist.FormОжидание.resources
+D:\Для обмена\ControlDantist\Старый алгоритм поиска льготников\ControlDantist\obj\Debug\ControlDantist.FormПостановление.resources
+D:\Для обмена\ControlDantist\Старый алгоритм поиска льготников\ControlDantist\obj\Debug\ControlDantist.FormСписокПолучателей.resources
+D:\Для обмена\ControlDantist\Старый алгоритм поиска льготников\ControlDantist\obj\Debug\ControlDantist.MainForm.resources
+D:\Для обмена\ControlDantist\Старый алгоритм поиска льготников\ControlDantist\obj\Debug\ControlDantist.MyMessage.resources
+D:\Для обмена\ControlDantist\Старый алгоритм поиска льготников\ControlDantist\obj\Debug\ControlDantist.Properties.Resources.resources
+D:\Для обмена\ControlDantist\Старый алгоритм поиска льготников\ControlDantist\obj\Debug\ControlDantist.СhangeAkt.resources
+D:\Для обмена\ControlDantist\Старый алгоритм поиска льготников\ControlDantist\obj\Debug\GenerateResource.read.1.tlog
+D:\Для обмена\ControlDantist\Старый алгоритм поиска льготников\ControlDantist\obj\Debug\GenerateResource.write.1.tlog
+D:\Для обмена\ControlDantist\Старый алгоритм поиска льготников\ControlDantist\bin\Debug\ControlDantist.exe
+D:\Для обмена\ControlDantist\Старый алгоритм поиска льготников\ControlDantist\bin\Debug\ControlDantist.pdb
+D:\проекты\ControlDantist\Старый алгоритм поиска льготников\ControlDantist\bin\Debug\ControlDantist.exe.config
+D:\проекты\ControlDantist\Старый алгоритм поиска льготников\ControlDantist\obj\Debug\ControlDantist.csproj.ResolveComReference.cache
+D:\проекты\ControlDantist\Старый алгоритм поиска льготников\ControlDantist\obj\Debug\ControlDantist.exe
+D:\проекты\ControlDantist\Старый алгоритм поиска льготников\ControlDantist\obj\Debug\ControlDantist.pdb
+D:\проекты\ControlDantist\Старый алгоритм поиска льготников\ControlDantist\bin\Debug\ControlDantist.exe
+D:\проекты\ControlDantist\Старый алгоритм поиска льготников\ControlDantist\bin\Debug\ControlDantist.pdb
+D:\проекты\ControlDantist\Старый алгоритм поиска льготников\ControlDantist\obj\Debug\ResolveAssemblyReference.cache
+D:\проекты\ControlDantist\Старый алгоритм поиска льготников\ControlDantist\obj\Debug\ControlDantist.FirstLoadHospital.resources
+D:\проекты\ControlDantist\Старый алгоритм поиска льготников\ControlDantist\obj\Debug\ControlDantist.FormConfig.resources
+D:\проекты\ControlDantist\Старый алгоритм поиска льготников\ControlDantist\obj\Debug\ControlDantist.FormConfigSearch.resources
+D:\проекты\ControlDantist\Старый алгоритм поиска льготников\ControlDantist\obj\Debug\ControlDantist.FormConfigРайон.resources
+D:\проекты\ControlDantist\Старый алгоритм поиска льготников\ControlDantist\obj\Debug\ControlDantist.FormControlContract.resources
+D:\проекты\ControlDantist\Старый алгоритм поиска льготников\ControlDantist\obj\Debug\ControlDantist.FormDalogWriteBD.resources
+D:\проекты\ControlDantist\Старый алгоритм поиска льготников\ControlDantist\obj\Debug\ControlDantist.FormDate.resources
+D:\проекты\ControlDantist\Старый алгоритм поиска льготников\ControlDantist\obj\Debug\ControlDantist.FormDepartment.resources
+D:\проекты\ControlDantist\Старый алгоритм поиска льготников\ControlDantist\obj\Debug\ControlDantist.FormDispContract.resources
+D:\проекты\ControlDantist\Старый алгоритм поиска льготников\ControlDantist\obj\Debug\ControlDantist.FormDisplayError.resources
+D:\проекты\ControlDantist\Старый алгоритм поиска льготников\ControlDantist\obj\Debug\ControlDantist.FormDisplayReestr.resources
+D:\проекты\ControlDantist\Старый алгоритм поиска льготников\ControlDantist\obj\Debug\ControlDantist.FormEditDateHospital.resources
+D:\проекты\ControlDantist\Старый алгоритм поиска льготников\ControlDantist\obj\Debug\ControlDantist.FormEditВидУслуг.resources
+D:\проекты\ControlDantist\Старый алгоритм поиска льготников\ControlDantist\obj\Debug\ControlDantist.FormError.resources
+D:\проекты\ControlDantist\Старый алгоритм поиска льготников\ControlDantist\obj\Debug\ControlDantist.FormOutValid.resources
+D:\проекты\ControlDantist\Старый алгоритм поиска льготников\ControlDantist\obj\Debug\ControlDantist.FormExcel.resources
+D:\проекты\ControlDantist\Старый алгоритм поиска льготников\ControlDantist\obj\Debug\ControlDantist.FormHeadDepartment.resources
+D:\проекты\ControlDantist\Старый алгоритм поиска льготников\ControlDantist\obj\Debug\ControlDantist.FormInfoЛьготник.resources
+D:\проекты\ControlDantist\Старый алгоритм поиска льготников\ControlDantist\obj\Debug\ControlDantist.FormInv.resources
+D:\проекты\ControlDantist\Старый алгоритм поиска льготников\ControlDantist\obj\Debug\ControlDantist.FormMessage.resources
+D:\проекты\ControlDantist\Старый алгоритм поиска льготников\ControlDantist\obj\Debug\ControlDantist.FormMessageAct.resources
+D:\проекты\ControlDantist\Старый алгоритм поиска льготников\ControlDantist\obj\Debug\ControlDantist.FormModalPerson.resources
+D:\проекты\ControlDantist\Старый алгоритм поиска льготников\ControlDantist\obj\Debug\ControlDantist.FormReestr.resources
+D:\проекты\ControlDantist\Старый алгоритм поиска льготников\ControlDantist\obj\Debug\ControlDantist.FormReestrDate.resources
+D:\проекты\ControlDantist\Старый алгоритм поиска льготников\ControlDantist\obj\Debug\ControlDantist.FormReestrDisplay.resources
+D:\проекты\ControlDantist\Старый алгоритм поиска льготников\ControlDantist\obj\Debug\ControlDantist.FormSelect.resources
+D:\проекты\ControlDantist\Старый алгоритм поиска льготников\ControlDantist\obj\Debug\ControlDantist.FormSelectHeadDepartment.resources
+D:\проекты\ControlDantist\Старый алгоритм поиска льготников\ControlDantist\obj\Debug\ControlDantist.FormSelectПостановление.resources
+D:\проекты\ControlDantist\Старый алгоритм поиска льготников\ControlDantist\obj\Debug\ControlDantist.FormSum.resources
+D:\проекты\ControlDantist\Старый алгоритм поиска льготников\ControlDantist\obj\Debug\ControlDantist.FormValidContract.resources
+D:\проекты\ControlDantist\Старый алгоритм поиска льготников\ControlDantist\obj\Debug\ControlDantist.FormValidOut.resources
+D:\проекты\ControlDantist\Старый алгоритм поиска льготников\ControlDantist\obj\Debug\ControlDantist.FormWriteBD.resources
+D:\проекты\ControlDantist\Старый алгоритм поиска льготников\ControlDantist\obj\Debug\ControlDantist.FormИсправленияУслугДоговоров.resources
+D:\проекты\ControlDantist\Старый алгоритм поиска льготников\ControlDantist\obj\Debug\ControlDantist.FormОжидание.resources
+D:\проекты\ControlDantist\Старый алгоритм поиска льготников\ControlDantist\obj\Debug\ControlDantist.FormПостановление.resources
+D:\проекты\ControlDantist\Старый алгоритм поиска льготников\ControlDantist\obj\Debug\ControlDantist.FormСписокПолучателей.resources
+D:\проекты\ControlDantist\Старый алгоритм поиска льготников\ControlDantist\obj\Debug\ControlDantist.MainForm.resources
+D:\проекты\ControlDantist\Старый алгоритм поиска льготников\ControlDantist\obj\Debug\ControlDantist.MyMessage.resources
+D:\проекты\ControlDantist\Старый алгоритм поиска льготников\ControlDantist\obj\Debug\ControlDantist.Properties.Resources.resources
+D:\проекты\ControlDantist\Старый алгоритм поиска льготников\ControlDantist\obj\Debug\ControlDantist.СhangeAkt.resources
+D:\проекты\ControlDantist\Старый алгоритм поиска льготников\ControlDantist\obj\Debug\GenerateResource.read.1.tlog
+D:\проекты\ControlDantist\Старый алгоритм поиска льготников\ControlDantist\obj\Debug\GenerateResource.write.1.tlog
+D:\Для обмена\Аборвалов\ControlDantist\рабочая\ControlDantist\bin\Debug\ControlDantist.exe.config
+D:\Для обмена\Аборвалов\ControlDantist\рабочая\ControlDantist\obj\Debug\ControlDantist.csproj.ResolveComReference.cache
+D:\Для обмена\Аборвалов\ControlDantist\рабочая\ControlDantist\obj\Debug\ControlDantist.exe
+D:\Для обмена\Аборвалов\ControlDantist\рабочая\ControlDantist\obj\Debug\ControlDantist.pdb
+D:\Для обмена\Аборвалов\ControlDantist\рабочая\ControlDantist\bin\Debug\ControlDantist.exe
+D:\Для обмена\Аборвалов\ControlDantist\рабочая\ControlDantist\bin\Debug\ControlDantist.pdb
+D:\Для обмена\Аборвалов\ControlDantist\рабочая\ControlDantist\obj\Debug\ResolveAssemblyReference.cache
+D:\Для обмена\Аборвалов\ControlDantist\рабочая\ControlDantist\obj\Debug\ControlDantist.FirstLoadHospital.resources
+D:\Для обмена\Аборвалов\ControlDantist\рабочая\ControlDantist\obj\Debug\ControlDantist.FormConfig.resources
+D:\Для обмена\Аборвалов\ControlDantist\рабочая\ControlDantist\obj\Debug\ControlDantist.FormConfigSearch.resources
+D:\Для обмена\Аборвалов\ControlDantist\рабочая\ControlDantist\obj\Debug\ControlDantist.FormConfigРайон.resources
+D:\Для обмена\Аборвалов\ControlDantist\рабочая\ControlDantist\obj\Debug\ControlDantist.FormControlContract.resources
+D:\Для обмена\Аборвалов\ControlDantist\рабочая\ControlDantist\obj\Debug\ControlDantist.FormDalogWriteBD.resources
+D:\Для обмена\Аборвалов\ControlDantist\рабочая\ControlDantist\obj\Debug\ControlDantist.FormDate.resources
+D:\Для обмена\Аборвалов\ControlDantist\рабочая\ControlDantist\obj\Debug\ControlDantist.FormDepartment.resources
+D:\Для обмена\Аборвалов\ControlDantist\рабочая\ControlDantist\obj\Debug\ControlDantist.FormDispContract.resources
+D:\Для обмена\Аборвалов\ControlDantist\рабочая\ControlDantist\obj\Debug\ControlDantist.FormDisplayError.resources
+D:\Для обмена\Аборвалов\ControlDantist\рабочая\ControlDantist\obj\Debug\ControlDantist.FormDisplayReestr.resources
+D:\Для обмена\Аборвалов\ControlDantist\рабочая\ControlDantist\obj\Debug\ControlDantist.FormEditDateHospital.resources
+D:\Для обмена\Аборвалов\ControlDantist\рабочая\ControlDantist\obj\Debug\ControlDantist.FormEditВидУслуг.resources
+D:\Для обмена\Аборвалов\ControlDantist\рабочая\ControlDantist\obj\Debug\ControlDantist.FormError.resources
+D:\Для обмена\Аборвалов\ControlDantist\рабочая\ControlDantist\obj\Debug\ControlDantist.FormOutValid.resources
+D:\Для обмена\Аборвалов\ControlDantist\рабочая\ControlDantist\obj\Debug\ControlDantist.FormExcel.resources
+D:\Для обмена\Аборвалов\ControlDantist\рабочая\ControlDantist\obj\Debug\ControlDantist.FormHeadDepartment.resources
+D:\Для обмена\Аборвалов\ControlDantist\рабочая\ControlDantist\obj\Debug\ControlDantist.FormInfoЛьготник.resources
+D:\Для обмена\Аборвалов\ControlDantist\рабочая\ControlDantist\obj\Debug\ControlDantist.FormInv.resources
+D:\Для обмена\Аборвалов\ControlDantist\рабочая\ControlDantist\obj\Debug\ControlDantist.FormMessage.resources
+D:\Для обмена\Аборвалов\ControlDantist\рабочая\ControlDantist\obj\Debug\ControlDantist.FormMessageAct.resources
+D:\Для обмена\Аборвалов\ControlDantist\рабочая\ControlDantist\obj\Debug\ControlDantist.FormModalPerson.resources
+D:\Для обмена\Аборвалов\ControlDantist\рабочая\ControlDantist\obj\Debug\ControlDantist.FormReestr.resources
+D:\Для обмена\Аборвалов\ControlDantist\рабочая\ControlDantist\obj\Debug\ControlDantist.FormReestrDate.resources
+D:\Для обмена\Аборвалов\ControlDantist\рабочая\ControlDantist\obj\Debug\ControlDantist.FormReestrDisplay.resources
+D:\Для обмена\Аборвалов\ControlDantist\рабочая\ControlDantist\obj\Debug\ControlDantist.FormSelect.resources
+D:\Для обмена\Аборвалов\ControlDantist\рабочая\ControlDantist\obj\Debug\ControlDantist.FormSelectHeadDepartment.resources
+D:\Для обмена\Аборвалов\ControlDantist\рабочая\ControlDantist\obj\Debug\ControlDantist.FormSelectПостановление.resources
+D:\Для обмена\Аборвалов\ControlDantist\рабочая\ControlDantist\obj\Debug\ControlDantist.FormSum.resources
+D:\Для обмена\Аборвалов\ControlDantist\рабочая\ControlDantist\obj\Debug\ControlDantist.FormValidContract.resources
+D:\Для обмена\Аборвалов\ControlDantist\рабочая\ControlDantist\obj\Debug\ControlDantist.FormValidOut.resources
+D:\Для обмена\Аборвалов\ControlDantist\рабочая\ControlDantist\obj\Debug\ControlDantist.FormWriteBD.resources
+D:\Для обмена\Аборвалов\ControlDantist\рабочая\ControlDantist\obj\Debug\ControlDantist.FormИсправленияУслугДоговоров.resources
+D:\Для обмена\Аборвалов\ControlDantist\рабочая\ControlDantist\obj\Debug\ControlDantist.FormОжидание.resources
+D:\Для обмена\Аборвалов\ControlDantist\рабочая\ControlDantist\obj\Debug\ControlDantist.FormПостановление.resources
+D:\Для обмена\Аборвалов\ControlDantist\рабочая\ControlDantist\obj\Debug\ControlDantist.FormСписокПолучателей.resources
+D:\Для обмена\Аборвалов\ControlDantist\рабочая\ControlDantist\obj\Debug\ControlDantist.MainForm.resources
+D:\Для обмена\Аборвалов\ControlDantist\рабочая\ControlDantist\obj\Debug\ControlDantist.MyMessage.resources
+D:\Для обмена\Аборвалов\ControlDantist\рабочая\ControlDantist\obj\Debug\ControlDantist.Properties.Resources.resources
+D:\Для обмена\Аборвалов\ControlDantist\рабочая\ControlDantist\obj\Debug\ControlDantist.СhangeAkt.resources
+D:\Для обмена\Аборвалов\ControlDantist\рабочая\ControlDantist\obj\Debug\GenerateResource.read.1.tlog
+D:\Для обмена\Аборвалов\ControlDantist\рабочая\ControlDantist\obj\Debug\GenerateResource.write.1.tlog
+D:\Проекты\ControlDantist 2018 год\рабочая\ControlDantist\bin\Debug\ControlDantist.exe.config
+D:\Проекты\ControlDantist 2018 год\рабочая\ControlDantist\obj\Debug\ControlDantist.csproj.ResolveComReference.cache
+D:\Проекты\ControlDantist 2018 год\рабочая\ControlDantist\obj\Debug\ControlDantist.exe
+D:\Проекты\ControlDantist 2018 год\рабочая\ControlDantist\obj\Debug\ControlDantist.pdb
+D:\Проекты\ControlDantist 2018 год\рабочая\ControlDantist\bin\Debug\ControlDantist.exe
+D:\Проекты\ControlDantist 2018 год\рабочая\ControlDantist\bin\Debug\ControlDantist.pdb
+D:\Проекты\ControlDantist 2018 год\рабочая\ControlDantist\obj\Debug\ResolveAssemblyReference.cache
+D:\Проекты\ControlDantist 2018 год\рабочая\ControlDantist\obj\Debug\ControlDantist.FirstLoadHospital.resources
+D:\Проекты\ControlDantist 2018 год\рабочая\ControlDantist\obj\Debug\ControlDantist.FormConfig.resources
+D:\Проекты\ControlDantist 2018 год\рабочая\ControlDantist\obj\Debug\ControlDantist.FormConfigSearch.resources
+D:\Проекты\ControlDantist 2018 год\рабочая\ControlDantist\obj\Debug\ControlDantist.FormConfigРайон.resources
+D:\Проекты\ControlDantist 2018 год\рабочая\ControlDantist\obj\Debug\ControlDantist.FormControlContract.resources
+D:\Проекты\ControlDantist 2018 год\рабочая\ControlDantist\obj\Debug\ControlDantist.FormDalogWriteBD.resources
+D:\Проекты\ControlDantist 2018 год\рабочая\ControlDantist\obj\Debug\ControlDantist.FormDate.resources
+D:\Проекты\ControlDantist 2018 год\рабочая\ControlDantist\obj\Debug\ControlDantist.FormDepartment.resources
+D:\Проекты\ControlDantist 2018 год\рабочая\ControlDantist\obj\Debug\ControlDantist.FormDispContract.resources
+D:\Проекты\ControlDantist 2018 год\рабочая\ControlDantist\obj\Debug\ControlDantist.FormDisplayError.resources
+D:\Проекты\ControlDantist 2018 год\рабочая\ControlDantist\obj\Debug\ControlDantist.FormDisplayReestr.resources
+D:\Проекты\ControlDantist 2018 год\рабочая\ControlDantist\obj\Debug\ControlDantist.FormEditDateHospital.resources
+D:\Проекты\ControlDantist 2018 год\рабочая\ControlDantist\obj\Debug\ControlDantist.FormEditВидУслуг.resources
+D:\Проекты\ControlDantist 2018 год\рабочая\ControlDantist\obj\Debug\ControlDantist.FormError.resources
+D:\Проекты\ControlDantist 2018 год\рабочая\ControlDantist\obj\Debug\ControlDantist.FormOutValid.resources
+D:\Проекты\ControlDantist 2018 год\рабочая\ControlDantist\obj\Debug\ControlDantist.FormExcel.resources
+D:\Проекты\ControlDantist 2018 год\рабочая\ControlDantist\obj\Debug\ControlDantist.FormHeadDepartment.resources
+D:\Проекты\ControlDantist 2018 год\рабочая\ControlDantist\obj\Debug\ControlDantist.FormInfoЛьготник.resources
+D:\Проекты\ControlDantist 2018 год\рабочая\ControlDantist\obj\Debug\ControlDantist.FormInv.resources
+D:\Проекты\ControlDantist 2018 год\рабочая\ControlDantist\obj\Debug\ControlDantist.FormMessage.resources
+D:\Проекты\ControlDantist 2018 год\рабочая\ControlDantist\obj\Debug\ControlDantist.FormMessageAct.resources
+D:\Проекты\ControlDantist 2018 год\рабочая\ControlDantist\obj\Debug\ControlDantist.FormModalPerson.resources
+D:\Проекты\ControlDantist 2018 год\рабочая\ControlDantist\obj\Debug\ControlDantist.FormReestr.resources
+D:\Проекты\ControlDantist 2018 год\рабочая\ControlDantist\obj\Debug\ControlDantist.FormReestrDate.resources
+D:\Проекты\ControlDantist 2018 год\рабочая\ControlDantist\obj\Debug\ControlDantist.FormReestrDisplay.resources
+D:\Проекты\ControlDantist 2018 год\рабочая\ControlDantist\obj\Debug\ControlDantist.FormSelect.resources
+D:\Проекты\ControlDantist 2018 год\рабочая\ControlDantist\obj\Debug\ControlDantist.FormSelectHeadDepartment.resources
+D:\Проекты\ControlDantist 2018 год\рабочая\ControlDantist\obj\Debug\ControlDantist.FormSelectПостановление.resources
+D:\Проекты\ControlDantist 2018 год\рабочая\ControlDantist\obj\Debug\ControlDantist.FormSum.resources
+D:\Проекты\ControlDantist 2018 год\рабочая\ControlDantist\obj\Debug\ControlDantist.FormValidContract.resources
+D:\Проекты\ControlDantist 2018 год\рабочая\ControlDantist\obj\Debug\ControlDantist.FormValidOut.resources
+D:\Проекты\ControlDantist 2018 год\рабочая\ControlDantist\obj\Debug\ControlDantist.FormWriteBD.resources
+D:\Проекты\ControlDantist 2018 год\рабочая\ControlDantist\obj\Debug\ControlDantist.FormИсправленияУслугДоговоров.resources
+D:\Проекты\ControlDantist 2018 год\рабочая\ControlDantist\obj\Debug\ControlDantist.FormОжидание.resources
+D:\Проекты\ControlDantist 2018 год\рабочая\ControlDantist\obj\Debug\ControlDantist.FormПостановление.resources
+D:\Проекты\ControlDantist 2018 год\рабочая\ControlDantist\obj\Debug\ControlDantist.FormСписокПолучателей.resources
+D:\Проекты\ControlDantist 2018 год\рабочая\ControlDantist\obj\Debug\ControlDantist.MainForm.resources
+D:\Проекты\ControlDantist 2018 год\рабочая\ControlDantist\obj\Debug\ControlDantist.MyMessage.resources
+D:\Проекты\ControlDantist 2018 год\рабочая\ControlDantist\obj\Debug\ControlDantist.Properties.Resources.resources
+D:\Проекты\ControlDantist 2018 год\рабочая\ControlDantist\obj\Debug\ControlDantist.СhangeAkt.resources
+D:\Проекты\ControlDantist 2018 год\рабочая\ControlDantist\obj\Debug\GenerateResource.read.1.tlog
+D:\Проекты\ControlDantist 2018 год\рабочая\ControlDantist\obj\Debug\GenerateResource.write.1.tlog
+D:\Проекты\ControlDantist 2018 год\рабочая\ControlDantist\obj\Debug\ControlDantist.FormRegions.resources
+D:\Проекты\ControlDantist 2018 год\рабочая\ControlDantist\obj\Debug\ControlDantist.FormReportPrint.resources
+D:\Проекты\ControlDantist 2018 год\рабочая\ControlDantist\obj\Debug\ControlDantist.FiltrPersonForVipNet.resources
+F:\VS 2019 проекты\ControlDantist 2018 год\рабочая\ControlDantist\bin\Debug\ControlDantist.exe.config
+F:\VS 2019 проекты\ControlDantist 2018 год\рабочая\ControlDantist\bin\Debug\ControlDantist.exe
+F:\VS 2019 проекты\ControlDantist 2018 год\рабочая\ControlDantist\bin\Debug\ControlDantist.pdb
+F:\VS 2019 проекты\ControlDantist 2018 год\рабочая\ControlDantist\obj\Debug\ControlDantist.csproj.ResolveComReference.cache
+F:\VS 2019 проекты\ControlDantist 2018 год\рабочая\ControlDantist\obj\Debug\ControlDantist.FiltrPersonForVipNet.resources
+F:\VS 2019 проекты\ControlDantist 2018 год\рабочая\ControlDantist\obj\Debug\ControlDantist.FirstLoadHospital.resources
+F:\VS 2019 проекты\ControlDantist 2018 год\рабочая\ControlDantist\obj\Debug\ControlDantist.FormConfig.resources
+F:\VS 2019 проекты\ControlDantist 2018 год\рабочая\ControlDantist\obj\Debug\ControlDantist.FormConfigSearch.resources
+F:\VS 2019 проекты\ControlDantist 2018 год\рабочая\ControlDantist\obj\Debug\ControlDantist.FormConfigРайон.resources
+F:\VS 2019 проекты\ControlDantist 2018 год\рабочая\ControlDantist\obj\Debug\ControlDantist.FormControlContract.resources
+F:\VS 2019 проекты\ControlDantist 2018 год\рабочая\ControlDantist\obj\Debug\ControlDantist.FormDalogWriteBD.resources
+F:\VS 2019 проекты\ControlDantist 2018 год\рабочая\ControlDantist\obj\Debug\ControlDantist.FormDate.resources
+F:\VS 2019 проекты\ControlDantist 2018 год\рабочая\ControlDantist\obj\Debug\ControlDantist.FormDepartment.resources
+F:\VS 2019 проекты\ControlDantist 2018 год\рабочая\ControlDantist\obj\Debug\ControlDantist.FormDispContract.resources
+F:\VS 2019 проекты\ControlDantist 2018 год\рабочая\ControlDantist\obj\Debug\ControlDantist.FormDisplayError.resources
+F:\VS 2019 проекты\ControlDantist 2018 год\рабочая\ControlDantist\obj\Debug\ControlDantist.FormDisplayReestr.resources
+F:\VS 2019 проекты\ControlDantist 2018 год\рабочая\ControlDantist\obj\Debug\ControlDantist.FormEditDateHospital.resources
+F:\VS 2019 проекты\ControlDantist 2018 год\рабочая\ControlDantist\obj\Debug\ControlDantist.FormEditВидУслуг.resources
+F:\VS 2019 проекты\ControlDantist 2018 год\рабочая\ControlDantist\obj\Debug\ControlDantist.FormError.resources
+F:\VS 2019 проекты\ControlDantist 2018 год\рабочая\ControlDantist\obj\Debug\ControlDantist.FormOutValid.resources
+F:\VS 2019 проекты\ControlDantist 2018 год\рабочая\ControlDantist\obj\Debug\ControlDantist.FormExcel.resources
+F:\VS 2019 проекты\ControlDantist 2018 год\рабочая\ControlDantist\obj\Debug\ControlDantist.FormHeadDepartment.resources
+F:\VS 2019 проекты\ControlDantist 2018 год\рабочая\ControlDantist\obj\Debug\ControlDantist.FormInfoЛьготник.resources
+F:\VS 2019 проекты\ControlDantist 2018 год\рабочая\ControlDantist\obj\Debug\ControlDantist.FormInv.resources
+F:\VS 2019 проекты\ControlDantist 2018 год\рабочая\ControlDantist\obj\Debug\ControlDantist.FormMessage.resources
+F:\VS 2019 проекты\ControlDantist 2018 год\рабочая\ControlDantist\obj\Debug\ControlDantist.FormMessageAct.resources
+F:\VS 2019 проекты\ControlDantist 2018 год\рабочая\ControlDantist\obj\Debug\ControlDantist.FormModalPerson.resources
+F:\VS 2019 проекты\ControlDantist 2018 год\рабочая\ControlDantist\obj\Debug\ControlDantist.FormReestr.resources
+F:\VS 2019 проекты\ControlDantist 2018 год\рабочая\ControlDantist\obj\Debug\ControlDantist.FormReestrDate.resources
+F:\VS 2019 проекты\ControlDantist 2018 год\рабочая\ControlDantist\obj\Debug\ControlDantist.FormReestrDisplay.resources
+F:\VS 2019 проекты\ControlDantist 2018 год\рабочая\ControlDantist\obj\Debug\ControlDantist.FormRegions.resources
+F:\VS 2019 проекты\ControlDantist 2018 год\рабочая\ControlDantist\obj\Debug\ControlDantist.FormReportPrint.resources
+F:\VS 2019 проекты\ControlDantist 2018 год\рабочая\ControlDantist\obj\Debug\ControlDantist.FormSelect.resources
+F:\VS 2019 проекты\ControlDantist 2018 год\рабочая\ControlDantist\obj\Debug\ControlDantist.FormSelectHeadDepartment.resources
+F:\VS 2019 проекты\ControlDantist 2018 год\рабочая\ControlDantist\obj\Debug\ControlDantist.FormSelectПостановление.resources
+F:\VS 2019 проекты\ControlDantist 2018 год\рабочая\ControlDantist\obj\Debug\ControlDantist.FormSum.resources
+F:\VS 2019 проекты\ControlDantist 2018 год\рабочая\ControlDantist\obj\Debug\ControlDantist.FormValidContract.resources
+F:\VS 2019 проекты\ControlDantist 2018 год\рабочая\ControlDantist\obj\Debug\ControlDantist.FormValidOut.resources
+F:\VS 2019 проекты\ControlDantist 2018 год\рабочая\ControlDantist\obj\Debug\ControlDantist.FormWriteBD.resources
+F:\VS 2019 проекты\ControlDantist 2018 год\рабочая\ControlDantist\obj\Debug\ControlDantist.FormИсправленияУслугДоговоров.resources
+F:\VS 2019 проекты\ControlDantist 2018 год\рабочая\ControlDantist\obj\Debug\ControlDantist.FormОжидание.resources
+F:\VS 2019 проекты\ControlDantist 2018 год\рабочая\ControlDantist\obj\Debug\ControlDantist.FormПостановление.resources
+F:\VS 2019 проекты\ControlDantist 2018 год\рабочая\ControlDantist\obj\Debug\ControlDantist.FormСписокПолучателей.resources
+F:\VS 2019 проекты\ControlDantist 2018 год\рабочая\ControlDantist\obj\Debug\ControlDantist.MainForm.resources
+F:\VS 2019 проекты\ControlDantist 2018 год\рабочая\ControlDantist\obj\Debug\ControlDantist.MyMessage.resources
+F:\VS 2019 проекты\ControlDantist 2018 год\рабочая\ControlDantist\obj\Debug\ControlDantist.Properties.Resources.resources
+F:\VS 2019 проекты\ControlDantist 2018 год\рабочая\ControlDantist\obj\Debug\ControlDantist.СhangeAkt.resources
+F:\VS 2019 проекты\ControlDantist 2018 год\рабочая\ControlDantist\obj\Debug\ControlDantist.csproj.GenerateResource.cache
+F:\VS 2019 проекты\ControlDantist 2018 год\рабочая\ControlDantist\obj\Debug\ControlDantist.csproj.CopyComplete
+F:\VS 2019 проекты\ControlDantist 2018 год\рабочая\ControlDantist\obj\Debug\ControlDantist.exe
+F:\VS 2019 проекты\ControlDantist 2018 год\рабочая\ControlDantist\obj\Debug\ControlDantist.pdb
+F:\VS 2019 проекты\ControlDantist 2018 год\рабочая\ControlDantist\obj\Debug\ControlDantist.ReceptionContractsForm.resources
+F:\VS 2019 проекты\ControlDantist 2018 год\рабочая\ControlDantist\bin\Debug\EntityFramework.dll
+F:\VS 2019 проекты\ControlDantist 2018 год\рабочая\ControlDantist\bin\Debug\EntityFramework.xml
+F:\VS 2019 проекты\ControlDantist 2018 год\рабочая\ControlDantist\bin\Debug\ru\EntityFramework.resources.dll
+F:\VS 2019 проекты\ControlDantist 2018 год\рабочая\ControlDantist\obj\Debug\ControlDantist.FormPrintContract.resources
+F:\VS 2019 проекты\ControlDantist 2018 год\рабочая\ControlDantist\obj\Debug\ControlDantist.FormLimitMoney.resources
+F:\VS 2019 проекты\ControlDantist 2018 год\рабочая\ControlDantist\obj\Debug\ControlDantist.FormSelectLimitMoney.resources
+F:\VS 2019 проекты\ControlDantist 2018 год\рабочая\ControlDantist\obj\Debug\ControlDantist.FormRegistrProjectList.resources
+F:\VS 2019 проекты\ControlDantist 2018 год\рабочая\ControlDantist\obj\Debug\ControlDantist.FormValidOutEsrn.resources
+F:\VS 2019 проекты\ControlDantist 2018 год\рабочая\ControlDantist\obj\Debug\ControlDantist.FormStatistic.resources
+F:\VS 2019 проекты\ControlDantist 2018 год\рабочая\ControlDantist\obj\Debug\ControlDantist.FindLettert.resources
+F:\VS 2019 проекты\ControlDantist 2018 год\рабочая\ControlDantist\obj\Debug\ControlDantist.csprojAssemblyReference.cache
+F:\VS 2019 проекты\ControlDantist 2018 год\рабочая\ControlDantist\obj\Debug\ControlDantist.csproj.CoreCompileInputs.cache
+F:\VS 2019 проекты\ControlDantist 2018 год\рабочая\ControlDantist\obj\Debug\ControlDantist.FindPersonESRN.resources
+F:\VS 2019 проекты\ControlDantistTest\рабочая\ControlDantist\bin\Debug\ControlDantist.exe.config
+F:\VS 2019 проекты\ControlDantistTest\рабочая\ControlDantist\bin\Debug\ControlDantist.exe
+F:\VS 2019 проекты\ControlDantistTest\рабочая\ControlDantist\bin\Debug\ControlDantist.pdb
+F:\VS 2019 проекты\ControlDantistTest\рабочая\ControlDantist\bin\Debug\EntityFramework.dll
+F:\VS 2019 проекты\ControlDantistTest\рабочая\ControlDantist\bin\Debug\EntityFramework.xml
+F:\VS 2019 проекты\ControlDantistTest\рабочая\ControlDantist\bin\Debug\ru\EntityFramework.resources.dll
+F:\VS 2019 проекты\ControlDantistTest\рабочая\ControlDantist\obj\Debug\ControlDantist.csprojAssemblyReference.cache
+F:\VS 2019 проекты\ControlDantistTest\рабочая\ControlDantist\obj\Debug\ControlDantist.csproj.ResolveComReference.cache
+F:\VS 2019 проекты\ControlDantistTest\рабочая\ControlDantist\obj\Debug\ControlDantist.FiltrPersonForVipNet.resources
+F:\VS 2019 проекты\ControlDantistTest\рабочая\ControlDantist\obj\Debug\ControlDantist.FindLettert.resources
+F:\VS 2019 проекты\ControlDantistTest\рабочая\ControlDantist\obj\Debug\ControlDantist.FindPersonESRN.resources
+F:\VS 2019 проекты\ControlDantistTest\рабочая\ControlDantist\obj\Debug\ControlDantist.FirstLoadHospital.resources
+F:\VS 2019 проекты\ControlDantistTest\рабочая\ControlDantist\obj\Debug\ControlDantist.FormConfig.resources
+F:\VS 2019 проекты\ControlDantistTest\рабочая\ControlDantist\obj\Debug\ControlDantist.FormConfigSearch.resources
+F:\VS 2019 проекты\ControlDantistTest\рабочая\ControlDantist\obj\Debug\ControlDantist.FormConfigРайон.resources
+F:\VS 2019 проекты\ControlDantistTest\рабочая\ControlDantist\obj\Debug\ControlDantist.FormControlContract.resources
+F:\VS 2019 проекты\ControlDantistTest\рабочая\ControlDantist\obj\Debug\ControlDantist.FormDalogWriteBD.resources
+F:\VS 2019 проекты\ControlDantistTest\рабочая\ControlDantist\obj\Debug\ControlDantist.FormDate.resources
+F:\VS 2019 проекты\ControlDantistTest\рабочая\ControlDantist\obj\Debug\ControlDantist.FormDepartment.resources
+F:\VS 2019 проекты\ControlDantistTest\рабочая\ControlDantist\obj\Debug\ControlDantist.FormDispContract.resources
+F:\VS 2019 проекты\ControlDantistTest\рабочая\ControlDantist\obj\Debug\ControlDantist.FormDisplayError.resources
+F:\VS 2019 проекты\ControlDantistTest\рабочая\ControlDantist\obj\Debug\ControlDantist.FormDisplayReestr.resources
+F:\VS 2019 проекты\ControlDantistTest\рабочая\ControlDantist\obj\Debug\ControlDantist.FormEditDateHospital.resources
+F:\VS 2019 проекты\ControlDantistTest\рабочая\ControlDantist\obj\Debug\ControlDantist.FormEditВидУслуг.resources
+F:\VS 2019 проекты\ControlDantistTest\рабочая\ControlDantist\obj\Debug\ControlDantist.FormError.resources
+F:\VS 2019 проекты\ControlDantistTest\рабочая\ControlDantist\obj\Debug\ControlDantist.FormOutValid.resources
+F:\VS 2019 проекты\ControlDantistTest\рабочая\ControlDantist\obj\Debug\ControlDantist.FormExcel.resources
+F:\VS 2019 проекты\ControlDantistTest\рабочая\ControlDantist\obj\Debug\ControlDantist.FormHeadDepartment.resources
+F:\VS 2019 проекты\ControlDantistTest\рабочая\ControlDantist\obj\Debug\ControlDantist.FormInfoЛьготник.resources
+F:\VS 2019 проекты\ControlDantistTest\рабочая\ControlDantist\obj\Debug\ControlDantist.FormInv.resources
+F:\VS 2019 проекты\ControlDantistTest\рабочая\ControlDantist\obj\Debug\ControlDantist.FormLimitMoney.resources
+F:\VS 2019 проекты\ControlDantistTest\рабочая\ControlDantist\obj\Debug\ControlDantist.FormMessage.resources
+F:\VS 2019 проекты\ControlDantistTest\рабочая\ControlDantist\obj\Debug\ControlDantist.FormMessageAct.resources
+F:\VS 2019 проекты\ControlDantistTest\рабочая\ControlDantist\obj\Debug\ControlDantist.FormModalPerson.resources
+F:\VS 2019 проекты\ControlDantistTest\рабочая\ControlDantist\obj\Debug\ControlDantist.FormPrintContract.resources
+F:\VS 2019 проекты\ControlDantistTest\рабочая\ControlDantist\obj\Debug\ControlDantist.FormReestr.resources
+F:\VS 2019 проекты\ControlDantistTest\рабочая\ControlDantist\obj\Debug\ControlDantist.FormReestrDate.resources
+F:\VS 2019 проекты\ControlDantistTest\рабочая\ControlDantist\obj\Debug\ControlDantist.FormReestrDisplay.resources
+F:\VS 2019 проекты\ControlDantistTest\рабочая\ControlDantist\obj\Debug\ControlDantist.FormRegions.resources
+F:\VS 2019 проекты\ControlDantistTest\рабочая\ControlDantist\obj\Debug\ControlDantist.FormRegistrProjectList.resources
+F:\VS 2019 проекты\ControlDantistTest\рабочая\ControlDantist\obj\Debug\ControlDantist.FormReportPrint.resources
+F:\VS 2019 проекты\ControlDantistTest\рабочая\ControlDantist\obj\Debug\ControlDantist.FormSelect.resources
+F:\VS 2019 проекты\ControlDantistTest\рабочая\ControlDantist\obj\Debug\ControlDantist.FormSelectHeadDepartment.resources
+F:\VS 2019 проекты\ControlDantistTest\рабочая\ControlDantist\obj\Debug\ControlDantist.FormSelectLimitMoney.resources
+F:\VS 2019 проекты\ControlDantistTest\рабочая\ControlDantist\obj\Debug\ControlDantist.FormSelectПостановление.resources
+F:\VS 2019 проекты\ControlDantistTest\рабочая\ControlDantist\obj\Debug\ControlDantist.FormStatistic.resources
+F:\VS 2019 проекты\ControlDantistTest\рабочая\ControlDantist\obj\Debug\ControlDantist.FormSum.resources
+F:\VS 2019 проекты\ControlDantistTest\рабочая\ControlDantist\obj\Debug\ControlDantist.FormValidContract.resources
+F:\VS 2019 проекты\ControlDantistTest\рабочая\ControlDantist\obj\Debug\ControlDantist.FormValidOut.resources
+F:\VS 2019 проекты\ControlDantistTest\рабочая\ControlDantist\obj\Debug\ControlDantist.FormValidOutEsrn.resources
+F:\VS 2019 проекты\ControlDantistTest\рабочая\ControlDantist\obj\Debug\ControlDantist.FormWriteBD.resources
+F:\VS 2019 проекты\ControlDantistTest\рабочая\ControlDantist\obj\Debug\ControlDantist.FormИсправленияУслугДоговоров.resources
+F:\VS 2019 проекты\ControlDantistTest\рабочая\ControlDantist\obj\Debug\ControlDantist.FormОжидание.resources
+F:\VS 2019 проекты\ControlDantistTest\рабочая\ControlDantist\obj\Debug\ControlDantist.FormПостановление.resources
+F:\VS 2019 проекты\ControlDantistTest\рабочая\ControlDantist\obj\Debug\ControlDantist.FormСписокПолучателей.resources
+F:\VS 2019 проекты\ControlDantistTest\рабочая\ControlDantist\obj\Debug\ControlDantist.MainForm.resources
+F:\VS 2019 проекты\ControlDantistTest\рабочая\ControlDantist\obj\Debug\ControlDantist.MyMessage.resources
+F:\VS 2019 проекты\ControlDantistTest\рабочая\ControlDantist\obj\Debug\ControlDantist.Properties.Resources.resources
+F:\VS 2019 проекты\ControlDantistTest\рабочая\ControlDantist\obj\Debug\ControlDantist.ReceptionContractsForm.resources
+F:\VS 2019 проекты\ControlDantistTest\рабочая\ControlDantist\obj\Debug\ControlDantist.СhangeAkt.resources
+F:\VS 2019 проекты\ControlDantistTest\рабочая\ControlDantist\obj\Debug\ControlDantist.csproj.GenerateResource.cache
+F:\VS 2019 проекты\ControlDantistTest\рабочая\ControlDantist\obj\Debug\ControlDantist.csproj.CoreCompileInputs.cache
+F:\VS 2019 проекты\ControlDantistTest\рабочая\ControlDantist\obj\Debug\ControlDantist.csproj.CopyComplete
+F:\VS 2019 проекты\ControlDantistTest\рабочая\ControlDantist\obj\Debug\ControlDantist.exe
+F:\VS 2019 проекты\ControlDantistTest\рабочая\ControlDantist\obj\Debug\ControlDantist.pdb

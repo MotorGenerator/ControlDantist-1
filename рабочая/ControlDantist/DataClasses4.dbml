@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="Dentists" Class="DataClasses4DataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=10.159.102.21;Initial Catalog=Dentists;User ID=admin_dantist" SettingsObjectName="ControlDantist.Properties.Settings" SettingsPropertyName="DentistsConnectionString2" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.ПоликлинникиИнн" Member="ПоликлинникиИнн">
+    <Type Name="ПоликлинникиИнн">
+      <Column Name="F1" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="F2" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="F3" Type="System.Double" DbType="Float" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.ЛьготнаяКатегория" Member="ЛьготнаяКатегория">
+    <Type Name="ЛьготнаяКатегория">
+      <Column Name="id_льготнойКатегории" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="ЛьготнаяКатегория" Member="ЛьготнаяКатегория1" Type="System.String" DbType="NChar(200)" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.ViewСуммаДоговоровБезАкта" Member="ViewСуммаДоговоровБезАкта">
+    <Type Name="ViewСуммаДоговоровБезАкта">
+      <Column Name="Поликлинника" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="Всего" Type="System.Decimal" DbType="Money" CanBeNull="true" />
+      <Column Name="ВсегоВетеранТруда" Type="System.Decimal" DbType="Money" CanBeNull="true" />
+      <Column Name="ВсегоВетеранВоеннойСлужбы" Type="System.Decimal" DbType="Money" CanBeNull="true" />
+      <Column Name="ВсегоВетеранТрудаСаратовскойОбласти" Type="System.Decimal" DbType="Money" CanBeNull="true" />
+      <Column Name="ВсегоТруженникТыла" Type="System.Decimal" DbType="Money" CanBeNull="true" />
+      <Column Name="ВсегоРеабелитированные" Type="System.Decimal" DbType="Money" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.ViewИнвентаризация" Member="ViewИнвентаризация">
+    <Type Name="ViewИнвентаризация">
+      <Column Name="Фамилия" Type="System.String" DbType="NVarChar(150)" CanBeNull="true" />
+      <Column Name="Имя" Type="System.String" DbType="NVarChar(150)" CanBeNull="true" />
+      <Column Name="Отчество" Type="System.String" DbType="NVarChar(150)" CanBeNull="true" />
+      <Column Name="ЛьготнаяКатегория" Type="System.String" DbType="NChar(200)" CanBeNull="true" />
+      <Column Name="НомерДоговора" Type="System.String" DbType="NChar(100)" CanBeNull="true" />
+      <Column Name="ДатаДоговора" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="ДатаАктаВыполненныхРабот" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="НаименованиеПоликлинники" Type="System.String" DbType="NVarChar(300)" CanBeNull="true" />
+      <Column Name="СуммаАктаВыполненныхРабот" Type="System.Decimal" DbType="Money" CanBeNull="true" />
+      <Column Name="logWrite" Type="System.String" DbType="VarChar(150)" CanBeNull="true" />
+      <Column Name="ДатаЗаписиДоговора" Type="System.DateTime" DbType="Date" CanBeNull="true" />
+      <Column Name="ИНН" Type="System.String" DbType="NChar(20)" CanBeNull="true" />
+      <Column Name="F2" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="F3" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="НомерАкта" Type="System.String" DbType="NChar(100)" CanBeNull="true" />
+      <Column Name="СуммаДоговора" Type="System.Decimal" DbType="Money" CanBeNull="true" />
+      <Column Name="ФлагНаличияАкта" Type="System.Boolean" DbType="Bit" CanBeNull="true" />
+    </Type>
+  </Table>
+</Database>

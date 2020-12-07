@@ -1,0 +1,137 @@
+F:\VS 2019 проекты\ControlDantist 2018 год\рабочая\ControlDantist\bin\x64\Debug\ControlDantist.exe.config
+F:\VS 2019 проекты\ControlDantist 2018 год\рабочая\ControlDantist\bin\x64\Debug\ControlDantist.exe
+F:\VS 2019 проекты\ControlDantist 2018 год\рабочая\ControlDantist\bin\x64\Debug\ControlDantist.pdb
+F:\VS 2019 проекты\ControlDantist 2018 год\рабочая\ControlDantist\bin\x64\Debug\CarlosAg.ExcelXmlWriter.dll
+F:\VS 2019 проекты\ControlDantist 2018 год\рабочая\ControlDantist\bin\x64\Debug\ClassLibrary1.dll
+F:\VS 2019 проекты\ControlDantist 2018 год\рабочая\ControlDantist\bin\x64\Debug\ConfigLibrary.dll
+F:\VS 2019 проекты\ControlDantist 2018 год\рабочая\ControlDantist\bin\x64\Debug\DantistLibrary.dll
+F:\VS 2019 проекты\ControlDantist 2018 год\рабочая\ControlDantist\bin\x64\Debug\EntityFramework.dll
+F:\VS 2019 проекты\ControlDantist 2018 год\рабочая\ControlDantist\bin\x64\Debug\ExcelLibrary.dll
+F:\VS 2019 проекты\ControlDantist 2018 год\рабочая\ControlDantist\bin\x64\Debug\EntityFramework.xml
+F:\VS 2019 проекты\ControlDantist 2018 год\рабочая\ControlDantist\bin\x64\Debug\ru\EntityFramework.resources.dll
+F:\VS 2019 проекты\ControlDantist 2018 год\рабочая\ControlDantist\obj\x64\Debug\ControlDantist.csproj.ResolveComReference.cache
+F:\VS 2019 проекты\ControlDantist 2018 год\рабочая\ControlDantist\obj\x64\Debug\ControlDantist.FiltrPersonForVipNet.resources
+F:\VS 2019 проекты\ControlDantist 2018 год\рабочая\ControlDantist\obj\x64\Debug\ControlDantist.FindLettert.resources
+F:\VS 2019 проекты\ControlDantist 2018 год\рабочая\ControlDantist\obj\x64\Debug\ControlDantist.FirstLoadHospital.resources
+F:\VS 2019 проекты\ControlDantist 2018 год\рабочая\ControlDantist\obj\x64\Debug\ControlDantist.FormConfig.resources
+F:\VS 2019 проекты\ControlDantist 2018 год\рабочая\ControlDantist\obj\x64\Debug\ControlDantist.FormConfigSearch.resources
+F:\VS 2019 проекты\ControlDantist 2018 год\рабочая\ControlDantist\obj\x64\Debug\ControlDantist.FormConfigРайон.resources
+F:\VS 2019 проекты\ControlDantist 2018 год\рабочая\ControlDantist\obj\x64\Debug\ControlDantist.FormControlContract.resources
+F:\VS 2019 проекты\ControlDantist 2018 год\рабочая\ControlDantist\obj\x64\Debug\ControlDantist.FormDalogWriteBD.resources
+F:\VS 2019 проекты\ControlDantist 2018 год\рабочая\ControlDantist\obj\x64\Debug\ControlDantist.FormDate.resources
+F:\VS 2019 проекты\ControlDantist 2018 год\рабочая\ControlDantist\obj\x64\Debug\ControlDantist.FormDepartment.resources
+F:\VS 2019 проекты\ControlDantist 2018 год\рабочая\ControlDantist\obj\x64\Debug\ControlDantist.FormDispContract.resources
+F:\VS 2019 проекты\ControlDantist 2018 год\рабочая\ControlDantist\obj\x64\Debug\ControlDantist.FormDisplayError.resources
+F:\VS 2019 проекты\ControlDantist 2018 год\рабочая\ControlDantist\obj\x64\Debug\ControlDantist.FormDisplayReestr.resources
+F:\VS 2019 проекты\ControlDantist 2018 год\рабочая\ControlDantist\obj\x64\Debug\ControlDantist.FormEditDateHospital.resources
+F:\VS 2019 проекты\ControlDantist 2018 год\рабочая\ControlDantist\obj\x64\Debug\ControlDantist.FormEditВидУслуг.resources
+F:\VS 2019 проекты\ControlDantist 2018 год\рабочая\ControlDantist\obj\x64\Debug\ControlDantist.FormError.resources
+F:\VS 2019 проекты\ControlDantist 2018 год\рабочая\ControlDantist\obj\x64\Debug\ControlDantist.FormOutValid.resources
+F:\VS 2019 проекты\ControlDantist 2018 год\рабочая\ControlDantist\obj\x64\Debug\ControlDantist.FormExcel.resources
+F:\VS 2019 проекты\ControlDantist 2018 год\рабочая\ControlDantist\obj\x64\Debug\ControlDantist.FormHeadDepartment.resources
+F:\VS 2019 проекты\ControlDantist 2018 год\рабочая\ControlDantist\obj\x64\Debug\ControlDantist.FormInfoЛьготник.resources
+F:\VS 2019 проекты\ControlDantist 2018 год\рабочая\ControlDantist\obj\x64\Debug\ControlDantist.FormInv.resources
+F:\VS 2019 проекты\ControlDantist 2018 год\рабочая\ControlDantist\obj\x64\Debug\ControlDantist.FormLimitMoney.resources
+F:\VS 2019 проекты\ControlDantist 2018 год\рабочая\ControlDantist\obj\x64\Debug\ControlDantist.FormMessage.resources
+F:\VS 2019 проекты\ControlDantist 2018 год\рабочая\ControlDantist\obj\x64\Debug\ControlDantist.FormMessageAct.resources
+F:\VS 2019 проекты\ControlDantist 2018 год\рабочая\ControlDantist\obj\x64\Debug\ControlDantist.FormModalPerson.resources
+F:\VS 2019 проекты\ControlDantist 2018 год\рабочая\ControlDantist\obj\x64\Debug\ControlDantist.FormPrintContract.resources
+F:\VS 2019 проекты\ControlDantist 2018 год\рабочая\ControlDantist\obj\x64\Debug\ControlDantist.FormReestr.resources
+F:\VS 2019 проекты\ControlDantist 2018 год\рабочая\ControlDantist\obj\x64\Debug\ControlDantist.FormReestrDate.resources
+F:\VS 2019 проекты\ControlDantist 2018 год\рабочая\ControlDantist\obj\x64\Debug\ControlDantist.FormReestrDisplay.resources
+F:\VS 2019 проекты\ControlDantist 2018 год\рабочая\ControlDantist\obj\x64\Debug\ControlDantist.FormRegions.resources
+F:\VS 2019 проекты\ControlDantist 2018 год\рабочая\ControlDantist\obj\x64\Debug\ControlDantist.FormRegistrProjectList.resources
+F:\VS 2019 проекты\ControlDantist 2018 год\рабочая\ControlDantist\obj\x64\Debug\ControlDantist.FormReportPrint.resources
+F:\VS 2019 проекты\ControlDantist 2018 год\рабочая\ControlDantist\obj\x64\Debug\ControlDantist.FormSelect.resources
+F:\VS 2019 проекты\ControlDantist 2018 год\рабочая\ControlDantist\obj\x64\Debug\ControlDantist.FormSelectHeadDepartment.resources
+F:\VS 2019 проекты\ControlDantist 2018 год\рабочая\ControlDantist\obj\x64\Debug\ControlDantist.FormSelectLimitMoney.resources
+F:\VS 2019 проекты\ControlDantist 2018 год\рабочая\ControlDantist\obj\x64\Debug\ControlDantist.FormSelectПостановление.resources
+F:\VS 2019 проекты\ControlDantist 2018 год\рабочая\ControlDantist\obj\x64\Debug\ControlDantist.FormStatistic.resources
+F:\VS 2019 проекты\ControlDantist 2018 год\рабочая\ControlDantist\obj\x64\Debug\ControlDantist.FormSum.resources
+F:\VS 2019 проекты\ControlDantist 2018 год\рабочая\ControlDantist\obj\x64\Debug\ControlDantist.FormValidContract.resources
+F:\VS 2019 проекты\ControlDantist 2018 год\рабочая\ControlDantist\obj\x64\Debug\ControlDantist.FormValidOut.resources
+F:\VS 2019 проекты\ControlDantist 2018 год\рабочая\ControlDantist\obj\x64\Debug\ControlDantist.FormValidOutEsrn.resources
+F:\VS 2019 проекты\ControlDantist 2018 год\рабочая\ControlDantist\obj\x64\Debug\ControlDantist.FormWriteBD.resources
+F:\VS 2019 проекты\ControlDantist 2018 год\рабочая\ControlDantist\obj\x64\Debug\ControlDantist.FormИсправленияУслугДоговоров.resources
+F:\VS 2019 проекты\ControlDantist 2018 год\рабочая\ControlDantist\obj\x64\Debug\ControlDantist.FormОжидание.resources
+F:\VS 2019 проекты\ControlDantist 2018 год\рабочая\ControlDantist\obj\x64\Debug\ControlDantist.FormПостановление.resources
+F:\VS 2019 проекты\ControlDantist 2018 год\рабочая\ControlDantist\obj\x64\Debug\ControlDantist.FormСписокПолучателей.resources
+F:\VS 2019 проекты\ControlDantist 2018 год\рабочая\ControlDantist\obj\x64\Debug\ControlDantist.MainForm.resources
+F:\VS 2019 проекты\ControlDantist 2018 год\рабочая\ControlDantist\obj\x64\Debug\ControlDantist.MyMessage.resources
+F:\VS 2019 проекты\ControlDantist 2018 год\рабочая\ControlDantist\obj\x64\Debug\ControlDantist.Properties.Resources.resources
+F:\VS 2019 проекты\ControlDantist 2018 год\рабочая\ControlDantist\obj\x64\Debug\ControlDantist.ReceptionContractsForm.resources
+F:\VS 2019 проекты\ControlDantist 2018 год\рабочая\ControlDantist\obj\x64\Debug\ControlDantist.СhangeAkt.resources
+F:\VS 2019 проекты\ControlDantist 2018 год\рабочая\ControlDantist\obj\x64\Debug\ControlDantist.csproj.GenerateResource.cache
+F:\VS 2019 проекты\ControlDantist 2018 год\рабочая\ControlDantist\obj\x64\Debug\ControlDantist.csproj.CopyComplete
+F:\VS 2019 проекты\ControlDantist 2018 год\рабочая\ControlDantist\obj\x64\Debug\ControlDantist.exe
+F:\VS 2019 проекты\ControlDantist 2018 год\рабочая\ControlDantist\obj\x64\Debug\ControlDantist.pdb
+F:\VS 2019 проекты\ControlDantistTest\рабочая\ControlDantist\bin\x64\Debug\ControlDantist.exe.config
+F:\VS 2019 проекты\ControlDantistTest\рабочая\ControlDantist\bin\x64\Debug\ControlDantist.exe
+F:\VS 2019 проекты\ControlDantistTest\рабочая\ControlDantist\bin\x64\Debug\ControlDantist.pdb
+F:\VS 2019 проекты\ControlDantistTest\рабочая\ControlDantist\bin\x64\Debug\CarlosAg.ExcelXmlWriter.dll
+F:\VS 2019 проекты\ControlDantistTest\рабочая\ControlDantist\bin\x64\Debug\ClassLibrary1.dll
+F:\VS 2019 проекты\ControlDantistTest\рабочая\ControlDantist\bin\x64\Debug\ConfigLibrary.dll
+F:\VS 2019 проекты\ControlDantistTest\рабочая\ControlDantist\bin\x64\Debug\DantistLibrary.dll
+F:\VS 2019 проекты\ControlDantistTest\рабочая\ControlDantist\bin\x64\Debug\EntityFramework.dll
+F:\VS 2019 проекты\ControlDantistTest\рабочая\ControlDantist\bin\x64\Debug\ExcelLibrary.dll
+F:\VS 2019 проекты\ControlDantistTest\рабочая\ControlDantist\bin\x64\Debug\EntityFramework.xml
+F:\VS 2019 проекты\ControlDantistTest\рабочая\ControlDantist\bin\x64\Debug\ru\EntityFramework.resources.dll
+F:\VS 2019 проекты\ControlDantistTest\рабочая\ControlDantist\obj\x64\Debug\ControlDantist.csprojAssemblyReference.cache
+F:\VS 2019 проекты\ControlDantistTest\рабочая\ControlDantist\obj\x64\Debug\ControlDantist.csproj.ResolveComReference.cache
+F:\VS 2019 проекты\ControlDantistTest\рабочая\ControlDantist\obj\x64\Debug\ControlDantist.FiltrPersonForVipNet.resources
+F:\VS 2019 проекты\ControlDantistTest\рабочая\ControlDantist\obj\x64\Debug\ControlDantist.FindLettert.resources
+F:\VS 2019 проекты\ControlDantistTest\рабочая\ControlDantist\obj\x64\Debug\ControlDantist.FindPersonESRN.resources
+F:\VS 2019 проекты\ControlDantistTest\рабочая\ControlDantist\obj\x64\Debug\ControlDantist.FirstLoadHospital.resources
+F:\VS 2019 проекты\ControlDantistTest\рабочая\ControlDantist\obj\x64\Debug\ControlDantist.FormConfig.resources
+F:\VS 2019 проекты\ControlDantistTest\рабочая\ControlDantist\obj\x64\Debug\ControlDantist.FormConfigSearch.resources
+F:\VS 2019 проекты\ControlDantistTest\рабочая\ControlDantist\obj\x64\Debug\ControlDantist.FormConfigРайон.resources
+F:\VS 2019 проекты\ControlDantistTest\рабочая\ControlDantist\obj\x64\Debug\ControlDantist.FormControlContract.resources
+F:\VS 2019 проекты\ControlDantistTest\рабочая\ControlDantist\obj\x64\Debug\ControlDantist.FormDalogWriteBD.resources
+F:\VS 2019 проекты\ControlDantistTest\рабочая\ControlDantist\obj\x64\Debug\ControlDantist.FormDate.resources
+F:\VS 2019 проекты\ControlDantistTest\рабочая\ControlDantist\obj\x64\Debug\ControlDantist.FormDepartment.resources
+F:\VS 2019 проекты\ControlDantistTest\рабочая\ControlDantist\obj\x64\Debug\ControlDantist.FormDispContract.resources
+F:\VS 2019 проекты\ControlDantistTest\рабочая\ControlDantist\obj\x64\Debug\ControlDantist.FormDisplayError.resources
+F:\VS 2019 проекты\ControlDantistTest\рабочая\ControlDantist\obj\x64\Debug\ControlDantist.FormDisplayReestr.resources
+F:\VS 2019 проекты\ControlDantistTest\рабочая\ControlDantist\obj\x64\Debug\ControlDantist.FormEditDateHospital.resources
+F:\VS 2019 проекты\ControlDantistTest\рабочая\ControlDantist\obj\x64\Debug\ControlDantist.FormEditВидУслуг.resources
+F:\VS 2019 проекты\ControlDantistTest\рабочая\ControlDantist\obj\x64\Debug\ControlDantist.FormError.resources
+F:\VS 2019 проекты\ControlDantistTest\рабочая\ControlDantist\obj\x64\Debug\ControlDantist.FormOutValid.resources
+F:\VS 2019 проекты\ControlDantistTest\рабочая\ControlDantist\obj\x64\Debug\ControlDantist.FormExcel.resources
+F:\VS 2019 проекты\ControlDantistTest\рабочая\ControlDantist\obj\x64\Debug\ControlDantist.FormHeadDepartment.resources
+F:\VS 2019 проекты\ControlDantistTest\рабочая\ControlDantist\obj\x64\Debug\ControlDantist.FormInfoЛьготник.resources
+F:\VS 2019 проекты\ControlDantistTest\рабочая\ControlDantist\obj\x64\Debug\ControlDantist.FormInv.resources
+F:\VS 2019 проекты\ControlDantistTest\рабочая\ControlDantist\obj\x64\Debug\ControlDantist.FormLimitMoney.resources
+F:\VS 2019 проекты\ControlDantistTest\рабочая\ControlDantist\obj\x64\Debug\ControlDantist.FormMessage.resources
+F:\VS 2019 проекты\ControlDantistTest\рабочая\ControlDantist\obj\x64\Debug\ControlDantist.FormMessageAct.resources
+F:\VS 2019 проекты\ControlDantistTest\рабочая\ControlDantist\obj\x64\Debug\ControlDantist.FormModalPerson.resources
+F:\VS 2019 проекты\ControlDantistTest\рабочая\ControlDantist\obj\x64\Debug\ControlDantist.FormPrintContract.resources
+F:\VS 2019 проекты\ControlDantistTest\рабочая\ControlDantist\obj\x64\Debug\ControlDantist.FormReestr.resources
+F:\VS 2019 проекты\ControlDantistTest\рабочая\ControlDantist\obj\x64\Debug\ControlDantist.FormReestrDate.resources
+F:\VS 2019 проекты\ControlDantistTest\рабочая\ControlDantist\obj\x64\Debug\ControlDantist.FormReestrDisplay.resources
+F:\VS 2019 проекты\ControlDantistTest\рабочая\ControlDantist\obj\x64\Debug\ControlDantist.FormRegions.resources
+F:\VS 2019 проекты\ControlDantistTest\рабочая\ControlDantist\obj\x64\Debug\ControlDantist.FormRegistrProjectList.resources
+F:\VS 2019 проекты\ControlDantistTest\рабочая\ControlDantist\obj\x64\Debug\ControlDantist.FormReportPrint.resources
+F:\VS 2019 проекты\ControlDantistTest\рабочая\ControlDantist\obj\x64\Debug\ControlDantist.FormSelect.resources
+F:\VS 2019 проекты\ControlDantistTest\рабочая\ControlDantist\obj\x64\Debug\ControlDantist.FormSelectHeadDepartment.resources
+F:\VS 2019 проекты\ControlDantistTest\рабочая\ControlDantist\obj\x64\Debug\ControlDantist.FormSelectLimitMoney.resources
+F:\VS 2019 проекты\ControlDantistTest\рабочая\ControlDantist\obj\x64\Debug\ControlDantist.FormSelectПостановление.resources
+F:\VS 2019 проекты\ControlDantistTest\рабочая\ControlDantist\obj\x64\Debug\ControlDantist.FormStatistic.resources
+F:\VS 2019 проекты\ControlDantistTest\рабочая\ControlDantist\obj\x64\Debug\ControlDantist.FormSum.resources
+F:\VS 2019 проекты\ControlDantistTest\рабочая\ControlDantist\obj\x64\Debug\ControlDantist.FormValidContract.resources
+F:\VS 2019 проекты\ControlDantistTest\рабочая\ControlDantist\obj\x64\Debug\ControlDantist.FormValidOut.resources
+F:\VS 2019 проекты\ControlDantistTest\рабочая\ControlDantist\obj\x64\Debug\ControlDantist.FormValidOutEsrn.resources
+F:\VS 2019 проекты\ControlDantistTest\рабочая\ControlDantist\obj\x64\Debug\ControlDantist.FormWriteBD.resources
+F:\VS 2019 проекты\ControlDantistTest\рабочая\ControlDantist\obj\x64\Debug\ControlDantist.FormИсправленияУслугДоговоров.resources
+F:\VS 2019 проекты\ControlDantistTest\рабочая\ControlDantist\obj\x64\Debug\ControlDantist.FormОжидание.resources
+F:\VS 2019 проекты\ControlDantistTest\рабочая\ControlDantist\obj\x64\Debug\ControlDantist.FormПостановление.resources
+F:\VS 2019 проекты\ControlDantistTest\рабочая\ControlDantist\obj\x64\Debug\ControlDantist.FormСписокПолучателей.resources
+F:\VS 2019 проекты\ControlDantistTest\рабочая\ControlDantist\obj\x64\Debug\ControlDantist.MainForm.resources
+F:\VS 2019 проекты\ControlDantistTest\рабочая\ControlDantist\obj\x64\Debug\ControlDantist.MyMessage.resources
+F:\VS 2019 проекты\ControlDantistTest\рабочая\ControlDantist\obj\x64\Debug\ControlDantist.Properties.Resources.resources
+F:\VS 2019 проекты\ControlDantistTest\рабочая\ControlDantist\obj\x64\Debug\ControlDantist.ReceptionContractsForm.resources
+F:\VS 2019 проекты\ControlDantistTest\рабочая\ControlDantist\obj\x64\Debug\ControlDantist.СhangeAkt.resources
+F:\VS 2019 проекты\ControlDantistTest\рабочая\ControlDantist\obj\x64\Debug\ControlDantist.csproj.GenerateResource.cache
+F:\VS 2019 проекты\ControlDantistTest\рабочая\ControlDantist\obj\x64\Debug\ControlDantist.csproj.CoreCompileInputs.cache
+F:\VS 2019 проекты\ControlDantistTest\рабочая\ControlDantist\obj\x64\Debug\ControlDantist.csproj.CopyComplete
+F:\VS 2019 проекты\ControlDantistTest\рабочая\ControlDantist\obj\x64\Debug\ControlDantist.exe
+F:\VS 2019 проекты\ControlDantistTest\рабочая\ControlDantist\obj\x64\Debug\ControlDantist.pdb

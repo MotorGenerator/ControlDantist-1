@@ -1,0 +1,124 @@
+﻿<?xml version='1.0'?>
+<?mso-application progid='Excel.Sheet'?>
+<s:Workbook xmlns:x="urn:schemas-microsoft-com:office:excel" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:s="urn:schemas-microsoft-com:office:spreadsheet">
+  <s:Styles>
+    <s:Style s:ID="HeaderStyle2">
+      <s:Alignment s:Horizontal="Center" s:WrapText="1" />
+      <s:Borders>
+        <s:Border s:Position="Bottom" s:LineStyle="Continuous" s:Weight="1" />
+        <s:Border s:Position="Left" s:LineStyle="Continuous" s:Weight="1" />
+        <s:Border s:Position="Right" s:LineStyle="Continuous" s:Weight="1" />
+        <s:Border s:Position="Top" s:LineStyle="Continuous" s:Weight="1" />
+      </s:Borders>
+      <s:Font s:Bold="1" s:FontName="Times New Roman" s:Size="8" />
+    </s:Style>
+  </s:Styles>
+  <s:Worksheet s:Name="Лист1">
+    <s:Table>
+      <s:Column s:Width="80" />
+      <s:Column s:Width="80" />
+      <s:Column s:Width="80" />
+      <s:Column s:Width="80" />
+      <s:Column s:Width="80" />
+      <s:Column s:Width="80" />
+      <s:Column s:Width="80" />
+      <s:Column s:Width="80" />
+      <s:Column s:Width="80" />
+      <s:Column s:Width="80" />
+      <s:Column s:Width="80" />
+      <s:Column s:Width="80" />
+      <s:Column s:Width="80" />
+      <s:Column s:Width="80" />
+      <s:Column s:Width="80" />
+      <s:Column s:Width="80" />
+      <s:Row>
+        <s:Cell s:Index="1" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">Район области</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="2" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">Населенный пункт</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="3" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">Фамилия</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="4" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">Имя</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="5" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">Отчество</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="6" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">Дата рождения</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="7" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">Улица</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="8" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">Дом</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="9" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">Корпус</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="10" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">Квартира</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="11" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">Серия документа</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="12" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">Номер документа</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="13" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">Сумма акта</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="14" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">Дата подписания акта</s:Data>
+        </s:Cell>
+      </s:Row>
+      <s:Row>
+        <s:Cell s:Index="1" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">Хвалынский</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="2" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">г. Маркс</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="3" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">Фатюшкина</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="4" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">Таисия</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="5" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">Васильевна</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="6" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">22.11.1953</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="7" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">пр. Строителей</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="8" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">25</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="9" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String" />
+        </s:Cell>
+        <s:Cell s:Index="10" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">9</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="11" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">64</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="12" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">2002017</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="13" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">18151.00</s:Data>
+        </s:Cell>
+        <s:Cell s:Index="14" s:StyleID="HeaderStyle2">
+          <s:Data s:Type="String">15.05.2018</s:Data>
+        </s:Cell>
+      </s:Row>
+    </s:Table>
+  </s:Worksheet>
+</s:Workbook>

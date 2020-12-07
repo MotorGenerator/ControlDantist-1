@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ControlDantist", "ControlDantist\ControlDantist.csproj", "{73542E82-66C3-425C-93AE-0748A2FAAEC9}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "CheckDantist", "CheckDantist\CheckDantist.vdproj", "{86E97B56-A534-4669-AAA3-3A6E84AB403A}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "ControlDantist_v2", "ControlDantist_v2\ControlDantist_v2.vdproj", "{3D27DEED-C236-431A-BF41-26615502302A}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{73542E82-66C3-425C-93AE-0748A2FAAEC9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73542E82-66C3-425C-93AE-0748A2FAAEC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73542E82-66C3-425C-93AE-0748A2FAAEC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73542E82-66C3-425C-93AE-0748A2FAAEC9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{86E97B56-A534-4669-AAA3-3A6E84AB403A}.Debug|Any CPU.ActiveCfg = Debug
+		{86E97B56-A534-4669-AAA3-3A6E84AB403A}.Release|Any CPU.ActiveCfg = Release
+		{3D27DEED-C236-431A-BF41-26615502302A}.Debug|Any CPU.ActiveCfg = Debug
+		{3D27DEED-C236-431A-BF41-26615502302A}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

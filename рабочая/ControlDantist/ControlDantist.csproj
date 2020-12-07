@@ -1,0 +1,1255 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="4.0">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.50727</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{73542E82-66C3-425C-93AE-0748A2FAAEC9}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>ControlDantist</RootNamespace>
+    <AssemblyName>ControlDantist</AssemblyName>
+    <ApplicationIcon>asd.ico</ApplicationIcon>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <OldToolsVersion>2.0</OldToolsVersion>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <PlatformTarget>x86</PlatformTarget>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x64'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\x64\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x64</PlatformTarget>
+    <LangVersion>7.3</LangVersion>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x64'">
+    <OutputPath>bin\x64\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <Optimize>true</Optimize>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x64</PlatformTarget>
+    <LangVersion>7.3</LangVersion>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="CarlosAg.ExcelXmlWriter, Version=1.0.0.6, Culture=neutral">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>Library\CarlosAg.ExcelXmlWriter.dll</HintPath>
+    </Reference>
+    <Reference Include="ClassLibrary1, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\ClassLibrary1\ClassLibrary1\bin\Debug\ClassLibrary1.dll</HintPath>
+    </Reference>
+    <Reference Include="ConfigLibrary, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\ConfigLibrary.dll</HintPath>
+    </Reference>
+    <Reference Include="DantistLibrary, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\Библиотека для стоматологии\DantistLibrary\DantistLibrary\bin\Release\DantistLibrary.dll</HintPath>
+    </Reference>
+    <Reference Include="EntityFramework, Version=4.4.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.5.0.0\lib\net40\EntityFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="ExcelLibrary, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>Library\ExcelLibrary.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="Microsoft.Office.Interop.Word, Version=11.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c">
+      <SpecificVersion>False</SpecificVersion>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+      <HintPath>bin\Debug\Microsoft.Office.Interop.Word.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Vbe.Interop, Version=11.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c">
+      <SpecificVersion>False</SpecificVersion>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+      <HintPath>bin\Debug\Microsoft.Vbe.Interop.dll</HintPath>
+    </Reference>
+    <Reference Include="office, Version=11.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c">
+      <SpecificVersion>False</SpecificVersion>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+      <HintPath>bin\Debug\office.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Data.Entity" />
+    <Reference Include="System.Data.Linq" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.Security" />
+    <Reference Include="System.Transactions" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BalanceContract\BalanceDisplay.cs" />
+    <Compile Include="BalanceContract\IReportBalance.cs" />
+    <Compile Include="BalanceContract\IRepository.cs" />
+    <Compile Include="BalanceContract\ItemBalanceDisplay.cs" />
+    <Compile Include="BalanceContract\QueryBD.cs" />
+    <Compile Include="BalanceContract\ReportBalance.cs" />
+    <Compile Include="BalanceContract\SelectPreferency.cs" />
+    <Compile Include="BalanceContract\YearLimit.cs" />
+    <Compile Include="BalanceContract\РайонRepositroy.cs" />
+    <Compile Include="Classes\ClassЗаписьБД.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Classes\ClassЗаписьБДЛьготник.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Classes\ClassЗаписьСтоимостьУслуг.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Classes\ConnectDB.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Classes\ContractDisplay.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Classes\ContractDisplayWord.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Classes\ContractListItem.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Classes\CreateExcel.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Classes\DataSetClass.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Classes\DataSetHospital.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Classes\DateService.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Classes\DisplayReestr.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Classes\DisplayReestrCheck.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Classes\ErrorReestr.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Classes\ErrorsReestrUnload.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Classes\ExcelЯчейка.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Classes\ExceptionUser.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Classes\ExceptionYearNumber.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Classes\ExecuteQuery.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Classes\FindContractForNumber.cs" />
+    <Compile Include="Classes\GenerateExcelFile.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Classes\ContractsForLetter.cs" />
+    <Compile Include="Classes\GenerateExcelFileLetter.cs" />
+    <Compile Include="Classes\GetPersonsПолучатеиСоцПоддержки.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Classes\HeadLetterToMinistr.cs" />
+    <Compile Include="Classes\HospitalCount.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Classes\ICommand.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Classes\IItemLetter.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Classes\IFindContract.cs" />
+    <Compile Include="Classes\IPerson.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Classes\ItemLetSumDataAct.cs" />
+    <Compile Include="Classes\ItemLetterToMinistr.cs" />
+    <Compile Include="Classes\Letter.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Classes\ListRegion.cs" />
+    <Compile Include="Classes\Log.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Classes\Monad.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Classes\NameHosp.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Classes\OleDBExecuteQuery.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Classes\PersonRecipient.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Classes\PreferentCategory.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Classes\PrintContractsValidate.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Classes\PrintReestrControl.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Classes\PrintReestrError.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Classes\PullConnectBD.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Classes\QuerySQL.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Classes\ReestrControl.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Classes\ReestrErrorControl.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Classes\ReestrNoPrintDog.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Classes\ReportMSO.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Classes\RepositroyrHospital.cs" />
+    <Compile Include="Classes\RowExcel.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Classes\ShowResultPerson.cs" />
+    <Compile Include="Classes\StatisticaHospital.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Classes\StatisticHospital.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Classes\TabLetter.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Classes\UpdateSearch.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Classes\ValidatContractBD.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Classes\ValidateContract.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Classes\ValidatePrefCategory.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Classes\ValidateRows.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Classes\ValidateЭСРН.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Classes\ValideContract.cs" />
+    <Compile Include="Classes\VipNetLetter.cs" />
+    <Compile Include="Classes\WordLetter.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Classes\WordLetterStatistic.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Classes\WordПолучателиСоцПоддержки.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Classes\WriteBD.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Classes\WriteDbPerson.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Classes\ВидУслуг.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Classes\ВидУслугCompare.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Classes\Время.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Classes\КлассификаторУслуг.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Classes\НаименованиеРайона.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Classes\ПоликлинникиИнн.cs" />
+    <Compile Include="Classes\СтатистикаПректовДоговоров.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Classes\СтрокаСимвол.cs" />
+    <Compile Include="Classes\СуммаДоговоровБезАктов.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Classes\СуммаКоличествоДоговоров.cs" />
+    <Compile Include="Classes\ТаблицаБД.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Classes\УслугиДоговорForComparer.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Classes\ЭлементПисьма.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Classes\ЭСРНvalidate.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="ClassValidRegions\EsrnValid.cs" />
+    <Compile Include="ClassValidRegions\FillPerson.cs" />
+    <Compile Include="ClassValidRegions\Person.cs" />
+    <Compile Include="ClassValidRegions\PersonValidEsrn.cs" />
+    <Compile Include="ClassValidRegions\ValidatePrefCategoryList.cs" />
+    <Compile Include="ClassValidRegions\WriteSity.cs" />
+    <Compile Include="DataClasses1.cs">
+      <DependentUpon>DataClasses1.dbml</DependentUpon>
+    </Compile>
+    <Compile Include="DataClasses1.designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataClasses1.dbml</DependentUpon>
+    </Compile>
+    <Compile Include="DataClasses2.designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataClasses2.dbml</DependentUpon>
+    </Compile>
+    <Compile Include="DataClasses3.designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataClasses3.dbml</DependentUpon>
+    </Compile>
+    <Compile Include="DataClasses4.designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataClasses4.dbml</DependentUpon>
+    </Compile>
+    <Compile Include="DisplayDatePerson\DatePersonForDisplay.cs" />
+    <Compile Include="DisplayDatePerson\DisplayResultValidate.cs" />
+    <Compile Include="DisplayDatePerson\ServicesError.cs" />
+    <Compile Include="DisplayDatePerson\ShowDifference.cs" />
+    <Compile Include="DisplayRegistr\DisplayPerson.cs" />
+    <Compile Include="DisplayRegistr\DisplayRegistrProject.cs" />
+    <Compile Include="DisplayRegistr\ResultValidEsrnDisplay.cs" />
+    <Compile Include="ErrorHandlid\IWriteError.cs" />
+    <Compile Include="ErrorHandlid\WriteErrorFileText.cs" />
+    <Compile Include="FilesRegistr\FileRegistrCopy.cs" />
+    <Compile Include="FiltrPersonForVipNet.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FiltrPersonForVipNet.Designer.cs">
+      <DependentUpon>FiltrPersonForVipNet.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FindEsrnWoW\FindPersonsWow.cs" />
+    <Compile Include="FindEsrnWoW\WritePersonWow.cs" />
+    <Compile Include="FindLettert.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FindLettert.Designer.cs">
+      <DependentUpon>FindLettert.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FindPersonESRN.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FindPersonESRN.Designer.cs">
+      <DependentUpon>FindPersonESRN.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Find\CompareContractPerson.cs" />
+    <Compile Include="Find\FindContract2019.cs" />
+    <Compile Include="Find\FindContract2019Add.cs" />
+    <Compile Include="Find\FindContract2019AddNoValid.cs" />
+    <Compile Include="Find\FindContract2019NoValid.cs" />
+    <Compile Include="Find\FindContractTo2019.cs" />
+    <Compile Include="Find\FindContractTo2019NoValid.cs" />
+    <Compile Include="Find\FindPerson2019.cs" />
+    <Compile Include="Find\FindPersonAftar2019.cs" />
+    <Compile Include="Find\FindPersonAftar2019NoValid.cs" />
+    <Compile Include="Find\FindPersonByFamiliName.cs" />
+    <Compile Include="Find\FindPersonByNumberContract.cs" />
+    <Compile Include="Find\FindPersonByNumberNoValid.cs" />
+    <Compile Include="Find\FindPersonESRN_FIO.cs" />
+    <Compile Include="Find\FindPersonFamili.cs" />
+    <Compile Include="Find\FIndPersonFamili2019Aftar.cs" />
+    <Compile Include="Find\FIndPersonFamili2019AftarNoValid.cs" />
+    <Compile Include="Find\FindPersonFamili2019NoValid.cs" />
+    <Compile Include="Find\FindPersonFamiliTableAdd.cs" />
+    <Compile Include="Find\FindPersonFamiliTableAddNoValid.cs" />
+    <Compile Include="Find\FindPersonFamiliTo2019.cs" />
+    <Compile Include="Find\FindPersonFamiliTo2019NoValid.cs" />
+    <Compile Include="Find\FindPersonFio2019.cs" />
+    <Compile Include="Find\FIndPersonFio2019Aftar.cs" />
+    <Compile Include="Find\FIndPersonFio2019AftarNoValid.cs" />
+    <Compile Include="Find\FindPersonFio2019NoValid.cs" />
+    <Compile Include="Find\FindPersonFioTableAdd.cs" />
+    <Compile Include="Find\FindPersonFioTableAddNoValid.cs" />
+    <Compile Include="Find\FindPersonFioTo2019.cs" />
+    <Compile Include="Find\FindPersonFioTo2019NoValid.cs" />
+    <Compile Include="Find\FindPersonFirstNameNameNoValid.cs" />
+    <Compile Include="Find\FindPersonForNumberLetter.cs" />
+    <Compile Include="Find\FindPersonNumContract.cs" />
+    <Compile Include="Find\FindPersonNumContractItem.cs" />
+    <Compile Include="Find\FindPerson_FI.cs" />
+    <Compile Include="Find\IFindPerson.cs" />
+    <Compile Include="Fire\FireHelp.cs" />
+    <Compile Include="Fire\HelpFireЛьготнаяКатегория.cs" />
+    <Compile Include="Fire\IFireExecute.cs" />
+    <Compile Include="FirstLoadHospital.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FirstLoadHospital.Designer.cs">
+      <DependentUpon>FirstLoadHospital.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormConfig.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormConfig.Designer.cs">
+      <DependentUpon>FormConfig.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormConfigSearch.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormConfigSearch.Designer.cs">
+      <DependentUpon>FormConfigSearch.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormConfigРайон.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormConfigРайон.Designer.cs">
+      <DependentUpon>FormConfigРайон.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormControlContract.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormControlContract.Designer.cs">
+      <DependentUpon>FormControlContract.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormDalogWriteBD.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormDalogWriteBD.Designer.cs">
+      <DependentUpon>FormDalogWriteBD.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormDate.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormDate.Designer.cs">
+      <DependentUpon>FormDate.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormDepartment.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormDepartment.Designer.cs">
+      <DependentUpon>FormDepartment.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormDispContract.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormDispContract.Designer.cs">
+      <DependentUpon>FormDispContract.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormDisplayError.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormDisplayError.Designer.cs">
+      <DependentUpon>FormDisplayError.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormDisplayReestr.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormDisplayReestr.Designer.cs">
+      <DependentUpon>FormDisplayReestr.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormEditDateHospital.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormEditDateHospital.Designer.cs">
+      <DependentUpon>FormEditDateHospital.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormEditВидУслуг.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormEditВидУслуг.Designer.cs">
+      <DependentUpon>FormEditВидУслуг.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormError.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormError.Designer.cs">
+      <DependentUpon>FormError.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormErrors.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormErrors.Designer.cs">
+      <DependentUpon>FormErrors.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormExcel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormExcel.Designer.cs">
+      <DependentUpon>FormExcel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormHeadDepartment.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormHeadDepartment.Designer.cs">
+      <DependentUpon>FormHeadDepartment.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormInfoЛьготник.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormInfoЛьготник.Designer.cs">
+      <DependentUpon>FormInfoЛьготник.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormInv.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormInv.Designer.cs">
+      <DependentUpon>FormInv.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormKey.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormKey.Designer.cs">
+      <DependentUpon>FormKey.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormLimitMoney.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormLimitMoney.Designer.cs">
+      <DependentUpon>FormLimitMoney.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormMessage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormMessage.Designer.cs">
+      <DependentUpon>FormMessage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormMessageAct.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormMessageAct.Designer.cs">
+      <DependentUpon>FormMessageAct.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormModalPerson.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormModalPerson.Designer.cs">
+      <DependentUpon>FormModalPerson.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormPrintContract.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormPrintContract.Designer.cs">
+      <DependentUpon>FormPrintContract.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormReestr.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormReestr.Designer.cs">
+      <DependentUpon>FormReestr.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormReestrDate.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormReestrDate.Designer.cs">
+      <DependentUpon>FormReestrDate.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormReestrDisplay.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormReestrDisplay.Designer.cs">
+      <DependentUpon>FormReestrDisplay.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormRegions.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormRegions.Designer.cs">
+      <DependentUpon>FormRegions.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormRegistrProjectList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormRegistrProjectList.Designer.cs">
+      <DependentUpon>FormRegistrProjectList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormReportPrint.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormReportPrint.Designer.cs">
+      <DependentUpon>FormReportPrint.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormSelect.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormSelect.Designer.cs">
+      <DependentUpon>FormSelect.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormSelectHeadDepartment.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormSelectHeadDepartment.Designer.cs">
+      <DependentUpon>FormSelectHeadDepartment.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormSelectLimitMoney.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormSelectLimitMoney.Designer.cs">
+      <DependentUpon>FormSelectLimitMoney.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormSelectПостановление.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormSelectПостановление.Designer.cs">
+      <DependentUpon>FormSelectПостановление.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormStatistic.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormStatistic.Designer.cs">
+      <DependentUpon>FormStatistic.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormSum.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormSum.Designer.cs">
+      <DependentUpon>FormSum.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormValidContract.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormValidContract.Designer.cs">
+      <DependentUpon>FormValidContract.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormValidOut.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormValidOut.Designer.cs">
+      <DependentUpon>FormValidOut.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormValidOutEsrn.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormValidOutEsrn.Designer.cs">
+      <DependentUpon>FormValidOutEsrn.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormWriteBD.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormWriteBD.Designer.cs">
+      <DependentUpon>FormWriteBD.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormИсправленияУслугДоговоров.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormИсправленияУслугДоговоров.Designer.cs">
+      <DependentUpon>FormИсправленияУслугДоговоров.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormОжидание.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormОжидание.Designer.cs">
+      <DependentUpon>FormОжидание.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormПостановление.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormПостановление.Designer.cs">
+      <DependentUpon>FormПостановление.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormСписокПолучателей.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormСписокПолучателей.Designer.cs">
+      <DependentUpon>FormСписокПолучателей.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LetterClassess\ILetter.cs" />
+    <Compile Include="LetterClassess\АтрибутПисьма.cs" />
+    <Compile Include="LetterClassess\НеПодтвержденные.cs" />
+    <Compile Include="LetterClassess\ПодтвержденныеПисьма.cs" />
+    <Compile Include="MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainForm.Designer.cs">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MyMessage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MyMessage.Designer.cs">
+      <DependentUpon>MyMessage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ReceptionContractsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ReceptionContractsForm.Designer.cs">
+      <DependentUpon>ReceptionContractsForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ReceptionDocuments\DisplayContract.cs" />
+    <Compile Include="ReceptionDocuments\IPrintBalance.cs" />
+    <Compile Include="ReceptionDocuments\IPrintContract.cs" />
+    <Compile Include="ReceptionDocuments\IValideCore.cs" />
+    <Compile Include="ReceptionDocuments\Preveliget.cs" />
+    <Compile Include="ReceptionDocuments\PrintBalance.cs" />
+    <Compile Include="ReceptionDocuments\PrintContract.cs" />
+    <Compile Include="ReceptionDocuments\Registr.cs" />
+    <Compile Include="ReceptionDocuments\ValidateЛьготник.cs" />
+    <Compile Include="Reports\AbstractFactory.cs" />
+    <Compile Include="Reports\FindNumRegistr.cs" />
+    <Compile Include="Reports\FindReestrInvoce.cs" />
+    <Compile Include="Reports\FIndRegistrInvoiceAndNumRegistr.cs" />
+    <Compile Include="Reports\IPrintReport.cs" />
+    <Compile Include="Reports\IReport.cs" />
+    <Compile Include="Reports\IReportingRegistrFindNum.cs" />
+    <Compile Include="Reports\IReportingRegistrInvoiceAndNumRegistr.cs" />
+    <Compile Include="Reports\IReportRegistr.cs" />
+    <Compile Include="Reports\ItemReportLimitLBO.cs" />
+    <Compile Include="Reports\PrintRegistr.cs" />
+    <Compile Include="Reports\PrintReport.cs" />
+    <Compile Include="Reports\PrintReportForYear.cs" />
+    <Compile Include="Reports\PrintReportLimitLBO.cs" />
+    <Compile Include="Reports\PrintReportStatistic.cs" />
+    <Compile Include="Reports\Registr.cs" />
+    <Compile Include="Reports\ReportInformToYear.cs" />
+    <Compile Include="Reports\ReportInformToYearM.cs" />
+    <Compile Include="Reports\ReportRegistr.cs" />
+    <Compile Include="ReportVipNet\ExcelFileSave.cs" />
+    <Compile Include="ReportVipNet\FiltrPerson.cs" />
+    <Compile Include="ReportVipNet\IAddress.cs" />
+    <Compile Include="ReportVipNet\IDocRegistr.cs" />
+    <Compile Include="ReportVipNet\IFile.cs" />
+    <Compile Include="ReportVipNet\IPerson.cs" />
+    <Compile Include="ReportVipNet\IPersonRegistr.cs" />
+    <Compile Include="ReportVipNet\IRegistr.cs" />
+    <Compile Include="ReportVipNet\Person.cs" />
+    <Compile Include="ReportVipNet\Registr.cs" />
+    <Compile Include="ReportVipNet\WordPageVipNet.cs" />
+    <Compile Include="Repository\DataClasses1.designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataClasses1.dbml</DependentUpon>
+    </Compile>
+    <Compile Include="Repository\FakeRepository.cs" />
+    <Compile Include="Repository\FiltrRepositoryГород.cs" />
+    <Compile Include="Repository\FiltrRepositoryДоговор.cs" />
+    <Compile Include="Repository\IFiltrHospital.cs" />
+    <Compile Include="Repository\IFiltrRepository.cs" />
+    <Compile Include="Repository\IRepository.cs" />
+    <Compile Include="Repository\IReppositorySelectAll.cs" />
+    <Compile Include="Repository\ISelect.cs" />
+    <Compile Include="Repository\ISelectAll.cs" />
+    <Compile Include="Repository\ISelectId.cs" />
+    <Compile Include="Repository\LimitMoneyRepository.cs" />
+    <Compile Include="Repository\LimitPreferenceCategoryRepository.cs" />
+    <Compile Include="Repository\ListNumberProjectRepository.cs" />
+    <Compile Include="Repository\ProjectRegistrFilesRepository.cs" />
+    <Compile Include="Repository\RepositoryДоговорWhere.cs" />
+    <Compile Include="Repository\UnitDate.cs" />
+    <Compile Include="Repository\ViewЛьготникДоговорРеестрRepository.cs" />
+    <Compile Include="Repository\YearRepository.cs" />
+    <Compile Include="Repository\ДоговорAddRepository.cs" />
+    <Compile Include="Repository\ДоговорRepository.cs" />
+    <Compile Include="Repository\ИннHosp.cs" />
+    <Compile Include="Repository\ЛьготнаяКатегорияRepository.cs" />
+    <Compile Include="Repository\ЛЬготникAddRepository.cs" />
+    <Compile Include="Repository\ЛьготникRepository.cs" />
+    <Compile Include="Repository\НаселенныйПунктRepository.cs" />
+    <Compile Include="Repository\ПоликлинникаИННRepository.cs" />
+    <Compile Include="Repository\УслугиПоДоговоруAddRepository.cs" />
+    <Compile Include="Repository\УслугиПоДоговоруRepository.cs" />
+    <Compile Include="Repozirories\DataClasses1.designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataClasses1.dbml</DependentUpon>
+    </Compile>
+    <Compile Include="Repozirories\IRepository.cs" />
+    <Compile Include="Repozirories\IRepositoryDocVipNet.cs" />
+    <Compile Include="Repozirories\NameOrganizationVipNetRepository.cs" />
+    <Compile Include="Repozirories\ReportDataToList.cs" />
+    <Compile Include="Repozirories\ReportYear.cs" />
+    <Compile Include="Repozirories\ReportYearRepozitory.cs" />
+    <Compile Include="IServicesContract.cs" />
+    <Compile Include="Repozirories\RepositoryRegion.cs" />
+    <Compile Include="Repozirories\RepositoryViewPersonVipNet.cs" />
+    <Compile Include="Repozirories\RepositoryViewPersonVipNet2.cs" />
+    <Compile Include="Repozirories\UnitWork.cs" />
+    <Compile Include="UnpaidStatistic\PreferencCategory.cs" />
+    <Compile Include="UnpaidStatistic\QueryBalance.cs" />
+    <Compile Include="UnpaidStatistic\ReportBalanceStatistic.cs" />
+    <Compile Include="ValidateMedicalServices\ValidateServicesMedical.cs" />
+    <Compile Include="ValidateRegistrProject\EsrnValidate.cs" />
+    <Compile Include="ValidateRegistrProject\IInvoice.cs" />
+    <Compile Include="ValidateRegistrProject\IRegisterForPayment.cs" />
+    <Compile Include="ValidateRegistrProject\IRegistrItem.cs" />
+    <Compile Include="ValidateRegistrProject\IVisableRegistrs.cs" />
+    <Compile Include="ValidateRegistrProject\RegistrItemInvoke.cs" />
+    <Compile Include="ValidateRegistrProject\RegistrProject.cs" />
+    <Compile Include="ValidateRegistrProject\RegistrProjectContract.cs" />
+    <Compile Include="ValidateRegistrProject\TestClass.cs" />
+    <Compile Include="ValidPersonContract\CompareContract.cs" />
+    <Compile Include="ValidPersonContract\CompareContractForNumber.cs" />
+    <Compile Include="ValidPersonContract\DocPrint.cs" />
+    <Compile Include="ValidPersonContract\IValidatePersonContract.cs" />
+    <Compile Include="ValidPersonContract\IWordPrint.cs" />
+    <Compile Include="ValidPersonContract\IWriteNumContract.cs" />
+    <Compile Include="ValidPersonContract\PersonParametr.cs" />
+    <Compile Include="ValidPersonContract\StringParametr.cs" />
+    <Compile Include="ValidPersonContract\Valid2019.cs" />
+    <Compile Include="ValidPersonContract\Valid2019TabAdd.cs" />
+    <Compile Include="ValidPersonContract\ValidAfter2019.cs" />
+    <Compile Include="ValidPersonContract\ValidContractForPerson.cs" />
+    <Compile Include="ValidPersonContract\ValidContractPayment.cs" />
+    <Compile Include="ValidPersonContract\ValidItemsContract.cs" />
+    <Compile Include="ValidPersonContract\ValidTo2019.cs" />
+    <Compile Include="ValidPersonContract\WordReport.cs" />
+    <Compile Include="ValidPersonContract\WriteNumContract.cs" />
+    <Compile Include="ValidPersonRegion\PersonAddress.cs" />
+    <Compile Include="ValidPersonRegion\Region.cs" />
+    <Compile Include="WriteClassDB\Contract.cs" />
+    <Compile Include="WriteClassDB\FindPerson.cs" />
+    <Compile Include="WriteClassDB\IAddHospital.cs" />
+    <Compile Include="WriteClassDB\IContract.cs" />
+    <Compile Include="WriteClassDB\IHospital.cs" />
+    <Compile Include="WriteClassDB\InsertDateHospital.cs" />
+    <Compile Include="WriteClassDB\IQueryServices.cs" />
+    <Compile Include="WriteClassDB\ISity.cs" />
+    <Compile Include="WriteClassDB\IStringQuery.cs" />
+    <Compile Include="WriteClassDB\IЛьготникFull.cs" />
+    <Compile Include="WriteClassDB\NameSity.cs" />
+    <Compile Include="WriteClassDB\SelectHjspital.cs" />
+    <Compile Include="WriteClassDB\StringQueryAdd.cs" />
+    <Compile Include="WriteClassDB\WriteServices.cs" />
+    <Compile Include="WriteClassDB\WriteServicesAdd.cs" />
+    <Compile Include="WriteClassDB\WriteServicesContract.cs" />
+    <Compile Include="WriteClassDB\ЛьготникFull.cs" />
+    <Compile Include="WriteClassess.cs" />
+    <Compile Include="WriteClassDB\IЛьготник.cs" />
+    <Compile Include="WriteClassDB\StringQuery.cs" />
+    <Compile Include="СhangeAkt.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="СhangeAkt.Designer.cs">
+      <DependentUpon>СhangeAkt.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="FiltrPersonForVipNet.resx">
+      <DependentUpon>FiltrPersonForVipNet.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FindLettert.resx">
+      <DependentUpon>FindLettert.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FindPersonESRN.resx">
+      <DependentUpon>FindPersonESRN.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FirstLoadHospital.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>FirstLoadHospital.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormConfig.resx">
+      <DependentUpon>FormConfig.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormConfigSearch.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>FormConfigSearch.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormConfigРайон.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>FormConfigРайон.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormControlContract.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>FormControlContract.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormDalogWriteBD.resx">
+      <DependentUpon>FormDalogWriteBD.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormDate.resx">
+      <DependentUpon>FormDate.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormDepartment.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>FormDepartment.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormDispContract.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>FormDispContract.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormDisplayError.resx">
+      <DependentUpon>FormDisplayError.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormDisplayReestr.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>FormDisplayReestr.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormEditDateHospital.resx">
+      <DependentUpon>FormEditDateHospital.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormEditВидУслуг.resx">
+      <DependentUpon>FormEditВидУслуг.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormError.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>FormError.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormErrors.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>FormErrors.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormExcel.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>FormExcel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormHeadDepartment.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>FormHeadDepartment.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormInfoЛьготник.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>FormInfoЛьготник.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormInv.resx">
+      <DependentUpon>FormInv.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormLimitMoney.resx">
+      <DependentUpon>FormLimitMoney.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormMessage.resx">
+      <DependentUpon>FormMessage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormMessageAct.resx">
+      <DependentUpon>FormMessageAct.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormModalPerson.resx">
+      <DependentUpon>FormModalPerson.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormPrintContract.resx">
+      <DependentUpon>FormPrintContract.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormReestr.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>FormReestr.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormReestrDate.resx">
+      <DependentUpon>FormReestrDate.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormReestrDisplay.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>FormReestrDisplay.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormRegions.resx">
+      <DependentUpon>FormRegions.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormRegistrProjectList.resx">
+      <DependentUpon>FormRegistrProjectList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormReportPrint.resx">
+      <DependentUpon>FormReportPrint.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormSelect.resx">
+      <DependentUpon>FormSelect.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormSelectHeadDepartment.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>FormSelectHeadDepartment.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormSelectLimitMoney.resx">
+      <DependentUpon>FormSelectLimitMoney.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormSelectПостановление.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>FormSelectПостановление.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormStatistic.resx">
+      <DependentUpon>FormStatistic.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormSum.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>FormSum.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormValidContract.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>FormValidContract.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormValidOut.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>FormValidOut.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormValidOutEsrn.resx">
+      <DependentUpon>FormValidOutEsrn.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormWriteBD.resx">
+      <DependentUpon>FormWriteBD.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormИсправленияУслугДоговоров.resx">
+      <DependentUpon>FormИсправленияУслугДоговоров.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormОжидание.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>FormОжидание.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormПостановление.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>FormПостановление.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormСписокПолучателей.resx">
+      <DependentUpon>FormСписокПолучателей.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainForm.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MyMessage.resx">
+      <DependentUpon>MyMessage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="ReceptionContractsForm.resx">
+      <DependentUpon>ReceptionContractsForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Repository\DataClasses1.dbml.layout">
+      <DependentUpon>DataClasses1.dbml</DependentUpon>
+    </None>
+    <EmbeddedResource Include="СhangeAkt.resx">
+      <DependentUpon>СhangeAkt.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="app.config">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="bin\Debug\asd\Шаблон проектов договоров.doc" />
+    <None Include="bin\Debug\ControlDantist.exe.config" />
+    <None Include="bin\Debug\ControlDantist.vshost.exe.config" />
+    <None Include="bin\Debug\ControlDantist.vshost.exe.manifest" />
+    <None Include="bin\Debug\DantistLibrary.dll1" />
+    <None Include="bin\Debug\MSWORD.OLB" />
+    <None Include="bin\Debug\Стоматполиклиника № 1_1.xls" />
+    <None Include="bin\Debug\Шаблон.7z" />
+    <None Include="bin\Debug\Шаблон\~%24блон служебной записки на оплату.doc" />
+    <None Include="bin\Debug\Шаблон\Мин-во По заключ договорам и численности.doc" />
+    <None Include="bin\Debug\Шаблон\Отчёт по поликлинникам.doc" />
+    <None Include="bin\Debug\Шаблон\Письмо  Возврат.doc" />
+    <None Include="bin\Debug\Шаблон\Письмо В работу.doc" />
+    <None Include="bin\Debug\Шаблон\Письмо возмещение расходов.doc" />
+    <None Include="bin\Debug\Шаблон\Письмо на возврат.doc" />
+    <None Include="bin\Debug\Шаблон\Реестр ошибочных сведений.doc" />
+    <None Include="bin\Debug\Шаблон\Реестр.doc" />
+    <None Include="bin\Debug\Шаблон\Список договоров.doc" />
+    <None Include="bin\Debug\Шаблон\Список дублированных договоров.doc" />
+    <None Include="bin\Debug\Шаблон\Шаблон VipNet.doc" />
+    <None Include="bin\Debug\Шаблон\Шаблон проектов договоров.doc" />
+    <None Include="bin\Debug\Шаблон\Шаблон служебной записки на оплату.doc" />
+    <None Include="bin\Release\ControlDantist.exe.config" />
+    <None Include="bin\Release\ControlDantist.vshost.exe.config" />
+    <None Include="bin\Release\Шаблон\~%24блон служебной записки на оплату.doc" />
+    <None Include="bin\Release\Шаблон\Мин-во По заключ договорам и численности.doc" />
+    <None Include="bin\Release\Шаблон\Отчёт по поликлинникам.doc" />
+    <None Include="bin\Release\Шаблон\Письмо  Возврат.doc" />
+    <None Include="bin\Release\Шаблон\Письмо В работу.doc" />
+    <None Include="bin\Release\Шаблон\Письмо на возврат.doc" />
+    <None Include="bin\Release\Шаблон\Реестр ошибочных сведений.doc" />
+    <None Include="bin\Release\Шаблон\Реестр.doc" />
+    <None Include="bin\Release\Шаблон\Список договоров.doc" />
+    <None Include="bin\Release\Шаблон\Шаблон служебной записки на оплату.doc" />
+    <None Include="DataClasses1.dbml">
+      <Generator>MSLinqToSQLGenerator</Generator>
+      <LastGenOutput>DataClasses1.designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="DataClasses1.dbml.layout">
+      <DependentUpon>DataClasses1.dbml</DependentUpon>
+    </None>
+    <None Include="DataClasses2.dbml">
+      <Generator>MSLinqToSQLGenerator</Generator>
+      <LastGenOutput>DataClasses2.designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="DataClasses2.dbml.layout">
+      <DependentUpon>DataClasses2.dbml</DependentUpon>
+    </None>
+    <None Include="DataClasses3.dbml">
+      <Generator>MSLinqToSQLGenerator</Generator>
+      <LastGenOutput>DataClasses3.designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="DataClasses3.dbml.layout">
+      <DependentUpon>DataClasses3.dbml</DependentUpon>
+    </None>
+    <None Include="DataClasses4.dbml">
+      <Generator>MSLinqToSQLGenerator</Generator>
+      <LastGenOutput>DataClasses4.designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="DataClasses4.dbml.layout">
+      <DependentUpon>DataClasses4.dbml</DependentUpon>
+    </None>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="Repository\DataClasses1.dbml">
+      <Generator>MSLinqToSQLGenerator</Generator>
+      <LastGenOutput>DataClasses1.designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Repozirories\DataClasses1.dbml">
+      <Generator>MSLinqToSQLGenerator</Generator>
+      <LastGenOutput>DataClasses1.designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Repozirories\DataClasses1.dbml.layout">
+      <DependentUpon>DataClasses1.dbml</DependentUpon>
+    </None>
+    <None Include="Шаблон\Отчёт по поликлинникам.doc" />
+    <None Include="Шаблон\Письмо  Возврат.doc" />
+    <None Include="Шаблон\Реестр.doc" />
+    <None Include="Шаблон\Шаблон служебной записки на оплату.doc" />
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="Excel">
+      <Guid>{00020813-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>5</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="asd.ico" />
+    <Content Include="bin\Debug\asd\ControlDantist.exe" />
+    <Content Include="bin\Debug\CarlosAg.ExcelXmlWriter.dll" />
+    <Content Include="bin\Debug\ClassLibrary1.dll" />
+    <Content Include="bin\Debug\ClassLibrary1.pdb" />
+    <Content Include="bin\Debug\Config.dll" />
+    <Content Include="bin\Debug\ControlDantist.exe" />
+    <Content Include="bin\Debug\ControlDantist.pdb" />
+    <Content Include="bin\Debug\ControlDantist.vshost.exe" />
+    <Content Include="bin\Debug\DantistLibrary.dll" />
+    <Content Include="bin\Debug\DantistLibrary.pdb" />
+    <Content Include="bin\Debug\ExcelLibrary.dll" />
+    <Content Include="bin\Debug\Microsoft.Office.Interop.Word.dll" />
+    <Content Include="bin\Release\Config.dll" />
+    <Content Include="bin\Release\ControlDantist.exe" />
+    <Content Include="bin\Release\ControlDantist.pdb" />
+    <Content Include="bin\Release\ControlDantist.vshost.exe" />
+    <Content Include="bin\Release\ControlDantistA66Asd.exe" />
+    <Content Include="bin\Release\DantistLibrary.dll" />
+    <Content Include="DantistLibrary.dll" />
+    <Content Include="Library\CarlosAg.ExcelXmlWriter.dll" />
+    <Content Include="Library\ExcelLibrary.dll" />
+    <Content Include="Microsoft.Office.Interop.Word.dll" />
+    <Content Include="time12.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="bin\Debug\Документы\" />
+    <Folder Include="bin\Release\Документы\" />
+    <Folder Include="Документы\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{3259AA49-8AA1-44D3-9025-A0B520596A8C}" />
+    <Service Include="{508349B6-6B84-4DF5-91F0-309BEEBAD82D}" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.0">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4 %28x86 и x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>Клиентский профиль .NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Установщик Windows 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
